@@ -398,7 +398,7 @@ class Configuration:
                 "help": "Number of nodes to use (SLURM --nodes)."
             },
             "n-ranks-per-node": {
-                "value": 1,
+                "value": 20,
                 "type": "int",
                 "help": "Number of MPI ranks per node to use (SLURM --ntasks-per-node)."
             },
@@ -408,7 +408,7 @@ class Configuration:
                 "help": "Number of CPUs per rank to use (SLURM --cpus-per-task) for MMseqs2. Total number of CPU cores per node needed = n-ranks-per-node * n-cpus-per-rank."   
             },
             "data-path": {
-                "value": "/scicore/home/schwede/GROUP/gcsnap_db/",
+                "value": "/storage/shared/msc/gcsnap_data/",
                 "type": "str",
                 "help": "Path to the data folder."
             },
@@ -448,7 +448,7 @@ class Configuration:
                 "help": "Number of flanking sequences to take on 3' end."
             },
             "exclude-partial": {
-                "value": True,
+                "value": False,
                 "type": "bool",
                 "help": "Exclude partial operon/genomic_context blocks. If turned off, partial cases will still be ignored to get the most common genomic features."
             },
