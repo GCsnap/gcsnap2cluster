@@ -1,6 +1,7 @@
 import os
 import subprocess
 import numpy as np
+from collections import Counter
 # pip install scipy
 from scipy.cluster import hierarchy
 from scipy.spatial import distance
@@ -201,7 +202,41 @@ class MMseqsCluster:
                     distance_matrix[query_index][target_index] = 0
                     distance_matrix[target_index][query_index] = 0
 
-        self.distance_matrix = np.array(distance_matrix)      
+        self.distance_matrix = np.array(distance_matrix)    
+
+    def extract_distance_matrix_new(self) -> None:
+        """
+        Create distance matrix 
+        size for testing the clustering and restricting the result array. if =0, the full array
+        """    
+        # crate base distance matrix
+        # Initialize the distance matrix with 10s
+        size = len(self.cluster_order)
+        distance_matrix = np.full((size, size), self.default_base, dtype=np.int8)
+        np.fill_diagonal(distance_matrix, 0)
+        
+        queries_labels = {query: i for i, query in enumerate(self.cluster_order)}
+
+        # read mmseqs results
+        with open(self.mmseqs_results, 'r') as f:
+            mmseqs_records = f.readlines()
+
+        # Parse mmseqs results and update the distance matrix
+        for hsp in mmseqs_records:
+            hsp = hsp.split()
+            if len(hsp) > 0:
+                query = hsp[0].split('|')[0]
+                target = hsp[1].split('|')[0]
+        
+                if target != query:  # Only update off-diagonal values
+                    query_index = queries_labels[query]
+                    target_index = queries_labels[target]
+        
+                    # Update matrix symmetrically
+                    distance_matrix[query_index, target_index] = 0
+                    distance_matrix[target_index, query_index] = 0  
+                    
+        self.distance_matrix = np.array(distance_matrix)        
 
     def find_clusters(self, t: int = 0) -> None:
         """
@@ -232,3 +267,19 @@ class MMseqsCluster:
 
         self.cluster_list = new_clusters_list
   
+    def mask_singleton_clusters_new(self, mask: int = 0) -> None:
+        """
+        Mask singleton clusters.
+
+        Args:
+            cluster_list (list): List of cluster assignments.
+            mask (int, optional): The value to mask the singleton clusters. Defaults to 0.
+
+        Returns:
+            list: A new list with singleton clusters masked.
+        """
+        # Count occurrences of each value
+        counts = Counter(self.cluster_list)
+        
+        # Replace singletons with the mask
+        self.cluster_list = [mask if counts[value] == 1 else value for value in self.cluster_list]
