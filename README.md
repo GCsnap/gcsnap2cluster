@@ -13,7 +13,7 @@ Thank you for using and showing interest on GCsnap!
 
 ## Date requirements
 As designed to run on a cluster, GCsnap requires the needed data to be locally available.  
-The structure looks like this, the source is given in parantheses:
+The structure looks like this, the source are given below:
 ```
 data-path as defined in config.yaml or via CLI  
   ├── genbank  
@@ -77,11 +77,8 @@ It was tested with Ubuntu. The problem is that Conda environments created under 
 So we created it on the Login node of sciCORE and **not** on the Schwede worker node.
 ```
 # To download
-git clone https://github.com/RetoKrummenacher/GCsnap
-cd GCsnap
-
-# Change to new developpment branch 
-git checkout gcsnap2cluster
+git clone https://github.com/GCsnap/gcsnap2cluster.git
+cd gcsnap2cluster
 
 # To install
 conda create -n GCsnapC -c conda-forge -c bioconda gcc=14.1 mpich=4.2.2 python=3.11 mmseqs2
@@ -99,7 +96,7 @@ GCsnap takes as main input a list of sequence identifiers, which can be in **Ent
   
 ## Usage
 
-To execute it on sciCORE, please refer to the scripts in [SLURM scripts](/slurm_scripts) folder. However, it is also working from terminal in a similar way as GCsnap2.0 Desktop version but with the use of srun:
+To execute it on a cluster, please refer to the scripts in [SLURM scripts](/slurm_scripts) folder. However, it is also working from terminal in a similar way as GCsnap2.0 Desktop version but with the use of srun:
 ```
-srun --mpi=pmi2 -N 2 --ntasks-per-node=4 python -m mpi4py.futures ./gcsnap/__main__.py --n-nodes 2 --n-cpu-per-node 4 --targets /scicore/home/schwede/kruret00/MT/experiments/targets/target_sequences_10.txt
+srun --mpi=pmi2 -N 2 --ntasks-per-node=4 python -m mpi4py.futures ./gcsnap/__main__.py --n-nodes 2 --n-cpu-per-node 4 --targets ./examples/target_sequences_10.txt
 ```
