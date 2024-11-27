@@ -1,6 +1,5 @@
 import json
 import os
-import requests
 
 from gcsnap.mapping import SequenceMapping
 from gcsnap.configuration import Configuration
