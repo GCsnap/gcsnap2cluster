@@ -88,8 +88,10 @@ class Assemblies:
 
         with self.console.status('Download assemblies and extract flanking genes'):
             dict_list = ParallelTools.parallel_wrapper(parallel_args, self.run_each)
+            # # uncomment this to exctract a list of needed assembly files to run evaluation. Those were added to the sequences.db
+            # return dict_list
+        
             # combine results
-
             self.flanking_genes = {k: v for d in dict_list for k, v in d.items() 
                                    if v.get('flanking_genes') is not None}
             not_found = {k: v for d in dict_list for k, v in d.items() 
@@ -135,8 +137,9 @@ class Assemblies:
         # get the assembly urls
         # the result is a list of tuples with (target, ncbi_code, accession, url, taxid, species)
         info_tuples = self.get_assembly_info(accession_tuples)
-        # used to exctract a list of needed assembly files to run evaluation. Those were added to the sequences.db
-        #return target_tuples 
+
+        # # uncomment this to exctract a list of needed assembly files to run evaluation. Those were added to the sequences.db
+        # return info_tuples 
 
         # loop over all targets and download and extract flanking genes
         flanking_genes = {}
@@ -192,7 +195,7 @@ class Assemblies:
         # select from database
         assembly_db = AssembliesDBHandler(os.path.join(self.database_path))
         # get the assemblies accession for the ncbi codes (from default table 'mapping')
-        result_tuples = assembly_db.select(ncbi_codes)
+        result_tuples = assembly_db.select(ncbi_codes, request_size = 5000)
 
         # combine the targets, the ncbi_codes and the acessions
         return [(target, ncbi, accession) for target, ncbi in target_tuples 
@@ -213,7 +216,7 @@ class Assemblies:
 
         assembly_db = AssembliesDBHandler(os.path.join(self.database_path))
         # get the url and taxid and the species name for the assembly accessions
-        result_tuples = assembly_db.select(assembly_accessions, table = 'assemblies')
+        result_tuples = assembly_db.select(assembly_accessions, table = 'assemblies', request_size = 20000)
 
         # combine the targets, the ncbi_codes and the acessions
         return [(target, ncbi, accession, url, taxid, species) 
@@ -294,7 +297,10 @@ class Assemblies:
                             val.startswith('##sequence-region')] + [len(lines)-1]   
              
         # line number of target
-        target_position = [index for index, val in enumerate(lines) if target_ncbi_code in val]
+        target_position = [index for index, val in enumerate(lines) 
+                    if 'ID=cds-{}'.format(target_ncbi_code) in val or
+                    'Name={}'.format(target_ncbi_code) in val or
+                    'protein_id={}'.format(target_ncbi_code) in val]
         
         if not target_position:
             raise WarningToLog('{} not found in'.format(target_ncbi_code))
