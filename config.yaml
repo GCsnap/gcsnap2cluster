@@ -11,7 +11,7 @@ n-nodes:
     type: int
     help: Number of nodes to use (SLURM --nodes).
 n-ranks-per-node:
-    value: 1
+    value: 4
     type: int
     help: Number of MPI ranks per node to use (SLURM --ntasks-per-node).
 n-cpus-per-rank:
@@ -19,7 +19,7 @@ n-cpus-per-rank:
     type: int
     help: Number of cores per rank to use (SLURM --cpus-per-task) for MMseqs2. Total number of CPU cores per node needed = n-ranks-per-node * n-cpus-per-rank.
 data-path:
-    value: /scicore/home/schwede/GROUP/gcsnap_db/
+    value: /storage/shared/msc/gcsnap_data/
     type: str
     help: Path to the data folder.
 tmp-mmseqs-folder:
