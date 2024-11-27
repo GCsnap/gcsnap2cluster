@@ -1,7 +1,5 @@
 import os
 import shutil
-# TODO: For faster debugging
-import pickle
 
 from gcsnap.rich_console import RichConsole 
 from gcsnap.configuration import Configuration 
@@ -108,10 +106,6 @@ def main():
         targets_and_ncbi_codes = mapping.get_targets_and_ncbi_codes()  
         t_mapping.stop()
 
-        # TODO: For debugging
-        with open('gc.pkl', 'wb') as file:
-            pickle.dump(gc, file) 
-
         # b). Find assembly accession, download and parse assemblies
         t_assemblies = timing.timer('Step 1b: Assemblies')
         assemblies = Assemblies(config, targets_and_ncbi_codes)
@@ -164,15 +158,7 @@ def main():
             taxonomy.run()
             gc.update_taxonomy(taxonomy.get_taxonomy())
             gc.write_taxonomy_to_json('taxonomy.json')     
-            t_taxonomy.stop()
-            
-            # # TODO: For debugging
-            # with open('gc.pkl', 'wb') as file:
-            #     pickle.dump(gc, file)     
-
-            # # TODO: For debugging        
-            # with open('gc.pkl', 'rb') as file:
-            #     gc = pickle.load(file)                      
+            t_taxonomy.stop()                  
 
             # d) Annotate TM   
             t_tm = timing.timer('Step 7: Finding ALL proteins with transmembrane segments')
@@ -209,8 +195,6 @@ def main():
         # # copy log file to working direcotry
         # shutil.copy(os.path.join(starting_directory,'gcsnap.log'), os.getcwd())
 
-    # needed for Dask
-    #parallel.close_cluster()
     t_all.stop()
     timing.to_csv('timing.csv')
     console.print_final()
