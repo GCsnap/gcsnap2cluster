@@ -15,13 +15,8 @@ import datetime
 # import database handlers
 from gcsnap.db_handler_sequences import SequenceDBHandler
 from gcsnap.utils import processpool_wrapper
-
-
-def split_into_batches(lst: list, batch_size: int = 1000):
-    for i in range(0, len(lst), batch_size):
-        # yield produces a generator
-        yield lst[i:i + batch_size]
-        
+from gcsnap.utils import split_list_chunks_size
+      
         
 def split_into_parts(lst: list, n: int) -> list[list]:
     # k, how many times n fits in len(list), m the reminder
@@ -51,14 +46,16 @@ def execute_handlers(handler: SequenceDBHandler, batch: list, n_processes: int) 
     return sequences
 
 def update_dbs(path: str, n_processes: int) -> None:    
+
+    print('{}: Start updating databases'.format(time.ctime(time.time())), flush=True)
+
     # where to create the databases
     db_dir = os.path.join(path, 'db')           
     # open assembly database handler and create tables
     seq_db_handler = SequenceDBHandler(db_dir)   
-    seq_db_handler.disable_indices()
     
-    # number of files to write to in parallel
-    batch_size = n_processes * 500
+    # number of files to write in parallel
+    batch_size = n_processes * 10
     # keep track of sequences and assemblies
     n_assemblies = 0 
     n_sequences = 0
@@ -76,10 +73,11 @@ def update_dbs(path: str, n_processes: int) -> None:
     #file_paths = glob.glob(os.path.join(faa_data_dir,'*_protein.faa.gz'))
 
     # read needed assembly files for experiments: file was created handisch with assemblies_for_cluster.ipynb
-    with open('/scicore/home/schwede/kruret00/MT/assemblies.txt', 'r') as file:
+    with open('/users/stud/k/kruret00/PASC25/targets/assemblies.txt', 'r') as file:
         content = file.read()
     lines = content.splitlines()
     file_names = [line.strip() + '_protein.faa.gz' for line in lines]
+    # file_names = file_names[:1000]
 
     # add path structer
     file_paths =  [os.path.join(path, 'refseq', 'data', file_name) for file_name in file_names if file_name.startswith('GCF')]
@@ -87,40 +85,51 @@ def update_dbs(path: str, n_processes: int) -> None:
             
     # we loop over all those files in batches, each database takes 
     # indexing is switched off to speed up
-    for batch in split_into_batches(file_paths, batch_size):
+    batch_nr = 1
+    batches = split_list_chunks_size(file_paths, batch_size)
+    for batch in batches:
+
+        print('{}: Do batch {} of {}'.format(time.ctime(time.time()), batch_nr, len(batches)), flush=True)
         
         # start the parsing for each handler, in parallel 
         sequence_list = execute_handlers(seq_db_handler, batch, n_processes)
+
+        print('{}:   Files parsed'.format(time.ctime(time.time())), flush=True)
+                        
+        # add sequences
+        seq_db_handler.disable_indices()
+        seq_db_handler.batch_update_sequences(sequence_list)      
+                    
+        # Format numbers with thousand separators
+        print('{}:   {:,} sequences with size {:.2f} MB updated'.format(time.ctime(time.time()), len(sequence_list), sum(len(seq) for _, seq in sequence_list) / (1024 * 1024)), flush=True)    
         
         # keep track of done things
         n_sequences += len(sequence_list)
         n_assemblies += len(batch)
-                
-        # add sequences
-        seq_db_handler.batch_update_sequences(sequence_list)      
-                    
-        # Format numbers with thousand separators
-        formatted_assemblies = "{:,}".format(n_assemblies)
-        formatted_sequences = "{:,}".format(n_sequences)
-        
-        print('{} assemblies and {} sequences done so far'.format(formatted_assemblies, formatted_sequences))           
+        batch_nr += 1      
+
+        print('{}:   {:,} Assemblies and {:,} sequences in total'.format(time.ctime(time.time()), n_assemblies, n_sequences), flush=True) 
             
-    print('All Updating done')
+    print('{}: All Updating done'.format(time.ctime(time.time())),flush=True)
     
+    # 2. Rebuild indices
+    print('{}: Start rebuilding indices'.format(time.ctime(time.time())),flush=True)
+    seq_db_handler.reindex_sequences
+
+    print('{}: Start querying number of entries'.format(time.ctime(time.time())),flush=True)
     # get number of unique sequences
     n_unique = seq_db_handler.select_number_of_entries()
-    seq_db_handler.enable_indices()
 
     return n_assemblies, n_sequences, n_unique                   
 
 # Example usage
 if __name__ == "__main__":    
    
-    n_processes = int(sys.argv[1])
-    # n_processes = 10
+    #n_processes = int(sys.argv[1])
+    n_processes = 20
 
-    path = '/scicore/home/schwede/GROUP/gcsnap_db'
-            
+    path = '/storage/shared/msc/gcsnap_data/'
+           
     st = time.time()
     n_assemblies, n_sequences, n_unique = update_dbs(path, n_processes)
     
@@ -132,6 +141,8 @@ if __name__ == "__main__":
     formatted_sequences = "{:,}".format(n_sequences)
     formatted_unique = "{:,}".format(n_unique)
     
-    print('{} assemblies with {} sequences ({} unique sequences found) done in {}'.
-          format(formatted_assemblies, formatted_sequences, formatted_unique, formatted_time))
+    print('{}: {} assemblies with {} sequences ({} unique sequences found) done in {}'.
+          format(time.ctime(time.time()), formatted_assemblies, formatted_sequences, formatted_unique, formatted_time))
+
+    print('Done')
  

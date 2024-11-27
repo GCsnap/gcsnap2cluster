@@ -127,8 +127,21 @@ class AssembliesDBHandler:
         
     def insert_mappings(self, mappings: list[tuple[str,str,str]]) -> None:
         self.batch_insert_mappings(mappings)
+
+    def select(self, codes: list[str], return_fields: list[str] = None, table: str = 'mappings', request_size: int = 5000) -> list[tuple]:
+        # split the codes into chunks of size request_size, this is only of effect if the workload for each process is large
+        # for instance with 1M sequences and just 10 MPI ranks, each rank has to process 100k sequences which is not efficient for DB requests
+        # For smaller workloads, the loop reduces to just one iteration
+        chunks = [codes[i:i + request_size] for i in range(0, len(codes), request_size)]
+        
+        # get the results for each chunk
+        results = []
+        for codes_chunk in chunks:
+            results += self.select_chunk(codes_chunk, return_fields, table)
+        
+        return results
                 
-    def select(self, codes: list[str], return_fields: list[str] = None, table: str = 'mappings') -> list[tuple]:
+    def select_chunk(self, codes: list[str], return_fields: list[str] = None, table: str = 'mappings') -> list[tuple]:
         # combine query
         
         # which fields to return

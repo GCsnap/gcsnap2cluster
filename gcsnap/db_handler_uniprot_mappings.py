@@ -147,3 +147,15 @@ class UniprotMappingsDBHandler:
         conn.close()
         
         return df
+    
+    def get_columns(self) -> list[str]:
+        conn = sqlite3.connect(self.db)
+        cursor = conn.cursor()
+        cursor.execute('PRAGMA table_info(mappings)')
+        fields = cursor.fetchall()
+        conn.close()
+
+        # Extract column names from the fetched data
+        column_names = [field[1] for field in fields]
+        
+        return column_names

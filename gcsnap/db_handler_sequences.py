@@ -89,9 +89,9 @@ class SequenceDBHandler:
         mapping_list = []
         for file_path in file_paths:
             # accession taken from file name: GCF_000247695.1_HetGla_female_1.0_protein.faa.gz
-            # the first two are the accession
-            assembly_accession = '_'.join(os.path.basename(file_path).split('_')[:2])
-                    
+            # all but the last are the accession
+            assembly_accession = '_'.join(os.path.basename(file_path).split('_')[:-1])
+
             # read the file in once
             if file_path.endswith('.gz'):
                 lines = self.read_gzip_file(file_path)
