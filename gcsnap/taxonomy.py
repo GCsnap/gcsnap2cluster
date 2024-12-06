@@ -142,7 +142,7 @@ class Taxonomy:
 
         return taxonomy
 
-    def find_taxonomies(self, taxids: list) -> dict:
+    def find_taxonomies_old(self, taxids: list) -> dict:
         """
         Find taxonomies for all flanking genes in the file rankedlineage.dmp.
         Details about the file can be found here:https://ftp.ncbi.nih.gov/pub/taxonomy/new_taxdump/taxdump_readme.txt
@@ -193,7 +193,7 @@ class Taxonomy:
 
         return clean_taxonomy
 
-    def find_taxonomies_new(self, taxids: list) -> dict:
+    def find_taxonomies(self, taxids: list) -> dict:
         """
         Find taxonomies for all flanking genes in the file rankedlineage.dmp.
         Details about the file can be found here:https://ftp.ncbi.nih.gov/pub/taxonomy/new_taxdump/taxdump_readme.txt
