@@ -1,6 +1,6 @@
 # GCsnap2.0 Cluster
 
-This is the implementation of GCsnap2.0 designed to run on sciCORE managed with SLURM under Ubuntu.
+This is the implementation of GCsnap2.0 designed to run on HPC cluster. 
 
 GCsnap is a flexible Python-based tool that allows for the interactive comparison of the genomic contexts of protein-coding genes from any genome at any taxonomic level, integrating them with functional and structural information for any of the genes shown. 
 
@@ -96,7 +96,7 @@ GCsnap takes as main input a list of sequence identifiers, which can be in **Ent
   
 ## Usage
 
-To execute it on a cluster, please refer to the scripts in [SLURM scripts](/slurm_scripts) folder. However, it is also working from terminal in a similar way as GCsnap2.0 Desktop version but with the use of srun:
+To execute it on a cluster, please refer to the scripts in [SLURM scripts](/slurm_scripts). However, it is also working from terminal in a similar way as GCsnap2.0 Desktop version but with the use of srun:
 ```
 srun --mpi=pmi2 -N 2 --ntasks-per-node=4 python -m mpi4py.futures ./gcsnap/__main__.py --n-nodes 2 --n-cpu-per-node 4 --targets ./examples/target_sequences_10.txt
 ```
