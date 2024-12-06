@@ -178,7 +178,7 @@ class MMseqsCluster:
         result = subprocess.run(command, capture_output=True, text=True)        
         return result.stdout, result.stderr       
     
-    def extract_distance_matrix(self) -> None:
+    def extract_distance_matrix_old(self) -> None:
         """
         Extract the distance matrix from the MMseqs results.
         """        
@@ -204,7 +204,7 @@ class MMseqsCluster:
 
         self.distance_matrix = np.array(distance_matrix)    
 
-    def extract_distance_matrix_new(self) -> None:
+    def extract_distance_matrix(self) -> None:
         """
         Create distance matrix 
         size for testing the clustering and restricting the result array. if =0, the full array
@@ -250,7 +250,7 @@ class MMseqsCluster:
         clusters = hierarchy.fcluster(linkage, t, criterion = 'distance')
         self.cluster_list = [int(i) for i in clusters]
 
-    def mask_singleton_clusters(self, mask: int = 0) -> None:
+    def mask_singleton_clusters_old(self, mask: int = 0) -> None:
         """
         Mask singleton clusters.
 
@@ -267,7 +267,7 @@ class MMseqsCluster:
 
         self.cluster_list = new_clusters_list
   
-    def mask_singleton_clusters_new(self, mask: int = 0) -> None:
+    def mask_singleton_clusters(self, mask: int = 0) -> None:
         """
         Mask singleton clusters.
 
