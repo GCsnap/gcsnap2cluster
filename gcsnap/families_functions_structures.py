@@ -158,7 +158,7 @@ class FamiliesFunctionsStructures:
                             # it is not possible to check if the model exists
                             # we just combine the URL with the UniProt code if that exists
 
-                            # check either in SwissModel or AlphaFold
+                            # create either SWISS-MODEL or AlphaFold URL (no check if model exists)
                             curr_pdb = 'https://swissmodel.expasy.org/repository/uniprot/{}'.format(uniprot_code)
                             if 'nan' in curr_pdb:
                                 curr_pdb = 'https://alphafold.ebi.ac.uk/entry/{}'.format(uniprot_code)
