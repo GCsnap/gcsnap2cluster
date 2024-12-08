@@ -1,6 +1,6 @@
 # GCsnap2.0 Cluster
 
-This is the implementation of GCsnap2.0 designed to run on HPC cluster. 
+This is the implementation of GCsnap2 Cluster designed to run on HPC cluster. 
 
 GCsnap is a flexible Python-based tool that allows for the interactive comparison of the genomic contexts of protein-coding genes from any genome at any taxonomic level, integrating them with functional and structural information for any of the genes shown. 
 
@@ -8,11 +8,10 @@ GCsnap is not limited to a single input format, can preform batch jobs and accep
 
 All information is stored in detailed, human and machine-readable files, and customable publication-ready figures.
 
-
 Thank you for using and showing interest on GCsnap!
 
-## Date requirements
-As designed to run on a cluster, GCsnap requires the needed data to be locally available.  
+## Date requirements 
+As designed to run on a cluster, **GCsnap2 Cluster requires the needed data to be locally available!**  
 The structure looks like this, the source are given below:
 ```
 data-path as defined in config.yaml or via CLI  
@@ -100,3 +99,5 @@ To execute it on a cluster, please refer to the scripts in [SLURM scripts](/slur
 ```
 srun --mpi=pmi2 -N 2 --ntasks-per-node=4 python -m mpi4py.futures ./gcsnap/__main__.py --n-nodes 2 --n-cpu-per-node 4 --targets ./examples/target_sequences_10.txt
 ```
+
+A full example as well as a Jupyter Notebook showing how to use individual modules can be found in [examples](./examples/)
