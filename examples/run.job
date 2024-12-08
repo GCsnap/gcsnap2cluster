@@ -1,0 +1,41 @@
+#!/bin/bash
+#SBATCH --time=01:00:00
+#SBATCH --partition=xeon
+#SBATCH --exclusive
+#SBATCH --hint=nomultithread
+#SBATCH --exclude=cl-node002
+
+# change directory
+cd ${gcsnap_path}
+
+## working with conda
+source ~/miniconda3/etc/profile.d/conda.sh
+conda activate GCsnapC # or however you named your conda environment
+
+## call the python script
+srun    --job-name=${ident} \
+        --output=${exp_path}run_${ident}.out \
+        --nodes=${nodes} \
+        --ntasks-per-node=${ranks_per_node} \
+        --cpus-per-task=${cpus_per_task} \
+        --mem=0 \
+        --exclusive \
+        --time=01:00:00 \
+        --partition=xeon \
+        --mpi=pmi2  python -m mpi4py.futures ./gcsnap/__main__.py   --targets ${target_files}target_sequences_${n_targets}.txt \
+                                                                    --n-nodes ${nodes} \
+                                                                    --n-ranks-per-node ${ranks_per_node} \
+                                                                    --n-cpus-per-rank ${cpus_per_task} \
+                                                                    --out-label ${ident} \
+                                                                    > ${exp_path}out_${ident}.txt
+
+# move output files to GCsnaps output folder
+mv ${exp_path}out_${ident}.txt ${ident}
+mv ${exp_path}run_${ident}.out ${ident}		
+
+# move output folder to experiment folder, delete existng once before
+rm -rf ${exp_path}results/${n_targets}_targets_${nodes}_nodes_${ranks_per_node}_ranks_${cpus_per_task}_cpus_${rep}_rep
+mv ${ident} ${exp_path}results/${n_targets}_targets_${nodes}_nodes_${ranks_per_node}_ranks_${cpus_per_task}_cpus_${rep}_rep
+
+# deactivate conda
+conda deactivate

@@ -1,0 +1,5589 @@
+
+ ### Family: -1 -> pseudogene
+
+	 BG36_RS14500	pseudogene
+	 BG36_RS14505	pseudogene
+	 BG36_RS14520	pseudogene
+	 BG36_RS24050	pseudogene
+	 BG36_RS25400	pseudogene
+	 BG36_RS23910	pseudogene
+	 BG36_RS11290	pseudogene
+	 BG36_RS25375	pseudogene
+	 RASY3_RS21005	pseudogene
+	 J690_RS0104065	pseudogene
+	 J690_RS23615	pseudogene
+	 J690_RS23165	pseudogene
+	 SLK23_RS03685	pseudogene
+	 BG36_RS23555	pseudogene
+	 BG36_RS16290	pseudogene
+	 BG36_RS24760	pseudogene
+	 BG36_RS16320	pseudogene
+	 AGR1_RS28535	pseudogene
+	 RASY3_RS13275	pseudogene
+	 BG36_RS20575	pseudogene
+	 HK44_RS02765	pseudogene
+	 HK44_RS02735	pseudogene
+	 HK44_RS29530	pseudogene
+	 CAT49_RS14435	pseudogene
+	 OOZ36_RS00130	pseudogene
+	 K3F95_RS11040	pseudogene
+	 FJU71_RS11025	pseudogene
+	 V9K44_RS00005	pseudogene
+	 SOI72_RS13735	pseudogene
+	 OY950_RS03915	pseudogene
+	 LZV00_RS07565	pseudogene
+	 LZV00_RS07550	pseudogene
+	 HK44_RS30010	pseudogene
+	 HK44_RS22230	pseudogene
+	 QOL73_RS04615	pseudogene
+	 K3F95_RS12665	pseudogene
+	 ACINWCA92_RS16970	pseudogene
+	 JX308_RS08885	pseudogene
+	 JX308_RS08880	pseudogene
+	 GB129_RS10395	pseudogene
+	 GBZ05_RS17755	pseudogene
+	 AbaHC9436_RS18410	pseudogene
+	 QOL73_RS08145	pseudogene
+	 QOL73_RS08170	pseudogene
+	 QOL73_RS08175	pseudogene
+	 GBZ05_RS06640	pseudogene
+	 GBZ05_RS06635	pseudogene
+	 J536_RS12710	pseudogene
+	 J536_RS11840	pseudogene
+	 OH685_RS14760	pseudogene
+	 B8U87_RS06885	pseudogene
+	 O9X75_RS05425	pseudogene
+	 O9X75_RS05420	pseudogene
+	 C5U02_RS11135	pseudogene
+	 B9X76_RS19830	pseudogene
+	 RR18_RS11670	pseudogene
+	 RR18_RS11655	pseudogene
+	 FJU52_RS19235	pseudogene
+	 AYJ52_RS12775	pseudogene
+	 AYJ52_RS20295	pseudogene
+	 AYJ52_RS08030	pseudogene
+	 FTT68_RS06655	pseudogene
+	 CV950_RS19810	pseudogene
+	 B9X52_RS16410	pseudogene
+	 J580_RS23855	pseudogene
+	 HK44_RS29785	pseudogene
+	 HK44_RS29860	pseudogene
+	 J580_RS10785	pseudogene
+	 HK44_RS13880	pseudogene
+	 HK44_RS13895	pseudogene
+	 HK44_RS06060	pseudogene
+	 HK44_RS06320	pseudogene
+	 HK44_RS30090	pseudogene
+	 HK44_RS29675	pseudogene
+	 HK44_RS12945	pseudogene
+	 HK44_RS12935	pseudogene
+	 HK44_RS29775	pseudogene
+	 HK44_RS17065	pseudogene
+	 HK44_RS01745	pseudogene
+	 HK44_RS12965	pseudogene
+	 HK44_RS29935	pseudogene
+	 HK44_RS18550	pseudogene
+	 HK44_RS18560	pseudogene
+	 HK44_RS05795	pseudogene
+	 HK44_RS30085	pseudogene
+	 MHD_RS03690	pseudogene
+	 RASY3_RS21050	pseudogene
+	 BMY75_RS10605	pseudogene
+	 QZV11_RS14810	pseudogene
+
+ ### Family: 1 -> hypothetical protein
+
+	 WP_037286609.1	hypothetical protein
+
+ ### Family: 2 -> hypothetical protein
+
+	 WP_037286606.1	hypothetical protein
+
+ ### Family: 3 -> hypothetical protein
+
+	 WP_037286602.1	hypothetical protein
+
+ ### Family: 4 -> hypothetical protein
+
+	 WP_024855902.1	hypothetical protein
+
+ ### Family: 5 -> hypothetical protein
+
+	 WP_037286599.1	hypothetical protein
+
+ ### Family: 6 -> endonuclease III
+
+	 WP_176669718.1	endonuclease III
+	 WP_037286654.1	endonuclease III
+
+ ### Family: 7 -> Lipoprotein-releasing system transmembrane protein LolE
+
+	 EXI69801.1	Lipoprotein-releasing system transmembrane protein LolE
+	 EXI69802.1	Lipoprotein-releasing system transmembrane protein LolE
+
+ ### Family: 8 -> hypothetical protein
+
+	 EXI68861.1	hypothetical protein
+	 EXI72582.1	hypothetical protein
+
+ ### Family: 9 -> Teichuronic acid biosynthesis protein TuaB
+
+	 EXI68184.1	Teichuronic acid biosynthesis protein TuaB
+	 WP_051506322.1	lipopolysaccharide biosynthesis protein
+
+ ### Family: 10 -> GNAT family N-acetyltransferase
+
+	 WP_042801551.1	GNAT family N-acetyltransferase
+	 EXM40809.1	acyltransferase
+
+ ### Family: 11 -> hypothetical protein
+
+	 EXG80080.1	hypothetical protein
+	 EXG80083.1	hypothetical protein
+
+ ### Family: 12 -> sugar ABC transporter permease
+
+	 WP_035848035.1	sugar ABC transporter permease
+	 WP_035850726.1	sugar ABC transporter permease
+	 WP_037286146.1	sugar ABC transporter permease
+
+ ### Family: 13 -> SUKH-3 domain-containing protein
+
+	 WP_051569586.1	SUKH-3 domain-containing protein
+	 WP_035847819.1	SUKH-3 domain-containing protein
+
+ ### Family: 14 -> dihydroxyacid dehydratase
+
+	 EXG78592.1	dihydroxyacid dehydratase
+	 EXM40813.1	dihydroxy-acid dehydratase
+
+ ### Family: 15 -> phosphotransferase
+
+	 WP_037282723.1	phosphotransferase
+
+ ### Family: 16 -> DUF2164 domain-containing protein
+
+	 WP_037282727.1	DUF2164 domain-containing protein
+
+ ### Family: 17 -> GNAT family N-acetyltransferase
+
+	 WP_037282730.1	GNAT family N-acetyltransferase
+
+ ### Family: 18 -> hypothetical protein
+
+	 WP_051506782.1	hypothetical protein
+
+ ### Family: 19 -> asparaginase
+
+	 WP_037282733.1	asparaginase
+
+ ### Family: 20 -> formate dehydrogenase accessory sulfurtransferase FdhD
+
+	 WP_051484901.1	formate dehydrogenase accessory sulfurtransferase FdhD
+
+ ### Family: 21 -> proline iminopeptidase-family hydrolase
+
+	 WP_034442333.1	proline iminopeptidase-family hydrolase
+
+ ### Family: 22 -> membrane protein
+
+	 WP_008711074.1	hypothetical protein
+	 WP_034442337.1	membrane protein
+
+ ### Family: 23 -> PAS domain S-box protein
+
+	 WP_288503055.1	PAS domain S-box protein
+
+ ### Family: 24 -> prephenate dehydratase domain-containing protein
+
+	 WP_270553765.1	prephenate dehydratase domain-containing protein
+
+ ### Family: 25 -> glycoside hydrolase family 13 protein
+
+	 WP_035848534.1	glycoside hydrolase family 13 protein
+	 EXI77872.1	Neopullulanase
+
+ ### Family: 26 -> carbohydrate ABC transporter permease
+
+	 WP_035848532.1	carbohydrate ABC transporter permease
+	 WP_035848033.1	carbohydrate ABC transporter permease
+	 WP_035850728.1	carbohydrate ABC transporter permease
+	 WP_155267754.1	carbohydrate ABC transporter permease
+
+ ### Family: 27 -> AAA domain-containing protein
+
+	 WP_019692637.1	AAA domain-containing protein
+	 WP_035850732.1	AAA family ATPase
+
+ ### Family: 28 -> RidA family protein
+
+	 WP_019690805.1	RidA family protein
+	 WP_035865532.1	RidA family protein
+
+ ### Family: 29 -> hypothetical protein
+
+	 WP_019691086.1	hypothetical protein
+
+ ### Family: 30 -> pyridoxal-phosphate dependent enzyme
+
+	 WP_019689667.1	pyridoxal-phosphate dependent enzyme
+	 EXG78599.1	threonine dehydratase
+
+ ### Family: 31 -> hypothetical protein
+
+	 EXF94644.1	hypothetical protein
+	 WP_019692636.1	hypothetical protein
+
+ ### Family: 32 -> glycosyl transferase
+
+	 EXF95127.1	glycosyl transferase
+	 WP_277884165.1	glycosyltransferase family A protein
+
+ ### Family: 33 -> glycosyl transferase
+
+	 EXF95123.1	glycosyl transferase
+	 EXF95126.1	glycosyl transferase family 1
+
+ ### Family: 34 -> phosphate ABC transporter permease PstA
+
+	 WP_019690671.1	phosphate ABC transporter permease PstA
+	 WP_024264963.1	phosphate ABC transporter permease subunit PstC
+
+ ### Family: 35 -> cytochrome c oxidase subunit 3
+
+	 WP_019690905.1	cytochrome c oxidase subunit 3
+	 WP_024265019.1	heme-copper oxidase subunit III family protein
+
+ ### Family: 36 -> hypothetical protein
+
+	 EXE62174.1	hypothetical protein
+	 WP_032004080.1	hypothetical protein
+
+ ### Family: 37 -> DUF4265 domain-containing protein
+
+	 EXE62175.1	hypothetical protein
+	 WP_014206140.1	DUF4265 domain-containing protein
+
+ ### Family: 38 -> hypothetical protein
+
+	 EXE62176.1	hypothetical protein
+	 WP_081403625.1	hypothetical protein
+
+ ### Family: 39 -> hypothetical protein
+
+	 EXE63582.1	hypothetical protein
+	 EXE62173.1	hypothetical protein
+	 WP_032004079.1	hypothetical protein
+
+ ### Family: 40 -> peptide-methionine (S)-S-oxide reductase MsrA
+
+	 WP_019691446.1	peptide-methionine (S)-S-oxide reductase MsrA
+	 WP_037291761.1	peptide-methionine (S)-S-oxide reductase MsrA
+
+ ### Family: 41 -> type VI secretion system tip protein VgrG
+
+	 WP_019691440.1	type VI secretion system tip protein VgrG
+	 EXI64481.1	type VI secretion system Vgr family protein
+
+ ### Family: 42 -> hypothetical protein
+
+	 WP_019691150.1	hypothetical protein
+	 WP_019691444.1	hypothetical protein
+	 WP_024264965.1	hypothetical protein
+	 WP_019691735.1	hypothetical protein
+
+ ### Family: 43 -> NAD(P)H-dependent oxidoreductase
+
+	 WP_079380953.1	NAD(P)H-dependent oxidoreductase
+	 WP_081403554.1	NAD(P)H-dependent oxidoreductase
+
+ ### Family: 44 -> HAD phosphoserine phosphatase-like hydrolase%2C IB family protein
+
+	 EXB05984.1	HAD phosphoserine phosphatase-like hydrolase%2C IB family protein
+	 WP_019693060.1	HAD family hydrolase
+
+ ### Family: 45 -> pseudaminic acid cytidylyltransferase
+
+	 WP_188142524.1	pseudaminic acid cytidylyltransferase
+	 WP_032005737.1	acylneuraminate cytidylyltransferase family protein
+
+ ### Family: 46 -> hypothetical protein
+
+	 WP_032051328.1	hypothetical protein
+	 WP_000609970.1	hypothetical protein
+
+ ### Family: 47 -> hypothetical protein
+
+	 WP_000101621.1	hypothetical protein
+	 EXB05623.1	hypothetical protein
+
+ ### Family: 48 -> hypothetical protein
+
+	 WP_000838342.1	hypothetical protein
+	 EXB05620.1	hypothetical protein
+	 WP_004992794.1	hypothetical protein
+
+ ### Family: 49 -> TM2 domain-containing protein
+
+	 WP_032034283.1	TM2 domain-containing protein
+
+ ### Family: 50 -> hypothetical protein
+
+	 WP_032049100.1	hypothetical protein
+	 WP_032003959.1	hypothetical protein
+
+ ### Family: 51 -> hypothetical protein
+
+	 WP_032049101.1	hypothetical protein
+	 WP_032003960.1	hypothetical protein
+
+ ### Family: 52 -> phage antirepressor KilAC domain-containing protein
+
+	 WP_032049103.1	phage antirepressor KilAC domain-containing protein
+	 WP_032003962.1	phage antirepressor KilAC domain-containing protein
+
+ ### Family: 53 -> DUF6527 family protein
+
+	 WP_017402956.1	DUF6527 family protein
+	 WP_019689966.1	DUF6527 family protein
+
+ ### Family: 54 -> hypothetical protein
+
+	 EXA93662.1	hypothetical protein
+	 EXB03715.1	hypothetical protein
+
+ ### Family: 55 -> helix-turn-helix family protein
+
+	 WP_004735507.1	helix-turn-helix transcriptional regulator
+	 EXA93660.1	helix-turn-helix family protein
+	 EXA93661.1	putative DNA-binding protein
+	 EXB03717.1	helix-turn-helix family protein
+	 EXB03716.1	putative DNA-binding protein
+
+ ### Family: 56 -> hypothetical protein
+
+	 WP_004735505.1	hypothetical protein
+	 EXA93659.1	hypothetical protein
+	 EXB03718.1	hypothetical protein
+
+ ### Family: 57 -> iron-containing redox enzyme family protein
+
+	 WP_005066945.1	iron-containing redox enzyme family protein
+	 EXA93657.1	hypothetical protein
+
+ ### Family: 58 -> DUF6388 family protein
+
+	 WP_005066947.1	DUF6388 family protein
+	 EXA93656.1	hypothetical protein
+	 EXB03719.1	hypothetical protein
+	 WP_050675732.1	DUF6388 family protein
+
+ ### Family: 59 -> DMT family transporter
+
+	 WP_004742070.1	DMT family transporter
+	 EXB03722.1	eamA-like transporter family protein
+
+ ### Family: 60 -> dGTPase
+
+	 WP_032050847.1	dGTPase
+
+ ### Family: 61 -> hypothetical protein
+
+	 WP_032050849.1	hypothetical protein
+
+ ### Family: 62 -> TIGR02391 family protein
+
+	 WP_032050850.1	TIGR02391 family protein
+
+ ### Family: 63 -> hypothetical protein
+
+	 WP_017387128.1	hypothetical protein
+	 WP_000052606.1	hypothetical protein
+
+ ### Family: 64 -> coniferyl aldehyde dehydrogenase
+
+	 WP_320561596.1	coniferyl aldehyde dehydrogenase
+	 EXE62172.1	aldehyde dehydrogenase family protein
+	 WP_032004078.1	coniferyl aldehyde dehydrogenase
+
+ ### Family: 65 -> arginine N-succinyltransferase
+
+	 WP_069036831.1	arginine N-succinyltransferase
+	 EXE62178.1	arginine N-succinyltransferase
+	 WP_032004084.1	arginine N-succinyltransferase
+
+ ### Family: 66 -> hypothetical protein
+
+	 WP_204389267.1	hypothetical protein
+	 WP_000750961.1	hypothetical protein
+
+ ### Family: 67 -> hypothetical protein
+
+	 WP_227520627.1	hypothetical protein
+	 WP_000506950.1	hypothetical protein
+
+ ### Family: 68 -> putative membrane protein
+
+	 WP_032059018.1	hypothetical protein
+	 WP_001087629.1	hypothetical protein
+	 WP_000360130.1	hypothetical protein
+	 EXB05619.1	putative membrane protein
+	 WP_004992796.1	hypothetical protein
+
+ ### Family: 69 -> putative membrane protein
+
+	 WP_257935149.1	hypothetical protein
+	 WP_001259410.1	hypothetical protein
+	 EXB05618.1	putative membrane protein
+	 WP_004992797.1	hypothetical protein
+
+ ### Family: 70 -> hypothetical protein
+
+	 WP_000845021.1	hypothetical protein
+	 WP_000701730.1	hypothetical protein
+	 EXB05617.1	hypothetical protein
+	 WP_016654408.1	hypothetical protein
+
+ ### Family: 71 -> antiterminator Q family protein
+
+	 WP_000992311.1	antiterminator Q family protein
+	 WP_001277128.1	hypothetical protein
+
+ ### Family: 72 -> DUF1064 domain-containing protein
+
+	 WP_032000220.1	DUF1064 domain-containing protein
+	 WP_000203140.1	DUF1064 domain-containing protein
+
+ ### Family: 73 -> aspartate-alanine antiporter
+
+	 WP_002116621.1	aspartate-alanine antiporter
+
+ ### Family: 74 -> bifunctional aspartate transaminase/aspartate 4-decarboxylase
+
+	 WP_002116631.1	bifunctional aspartate transaminase/aspartate 4-decarboxylase
+
+ ### Family: 75 -> hypothetical protein
+
+	 WP_016806139.1	hypothetical protein
+	 WP_000401163.1	hypothetical protein
+
+ ### Family: 76 -> Csu fimbrial tip adhesin CsuE
+
+	 WP_017402994.1	Csu fimbrial tip adhesin CsuE
+
+ ### Family: 77 -> Csu fimbrial usher CsuD
+
+	 WP_282463376.1	Csu fimbrial usher CsuD
+	 WP_017402993.1	Csu fimbrial usher CsuD
+
+ ### Family: 78 -> Csu fimbrial biogenesis chaperone CsuC
+
+	 WP_153565637.1	Csu fimbrial biogenesis chaperone CsuC
+
+ ### Family: 79 -> hypothetical protein
+
+	 WP_000770264.1	hypothetical protein
+
+ ### Family: 80 -> MarR family transcriptional regulator
+
+	 WP_051570123.1	MarR family transcriptional regulator
+	 EXG80087.1	transcriptional regulator
+
+ ### Family: 81 -> sigma factor
+
+	 WP_035848403.1	sigma factor
+	 WP_281174689.1	sigma-70 family RNA polymerase sigma factor
+
+ ### Family: 82 -> YciI family protein
+
+	 WP_035848405.1	YciI family protein
+	 WP_019691737.1	YciI family protein
+	 WP_035851354.1	YciI family protein
+
+ ### Family: 83 -> ABC transporter ATP-binding protein
+
+	 WP_037282171.1	ABC transporter ATP-binding protein
+	 WP_037282169.1	ABC transporter transmembrane domain-containing protein
+
+ ### Family: 84 -> four-helix bundle copper-binding protein
+
+	 WP_037282174.1	four-helix bundle copper-binding protein
+	 WP_004641881.1	four-helix bundle copper-binding protein
+
+ ### Family: 85 -> TetR family transcriptional regulator
+
+	 WP_169745029.1	TetR family transcriptional regulator
+	 WP_051569929.1	TetR/AcrR family transcriptional regulator
+	 EXG82747.1	transcriptional regulator
+
+ ### Family: 86 -> hypothetical protein
+
+	 WP_035851305.1	hypothetical protein
+
+ ### Family: 87 -> DUF1345 domain-containing protein
+
+	 WP_035851307.1	DUF1345 domain-containing protein
+
+ ### Family: 88 -> STAS domain-containing protein
+
+	 WP_157017673.1	STAS domain-containing protein
+
+ ### Family: 89 -> class I SAM-dependent methyltransferase
+
+	 WP_035851310.1	class I SAM-dependent methyltransferase
+
+ ### Family: 90 -> DUF998 domain-containing protein
+
+	 WP_063725713.1	DUF998 domain-containing protein
+
+ ### Family: 91 -> MIP/aquaporin family protein
+
+	 WP_035850962.1	MIP/aquaporin family protein
+
+ ### Family: 92 -> DUF4865 family protein
+
+	 WP_035850969.1	DUF4865 family protein
+
+ ### Family: 93 -> hypothetical protein
+
+	 WP_157017632.1	hypothetical protein
+
+ ### Family: 94 -> S41 family peptidase
+
+	 WP_035850976.1	S41 family peptidase
+
+ ### Family: 95 -> hypothetical protein
+
+	 WP_035850978.1	hypothetical protein
+
+ ### Family: 96 -> helix-turn-helix domain-containing protein
+
+	 WP_035850081.1	helix-turn-helix domain-containing protein
+	 WP_035850988.1	helix-turn-helix domain-containing protein
+
+ ### Family: 97 -> response regulator
+
+	 WP_035850078.1	response regulator
+	 WP_035850079.1	response regulator
+
+ ### Family: 98 -> DUF4185 domain-containing protein
+
+	 EXG81799.1	hypothetical protein
+	 WP_035850282.1	DUF4185 domain-containing protein
+
+ ### Family: 99 -> 2%2C3-dimethylmalate lyase
+
+	 EXI81290.1	2%2C3-dimethylmalate lyase
+	 WP_004929161.1	methylisocitrate lyase
+
+ ### Family: 100 -> delta-lactam-biosynthetic de-N-acetylase
+
+	 EXI70641.1	delta-lactam-biosynthetic de-N-acetylase
+	 EXI69812.1	delta-lactam-biosynthetic de-N-acetylase
+
+ ### Family: 101 -> PQQ-dependent catabolism-associated beta-propeller protein
+
+	 EXI70642.1	PQQ-dependent catabolism-associated beta-propeller protein
+	 EXI69811.1	PQQ-dependent catabolism-associated beta-propeller protein
+
+ ### Family: 102 -> hypothetical protein
+
+	 EXI80905.1	hypothetical protein
+	 EXI68612.1	hypothetical protein
+	 EXI69492.1	hypothetical protein
+
+ ### Family: 103 -> hypothetical protein
+
+	 EXI80906.1	hypothetical protein
+	 EXI68613.1	hypothetical protein
+
+ ### Family: 104 -> Ribosome biogenesis GTPase A
+
+	 EXI80907.1	Ribosome biogenesis GTPase A
+	 EXI68614.1	Ribosome biogenesis GTPase A
+	 EXI69494.1	Ribosome biogenesis GTPase A
+
+ ### Family: 105 -> putative acyltransferase YihG
+
+	 EXI80908.1	putative acyltransferase YihG
+	 EXI68615.1	putative acyltransferase YihG
+
+ ### Family: 106 -> Inner membrane ABC transporter permease protein YdcV
+
+	 EXI86336.1	Inner membrane ABC transporter permease protein YdcV
+	 EXI81149.1	Inner membrane ABC transporter permease protein YdcV
+
+ ### Family: 107 -> Methyl-accepting chemotaxis protein 4
+
+	 EXI86335.1	Methyl-accepting chemotaxis protein 4
+	 EXI81150.1	Methyl-accepting chemotaxis protein 4
+
+ ### Family: 108 -> Selenide%2C water dikinase
+
+	 EXI86333.1	Selenide%2C water dikinase
+	 EXI81152.1	Selenide%2C water dikinase
+
+ ### Family: 109 -> sugar transferase%2C PEP-CTERM/EpsH1 system associated
+
+	 EXI86332.1	sugar transferase%2C PEP-CTERM/EpsH1 system associated
+	 EXI81153.1	sugar transferase%2C PEP-CTERM/EpsH1 system associated
+
+ ### Family: 110 -> Iron(II)-dependent oxidoreductase EgtB
+
+	 EXI86331.1	Iron(II)-dependent oxidoreductase EgtB
+	 EXI81154.1	Iron(II)-dependent oxidoreductase EgtB
+
+ ### Family: 111 -> Histidine-specific methyltransferase EgtD
+
+	 EXI86330.1	Histidine-specific methyltransferase EgtD
+	 EXI81155.1	Histidine-specific methyltransferase EgtD
+
+ ### Family: 112 -> hypothetical protein
+
+	 EXI86329.1	hypothetical protein
+	 EXI81156.1	hypothetical protein
+
+ ### Family: 113 -> SH3 domain-containing protein
+
+	 WP_034302169.1	hypothetical protein
+	 WP_051503810.1	SH3 domain-containing protein
+
+ ### Family: 114 -> Cyclic di-GMP phosphodiesterase Gmr
+
+	 EXI82965.1	Cyclic di-GMP phosphodiesterase Gmr
+	 EXI81284.1	Cyclic di-GMP phosphodiesterase Gmr
+	 EXI67817.1	Cyclic di-GMP phosphodiesterase Gmr
+
+ ### Family: 115 -> Phosphopantetheine attachment site
+
+	 EXI82968.1	Phosphopantetheine attachment site
+	 EXI81289.1	Phosphopantetheine attachment site
+	 EXI85689.1	Phosphopantetheine attachment site
+
+ ### Family: 116 -> hypothetical protein
+
+	 EXI82969.1	hypothetical protein
+	 EXI82967.1	hypothetical protein
+	 EXI81286.1	hypothetical protein
+	 EXI85688.1	hypothetical protein
+	 EXI85691.1	hypothetical protein
+
+ ### Family: 117 -> hypothetical protein
+
+	 EXI82971.1	hypothetical protein
+
+ ### Family: 118 -> GTP pyrophosphokinase
+
+	 EXI82018.1	GTP pyrophosphokinase
+	 EXI70640.1	RelA/SpoT family protein
+	 EXI69814.1	GTP pyrophosphokinase rsh
+
+ ### Family: 119 -> hypothetical protein
+
+	 EXI82014.1	hypothetical protein
+	 EXI69807.1	hypothetical protein
+
+ ### Family: 120 -> 1-acyl-sn-glycerol-3-phosphate acyltransferase
+
+	 EXI82013.1	1-acyl-sn-glycerol-3-phosphate acyltransferase
+	 EXI69806.1	1-acyl-sn-glycerol-3-phosphate acyltransferase
+
+ ### Family: 121 -> putative cation-transporting ATPase F
+
+	 EXI81071.1	putative cation-transporting ATPase F
+	 WP_019689679.1	potassium-transporting ATPase subunit KdpB
+
+ ### Family: 122 -> hypothetical protein
+
+	 EXI86401.1	hypothetical protein
+	 EXI82821.1	hypothetical protein
+	 EXI72520.1	hypothetical protein
+
+ ### Family: 123 -> Phenylacetate-coenzyme A ligase
+
+	 EXI91786.1	Phenylacetate-coenzyme A ligase
+	 EXI68188.1	Phenylacetate-coenzyme A ligase
+
+ ### Family: 124 -> sugar transferase%2C PEP-CTERM/EpsH1 system associated
+
+	 EXI91783.1	sugar transferase%2C PEP-CTERM/EpsH1 system associated
+	 EXI68191.1	sugar transferase%2C PEP-CTERM/EpsH1 system associated
+
+ ### Family: 125 -> peroxide stress protein YaaA
+
+	 WP_034299993.1	peroxide stress protein YaaA
+	 WP_042803008.1	peroxide stress protein YaaA
+
+ ### Family: 126 -> Oxygen-independent coproporphyrinogen-III oxidase
+
+	 EXI92037.1	Oxygen-independent coproporphyrinogen-III oxidase
+	 EXI86402.1	Oxygen-independent coproporphyrinogen-III oxidase
+	 EXI82822.1	Oxygen-independent coproporphyrinogen-III oxidase
+	 EXI72521.1	Oxygen-independent coproporphyrinogen-III oxidase
+	 WP_019690908.1	coproporphyrinogen III oxidase
+	 WP_019690907.1	oxygen-independent coproporphyrinogen III oxidase
+	 WP_042803907.1	oxygen-independent coproporphyrinogen III oxidase
+
+ ### Family: 127 -> bifunctional acetaldehyde-CoA/alcohol dehydrogenase
+
+	 WP_269317909.1	bifunctional acetaldehyde-CoA/alcohol dehydrogenase
+	 WP_042801230.1	bifunctional acetaldehyde-CoA/alcohol dehydrogenase
+
+ ### Family: 128 -> amidohydrolase
+
+	 WP_034303331.1	amidohydrolase
+	 WP_019689663.1	M20 aminoacylase family protein
+
+ ### Family: 129 -> Arogenate dehydrogenase
+
+	 EXI89261.1	Arogenate dehydrogenase
+	 WP_034302735.1	prephenate dehydrogenase
+
+ ### Family: 130 -> Histidinol-phosphate aminotransferase 2
+
+	 EXI89260.1	Histidinol-phosphate aminotransferase 2
+	 EXI82470.1	Histidinol-phosphate aminotransferase 2
+
+ ### Family: 131 -> P-protein
+
+	 EXI89259.1	P-protein
+	 EXI82471.1	P-protein
+	 WP_034442341.1	prephenate dehydratase
+	 WP_037288024.1	bifunctional chorismate mutase/prephenate dehydratase
+
+ ### Family: 132 -> DNA gyrase subunit A
+
+	 EXI89258.1	DNA gyrase subunit A
+	 EXI82473.1	DNA gyrase subunit A
+
+ ### Family: 133 -> hypothetical protein
+
+	 EXI89257.1	hypothetical protein
+	 EXI82474.1	hypothetical protein
+
+ ### Family: 134 -> Adenylosuccinate synthetase
+
+	 EXI89255.1	Adenylosuccinate synthetase
+	 EXI82476.1	Adenylosuccinate synthetase
+
+ ### Family: 135 -> ATP phosphoribosyltransferase regulatory subunit
+
+	 EXI89254.1	ATP phosphoribosyltransferase regulatory subunit
+	 EXI82477.1	ATP phosphoribosyltransferase regulatory subunit
+
+ ### Family: 136 -> hypothetical protein
+
+	 EXI89253.1	hypothetical protein
+	 EXI82478.1	hypothetical protein
+
+ ### Family: 137 -> Histidine phosphatase superfamily (branch 1)
+
+	 EXI78612.1	Histidine phosphatase superfamily (branch 1)
+	 EXI87296.1	Histidine phosphatase superfamily (branch 1)
+
+ ### Family: 138 -> hypothetical protein
+
+	 EXI78613.1	hypothetical protein
+	 EXI87299.1	hypothetical protein
+
+ ### Family: 139 -> hypothetical protein
+
+	 EXI78614.1	hypothetical protein
+	 EXI87300.1	hypothetical protein
+
+ ### Family: 140 -> hypothetical protein
+
+	 EXI78616.1	hypothetical protein
+	 EXI87302.1	hypothetical protein
+
+ ### Family: 141 -> protoporphyrinogen oxidase
+
+	 EXI78617.1	protoporphyrinogen oxidase
+	 EXI87303.1	protoporphyrinogen oxidase
+
+ ### Family: 142 -> Deoxyribodipyrimidine photo-lyase-related protein
+
+	 EXI78618.1	Deoxyribodipyrimidine photo-lyase-related protein
+	 EXI87304.1	Deoxyribodipyrimidine photo-lyase-related protein
+
+ ### Family: 143 -> Cyclic di-GMP phosphodiesterase response regulator RpfG
+
+	 EXI70455.1	Cyclic di-GMP phosphodiesterase response regulator RpfG
+	 EXI68322.1	Cyclic di-GMP phosphodiesterase response regulator RpfG
+	 EXI87223.1	Cyclic di-GMP phosphodiesterase response regulator RpfG
+
+ ### Family: 144 -> hypothetical protein
+
+	 EXI70456.1	hypothetical protein
+	 EXI68321.1	hypothetical protein
+	 EXI87222.1	hypothetical protein
+
+ ### Family: 145 -> hypothetical protein
+
+	 EXI70457.1	hypothetical protein
+	 EXI68320.1	hypothetical protein
+	 EXI87221.1	hypothetical protein
+
+ ### Family: 146 -> putative virion core protein (lumpy skin disease virus)
+
+	 EXI70458.1	putative virion core protein (lumpy skin disease virus)
+	 EXI68319.1	putative virion core protein (lumpy skin disease virus)
+	 EXI87220.1	putative virion core protein (lumpy skin disease virus)
+
+ ### Family: 147 -> putative membrane protein
+
+	 EXI70459.1	putative membrane protein
+	 WP_019693871.1	DUF350 domain-containing protein
+	 EXI68318.1	putative membrane protein
+	 EXI87219.1	putative membrane protein
+
+ ### Family: 148 -> Type III pantothenate kinase
+
+	 EXI70460.1	Type III pantothenate kinase
+	 EXI68317.1	Type III pantothenate kinase
+	 EXI87218.1	Type III pantothenate kinase
+	 WP_037286614.1	type III pantothenate kinase
+
+ ### Family: 149 -> Bifunctional protein BirA
+
+	 EXI70461.1	Bifunctional protein BirA
+	 EXI68316.1	Bifunctional protein BirA
+	 EXI87217.1	Bifunctional protein BirA
+
+ ### Family: 150 -> Nitrogen regulation protein NR(I)
+
+	 EXI70462.1	Nitrogen regulation protein NR(I)
+	 EXI68315.1	Nitrogen regulation protein NR(I)
+	 EXI87216.1	Nitrogen regulation protein NR(I)
+
+ ### Family: 151 -> Cytochrome c1 precursor
+
+	 EXI76089.1	Cytochrome c1 precursor
+	 EXI67809.1	Cytochrome c1 precursor
+
+ ### Family: 152 -> Stringent starvation protein A
+
+	 EXI76088.1	Stringent starvation protein A
+	 WP_019693197.1	glutathione transferase GstA
+	 EXI67810.1	Stringent starvation protein A
+
+ ### Family: 153 -> hypothetical protein
+
+	 EXI76087.1	hypothetical protein
+	 EXI67811.1	hypothetical protein
+
+ ### Family: 154 -> Peptidase M15
+
+	 EXI76083.1	Peptidase M15
+	 EXI67815.1	Peptidase M15
+
+ ### Family: 155 -> putative inner membrane protein
+
+	 EXI76051.1	putative inner membrane protein
+	 WP_019691731.1	YeeE/YedE thiosulfate transporter family protein
+
+ ### Family: 156 -> Anaerobic regulatory protein
+
+	 EXI65286.1	Anaerobic regulatory protein
+	 EXI92038.1	Anaerobic regulatory protein
+	 EXI86403.1	Anaerobic regulatory protein
+	 EXI82823.1	Anaerobic regulatory protein
+	 EXI72522.1	Anaerobic regulatory protein
+
+ ### Family: 157 -> Invasion gene expression up-regulator%2C SirB
+
+	 EXI65285.1	Invasion gene expression up-regulator%2C SirB
+	 EXI92039.1	Invasion gene expression up-regulator%2C SirB
+	 EXI86404.1	Invasion gene expression up-regulator%2C SirB
+	 EXI82824.1	Invasion gene expression up-regulator%2C SirB
+	 EXI72523.1	Invasion gene expression up-regulator%2C SirB
+
+ ### Family: 158 -> hypothetical protein
+
+	 EXI65284.1	hypothetical protein
+	 EXI92040.1	hypothetical protein
+	 EXI86405.1	hypothetical protein
+	 EXI82825.1	hypothetical protein
+	 EXI72524.1	hypothetical protein
+
+ ### Family: 159 -> SirA-like protein
+
+	 EXI65283.1	SirA-like protein
+	 EXI92041.1	SirA-like protein
+	 EXI86406.1	SirA-like protein
+	 EXI82826.1	SirA-like protein
+	 EXI72525.1	SirA-like protein
+
+ ### Family: 160 -> iron-sulfur cluster repair di-iron protein
+
+	 EXI65282.1	iron-sulfur cluster repair di-iron protein
+	 EXI92042.1	iron-sulfur cluster repair di-iron protein
+	 EXI86407.1	iron-sulfur cluster repair di-iron protein
+	 EXI82827.1	iron-sulfur cluster repair di-iron protein
+	 EXI72526.1	iron-sulfur cluster repair di-iron protein
+
+ ### Family: 161 -> universal stress protein UspE
+
+	 EXI65281.1	hypothetical protein
+	 EXI92043.1	hypothetical protein
+	 EXI86408.1	universal stress protein UspE
+	 EXI82828.1	Stress response protein NhaX
+	 EXI72528.1	hypothetical protein
+
+ ### Family: 162 -> clan AA aspartic protease
+
+	 EXI65280.1	clan AA aspartic protease
+	 EXI86409.1	clan AA aspartic protease
+	 EXI82829.1	clan AA aspartic protease
+
+ ### Family: 163 -> hypothetical protein
+
+	 EXI92840.1	hypothetical protein
+
+ ### Family: 164 -> hypothetical protein
+
+	 EXI92839.1	hypothetical protein
+
+ ### Family: 165 -> DNA-invertase hin
+
+	 EXI84109.1	DNA-invertase hin
+	 EXI84112.1	DNA-invertase hin
+
+ ### Family: 166 -> DUF6056 family protein
+
+	 EXI91413.1	hypothetical protein
+	 WP_019689969.1	DUF6056 family protein
+
+ ### Family: 167 -> glycerol kinase GlpK
+
+	 WP_042801748.1	glycerol kinase GlpK
+	 WP_035850966.1	glycerol kinase GlpK
+	 WP_035850963.1	glycerol kinase GlpK
+
+ ### Family: 168 -> UDP-N-acetylenolpyruvoylglucosamine reductase
+
+	 EXI91244.1	UDP-N-acetylenolpyruvoylglucosamine reductase
+	 EXI69798.1	UDP-N-acetylenolpyruvoylglucosamine reductase
+
+ ### Family: 169 -> Ribosomal large subunit pseudouridine synthase B
+
+	 EXI91242.1	Ribosomal large subunit pseudouridine synthase B
+	 EXI69797.1	Ribosomal large subunit pseudouridine synthase B
+
+ ### Family: 170 -> FK506-binding protein
+
+	 EXI91241.1	FK506-binding protein
+	 WP_019690086.1	FKBP-type peptidyl-prolyl cis-trans isomerase
+	 EXI69796.1	FK506-binding protein
+	 WP_042803899.1	FKBP-type peptidyl-prolyl cis-trans isomerase
+
+ ### Family: 171 -> tape measure domain protein
+
+	 EXI72696.1	tape measure domain protein
+
+ ### Family: 172 -> hypothetical protein
+
+	 EXI72695.1	hypothetical protein
+	 EXI92080.1	hypothetical protein
+
+ ### Family: 173 -> hypothetical protein
+
+	 EXI72694.1	hypothetical protein
+	 EXI92081.1	hypothetical protein
+
+ ### Family: 174 -> Mu-like prophage protein gp36
+
+	 EXI72693.1	Mu-like prophage protein gp36
+	 EXI92082.1	Mu-like prophage protein gp36
+
+ ### Family: 175 -> hypothetical protein
+
+	 WP_042803998.1	hypothetical protein
+
+ ### Family: 176 -> antiterminator Q family protein
+
+	 WP_241761997.1	antiterminator Q family protein
+
+ ### Family: 177 -> DUF1364 domain-containing protein
+
+	 WP_042803991.1	DUF1364 domain-containing protein
+
+ ### Family: 178 -> hypothetical protein
+
+	 WP_042803989.1	hypothetical protein
+
+ ### Family: 179 -> hypothetical protein
+
+	 WP_042803988.1	hypothetical protein
+
+ ### Family: 180 -> DUF968 domain-containing protein
+
+	 WP_042803980.1	DUF968 domain-containing protein
+
+ ### Family: 181 -> hypothetical protein
+
+	 WP_005823369.1	hypothetical protein
+
+ ### Family: 182 -> hypothetical protein
+
+	 EXI76470.1	hypothetical protein
+	 EXI89256.1	hypothetical protein
+	 EXI82475.1	hypothetical protein
+
+ ### Family: 183 -> RNA polymerase-associated protein RapA
+
+	 EXI76471.1	RNA polymerase-associated protein RapA
+	 EXI78523.1	ATP-dependent helicase HepA
+
+ ### Family: 184 -> hypothetical protein
+
+	 EXI76474.1	hypothetical protein
+	 EXI78522.1	hypothetical protein
+
+ ### Family: 185 -> hypothetical protein
+
+	 EXI76837.1	hypothetical protein
+	 EXI89191.1	hypothetical protein
+	 EXI83718.1	hypothetical protein
+	 EXI69270.1	hypothetical protein
+	 EXI79331.1	hypothetical protein
+
+ ### Family: 186 -> putative antibiotic transporter
+
+	 EXI76839.1	putative antibiotic transporter
+	 EXI83717.1	putative antibiotic transporter
+	 EXI69271.1	putative antibiotic transporter
+
+ ### Family: 187 -> cAMP regulatory protein
+
+	 EXI90672.1	cAMP regulatory protein
+	 EXI80946.1	Global nitrogen regulator
+
+ ### Family: 188 -> hypothetical protein
+
+	 EXI90673.1	hypothetical protein
+	 EXI80945.1	hypothetical protein
+
+ ### Family: 189 -> D-alanyl-D-alanine carboxypeptidase DacB precursor
+
+	 EXI90674.1	D-alanyl-D-alanine carboxypeptidase DacB precursor
+	 EXI80944.1	D-alanyl-D-alanine carboxypeptidase DacB precursor
+
+ ### Family: 190 -> putative membrane protein
+
+	 EXI90676.1	putative membrane protein
+	 EXI80943.1	putative membrane protein
+
+ ### Family: 191 -> 3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+
+	 EXI90677.1	3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+	 EXI80942.1	3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+
+ ### Family: 192 -> Thermostable monoacylglycerol lipase
+
+	 EXI90678.1	Thermostable monoacylglycerol lipase
+	 EXI80941.1	Thermostable monoacylglycerol lipase
+
+ ### Family: 193 -> hypothetical protein
+
+	 EXI90679.1	hypothetical protein
+	 EXI80940.1	hypothetical protein
+
+ ### Family: 194 -> 4-hydroxybenzoate octaprenyltransferase
+
+	 EXI90680.1	4-hydroxybenzoate octaprenyltransferase
+	 EXI80939.1	4-hydroxybenzoate octaprenyltransferase
+
+ ### Family: 195 -> DNA repair and recombination protein RadA
+
+	 EXI90161.1	DNA repair and recombination protein RadA
+	 EXI79864.1	DNA repair and recombination protein RadA
+
+ ### Family: 196 -> Aspartate racemase
+
+	 EXI90157.1	Aspartate racemase
+	 EXI79861.1	Aspartate racemase
+
+ ### Family: 197 -> conjugal transfer mating pair stabilization protein TraG
+
+	 EXI89972.1	conjugal transfer mating pair stabilization protein TraG
+	 EXI80479.1	conjugal transfer mating pair stabilization protein TraG
+
+ ### Family: 198 -> TetR/AcrR family transcriptional regulator
+
+	 EXI89840.1	putative acrAB operon repressor
+	 WP_157017630.1	TetR/AcrR family transcriptional regulator
+	 WP_037282720.1	TetR/AcrR family transcriptional regulator
+
+ ### Family: 199 -> hypothetical protein
+
+	 EXI89192.1	hypothetical protein
+	 EXI76836.1	hypothetical protein
+	 EXI83719.1	hypothetical protein
+	 EXI69269.1	hypothetical protein
+	 EXI79332.1	hypothetical protein
+
+ ### Family: 200 -> hypothetical protein
+
+	 EXI89193.1	hypothetical protein
+	 EXI76835.1	hypothetical protein
+	 EXI83720.1	hypothetical protein
+	 EXI69268.1	hypothetical protein
+	 EXI79333.1	hypothetical protein
+
+ ### Family: 201 -> putative diguanylate cyclase AdrA
+
+	 EXI89194.1	putative diguanylate cyclase YdaM
+	 EXI76834.1	putative diguanylate cyclase AdrA
+	 EXI83721.1	putative diguanylate cyclase AdrA
+	 EXI69267.1	putative diguanylate cyclase AdrA
+	 EXI79334.1	putative diguanylate cyclase AdrA
+
+ ### Family: 202 -> Threonine synthase
+
+	 EXI89195.1	Threonine synthase
+	 EXI76833.1	Threonine synthase
+	 EXI83722.1	Threonine synthase
+	 EXI69266.1	Threonine synthase
+	 EXI79335.1	Threonine synthase
+	 WP_042804269.1	threonine synthase
+
+ ### Family: 203 -> hypothetical protein
+
+	 EXI89196.1	hypothetical protein
+	 EXI83723.1	hypothetical protein
+	 EXI69265.1	hypothetical protein
+	 EXI79336.1	hypothetical protein
+
+ ### Family: 204 -> Nicotinate-nucleotide pyrophosphorylase [carboxylating]
+
+	 EXI89197.1	Nicotinate-nucleotide pyrophosphorylase [carboxylating]
+	 EXI76831.1	Nicotinate-nucleotide pyrophosphorylase [carboxylating]
+	 EXI69264.1	Nicotinate-nucleotide pyrophosphorylase [carboxylating]
+	 EXI79337.1	Nicotinate-nucleotide pyrophosphorylase [carboxylating]
+
+ ### Family: 205 -> Glutamate synthase [NADPH] large chain
+
+	 EXI89198.1	Glutamate synthase [NADPH] large chain
+	 EXI79338.1	Glutamate synthase [NADPH] large chain
+
+ ### Family: 206 -> ATP-dependent DNA helicase RecQ
+
+	 EXI89199.1	ATP-dependent DNA helicase RecQ
+	 EXI79339.1	ATP-dependent DNA helicase RecQ
+
+ ### Family: 207 -> UDP-2%2C3-diacylglucosamine hydrolase
+
+	 EXI89200.1	UDP-2%2C3-diacylglucosamine hydrolase
+	 EXI79340.1	UDP-2%2C3-diacylglucosamine hydrolase
+
+ ### Family: 208 -> hypothetical protein
+
+	 EXI76999.1	hypothetical protein
+
+ ### Family: 209 -> hypothetical protein
+
+	 EXI77000.1	hypothetical protein
+	 EXI88497.1	hypothetical protein
+
+ ### Family: 210 -> hypothetical protein
+
+	 EXI77001.1	hypothetical protein
+	 EXI88498.1	hypothetical protein
+
+ ### Family: 211 -> hypothetical protein
+
+	 EXI77003.1	hypothetical protein
+
+ ### Family: 212 -> putative glycosyltransferase
+
+	 EXI88299.1	putative glycosyltransferase
+	 EXI91417.1	Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+
+ ### Family: 213 -> Isocitrate dehydrogenase kinase/phosphatase
+
+	 EXI77557.1	Isocitrate dehydrogenase kinase/phosphatase
+	 EXI86027.1	Isocitrate dehydrogenase kinase/phosphatase
+
+ ### Family: 214 -> hypothetical protein
+
+	 EXI77560.1	hypothetical protein
+	 EXI86030.1	hypothetical protein
+
+ ### Family: 215 -> Cobalamin synthase
+
+	 EXI77561.1	Cobalamin synthase
+	 EXI86032.1	Cobalamin synthase
+
+ ### Family: 216 -> putative phosphoserine phosphatase 2
+
+	 EXI77562.1	putative phosphoserine phosphatase 2
+	 EXI86033.1	putative phosphoserine phosphatase 2
+
+ ### Family: 217 -> orotidine 5'-phosphate decarboxylase
+
+	 EXI77432.1	orotidine 5'-phosphate decarboxylase
+	 EXM40810.1	orotidine 5'-phosphate decarboxylase
+
+ ### Family: 218 -> 6-phosphofructokinase
+
+	 EXI77431.1	6-phosphofructokinase
+
+ ### Family: 219 -> hypothetical protein
+
+	 EXI77428.1	hypothetical protein
+	 EXI77430.1	hypothetical protein
+
+ ### Family: 220 -> DNA gyrase subunit B
+
+	 EXI77427.1	DNA gyrase subunit B
+
+ ### Family: 221 -> DNA polymerase III subunit beta
+
+	 EXI77426.1	DNA polymerase III subunit beta
+
+ ### Family: 222 -> putative O-glycosylation ligase%2C exosortase A-associated
+
+	 EXI77240.1	putative O-glycosylation ligase%2C exosortase A-associated
+	 EXI91787.1	putative O-glycosylation ligase%2C exosortase A-associated
+	 EXI76736.1	putative O-glycosylation ligase%2C exosortase A-associated
+	 EXI68187.1	putative O-glycosylation ligase%2C exosortase A-associated
+
+ ### Family: 223 -> Asparagine synthetase [glutamine-hydrolyzing] 1
+
+	 EXI77237.1	Asparagine synthetase [glutamine-hydrolyzing] 1
+	 EXI88297.1	Asparagine synthetase [glutamine-hydrolyzing] 1
+
+ ### Family: 224 -> O-antigen ligase family protein
+
+	 WP_034698152.1	O-antigen ligase family protein
+	 WP_034698157.1	O-antigen ligase family protein
+
+ ### Family: 225 -> pilin
+
+	 WP_034698150.1	pilin
+	 WP_176669723.1	prepilin-type N-terminal cleavage/methylation domain-containing protein
+
+ ### Family: 226 -> hypothetical protein
+
+	 WP_004995178.1	hypothetical protein
+	 WP_032049099.1	hypothetical protein
+	 WP_032003957.1	hypothetical protein
+
+ ### Family: 227 -> hypothetical protein
+
+	 WP_004995177.1	hypothetical protein
+	 WP_032003958.1	hypothetical protein
+
+ ### Family: 228 -> GNAT family N-acetyltransferase
+
+	 WP_029424471.1	GNAT family N-acetyltransferase
+	 WP_041172579.1	GNAT family N-acetyltransferase
+	 WP_001159743.1	GNAT family N-acetyltransferase
+
+ ### Family: 229 -> carbamoyltransferase C-terminal domain-containing protein
+
+	 WP_002123852.1	carbamoyltransferase C-terminal domain-containing protein
+	 EXF95122.1	carbamoyltransferase
+
+ ### Family: 230 -> IS30 family transposase
+
+	 WP_014538385.1	IS30 family transposase
+	 WP_032495426.1	IS30 family transposase
+
+ ### Family: 231 -> AlpA family phage regulatory protein
+
+	 WP_005096077.1	AlpA family phage regulatory protein
+	 WP_032003884.1	AlpA family phage regulatory protein
+	 WP_019693688.1	AlpA family transcriptional regulator
+
+ ### Family: 232 -> sigma-54 interaction domain protein
+
+	 EXC52037.1	sigma-54 interaction domain protein
+	 EXC05557.1	sigma-54 interaction domain protein
+	 WP_002113662.1	MoxR family ATPase
+
+ ### Family: 233 -> putative membrane protein
+
+	 EXC52036.1	putative membrane protein
+	 EXC05558.1	putative membrane protein
+	 WP_017386894.1	hypothetical protein
+	 WP_002113949.1	hypothetical protein
+
+ ### Family: 234 -> ycgL domain protein
+
+	 EXC52035.1	ycgL domain protein
+	 EXC05559.1	ycgL domain protein
+	 WP_005069366.1	YcgL domain-containing protein
+	 WP_002113722.1	YcgL domain-containing protein
+
+ ### Family: 235 -> putative osmotically inducible lipoprotein B
+
+	 EXC52034.1	putative osmotically inducible lipoprotein B
+	 EXC05560.1	putative osmotically inducible lipoprotein B
+	 WP_002113596.1	hypothetical protein
+	 WP_032003580.1	hypothetical protein
+
+ ### Family: 236 -> hypothetical protein
+
+	 EXC52033.1	hypothetical protein
+	 EXC05561.1	hypothetical protein
+	 WP_017386893.1	hypothetical protein
+	 WP_032003579.1	hypothetical protein
+
+ ### Family: 237 -> hypothetical protein
+
+	 EXC52032.1	hypothetical protein
+	 WP_032049098.1	hypothetical protein
+	 WP_014206661.1	hypothetical protein
+
+ ### Family: 238 -> 3'-5' exonuclease family protein
+
+	 EXC52031.1	3'-5' exonuclease family protein
+	 EXC05563.1	3'-5' exonuclease family protein
+	 WP_017386890.1	HRDC domain-containing protein
+
+ ### Family: 239 -> recombination protein RecR
+
+	 EXC52030.1	recombination protein RecR
+	 EXC05564.1	recombination protein RecR
+
+ ### Family: 240 -> DNA-binding protein%2C YbaB/EbfC family
+
+	 EXC52029.1	DNA-binding protein%2C YbaB/EbfC family
+	 EXC05565.1	DNA-binding protein%2C YbaB/EbfC family
+
+ ### Family: 241 -> cell division protein ZapA
+
+	 WP_104159615.1	cell division protein ZapA
+	 WP_004987106.1	cell division protein ZapA
+
+ ### Family: 242 -> dTDP-4-dehydrorhamnose reductase
+
+	 WP_000698332.1	dTDP-4-dehydrorhamnose reductase
+
+ ### Family: 243 -> dTDP-4-dehydrorhamnose 3%2C5-epimerase
+
+	 WP_001195721.1	dTDP-4-dehydrorhamnose 3%2C5-epimerase
+
+ ### Family: 244 -> ATP-binding protein
+
+	 WP_004997397.1	ATP-binding protein
+
+ ### Family: 245 -> transcription elongation factor GreA
+
+	 WP_004990223.1	transcription elongation factor GreA
+	 EXI90474.1	Transcript cleavage factor GreA
+
+ ### Family: 246 -> carbamoyl-phosphate synthase large subunit
+
+	 WP_151814324.1	carbamoyl-phosphate synthase large subunit
+	 EXI90473.1	Carbamoyl-phosphate synthase large chain
+
+ ### Family: 247 -> glutamine-hydrolyzing carbamoyl-phosphate synthase small subunit
+
+	 WP_151814325.1	glutamine-hydrolyzing carbamoyl-phosphate synthase small subunit
+	 EXI90472.1	Carbamoyl-phosphate synthase small chain
+
+ ### Family: 248 -> efflux transporter outer membrane subunit
+
+	 WP_005002911.1	efflux transporter outer membrane subunit
+	 WP_019691943.1	efflux transporter outer membrane subunit
+
+ ### Family: 249 -> arabinose efflux permease family protein
+
+	 EXD36502.1	hypothetical protein
+	 EXG81800.1	arabinose efflux permease family protein
+
+ ### Family: 250 -> putative quercetin 2%2C3-dioxygenase yhhW
+
+	 EXD36506.1	putative quercetin 2%2C3-dioxygenase yhhW
+	 EXG80085.1	Pirin-related protein
+
+ ### Family: 251 -> DUF6670 family protein
+
+	 WP_034698978.1	DUF6670 family protein
+	 WP_004997394.1	hypothetical protein
+	 WP_032062853.1	hypothetical protein
+	 WP_017386484.1	DUF6670 family protein
+
+ ### Family: 252 -> acyltransferase family protein
+
+	 EXD35360.1	acyltransferase family protein
+	 WP_002059996.1	acyltransferase
+
+ ### Family: 253 -> WlaTC/HtrL family glycosyltransferase
+
+	 EXD35361.1	hypothetical protein
+	 WP_001035148.1	WlaTC/HtrL family glycosyltransferase
+
+ ### Family: 254 -> glycosyl transferase 8 family protein
+
+	 EXD35362.1	glycosyl transferase 8 family protein
+	 WP_001032032.1	glycosyltransferase
+
+ ### Family: 255 -> glycosyltransferase
+
+	 EXD35363.1	glycosyl transferases group 1 family protein
+	 WP_002059998.1	glycosyltransferase
+	 WP_032005560.1	glycosyltransferase
+
+ ### Family: 256 -> aspartate aminotransferase family protein
+
+	 WP_004995878.1	adenosylmethionine--8-amino-7-oxononanoate transaminase
+	 WP_069036832.1	aspartate aminotransferase family protein
+	 EXE62179.1	succinylornithine transaminase family protein
+	 WP_032004085.1	aspartate aminotransferase family protein
+	 WP_019689745.1	4-aminobutyrate--2-oxoglutarate transaminase
+
+ ### Family: 257 -> peroxiredoxin
+
+	 WP_204470717.1	peroxiredoxin
+	 WP_005180661.1	alkyl hydroperoxide reductase subunit C
+	 WP_019689750.1	peroxiredoxin
+
+ ### Family: 258 -> alanine racemase
+
+	 WP_151732333.1	alanine racemase
+	 WP_034303333.1	alanine racemase
+
+ ### Family: 259 -> BLUF domain-containing protein
+
+	 WP_151732332.1	BLUF domain-containing protein
+	 WP_004990933.1	BLUF domain-containing protein
+
+ ### Family: 260 -> amino acid permease
+
+	 EXD37558.1	amino acid permease family protein
+	 WP_017481360.1	amino acid permease
+	 WP_000454135.1	amino acid permease
+	 WP_081403534.1	amino acid permease
+	 EXE62177.1	D-serine/D-alanine/glycine transporter
+	 WP_032004082.1	amino acid permease
+	 WP_150204948.1	amino acid permease
+
+ ### Family: 261 -> bacteriophage coat B family protein
+
+	 EXD37564.1	bacteriophage coat B family protein
+	 WP_031966624.1	major capsid protein
+
+ ### Family: 262 -> glycerate kinase family protein
+
+	 EXD33350.1	glycerate kinase family protein
+	 WP_034300016.1	glycerate kinase
+
+ ### Family: 263 -> urea amidolyase associated protein UAAP1
+
+	 WP_004996329.1	urea amidolyase associated protein UAAP1
+	 WP_004996330.1	urea amidolyase associated protein UAAP2
+
+ ### Family: 264 -> putative protein tyrosine phosphatase
+
+	 WP_004992517.1	hypothetical protein
+	 EXI77002.1	putative protein tyrosine phosphatase
+
+ ### Family: 265 -> F0F1 ATP synthase subunit alpha
+
+	 WP_004985624.1	F0F1 ATP synthase subunit alpha
+	 WP_004985622.1	F0F1 ATP synthase subunit beta
+
+ ### Family: 266 -> EpsG family protein
+
+	 WP_032067856.1	EpsG family protein
+	 WP_032005733.1	EpsG family protein
+
+ ### Family: 267 -> GDP-mannose 6-dehydrogenase
+
+	 WP_032067859.1	Vi polysaccharide biosynthesis UDP-N-acetylglucosamine C-6 dehydrogenase TviB
+	 EXI91784.1	GDP-mannose 6-dehydrogenase
+	 EXI76740.1	GDP-mannose 6-dehydrogenase
+	 EXI68190.1	GDP-mannose 6-dehydrogenase
+
+ ### Family: 268 -> hypothetical protein
+
+	 WP_317299772.1	hypothetical protein
+	 WP_049175990.1	hypothetical protein
+
+ ### Family: 269 -> DMT family transporter
+
+	 WP_001018281.1	DMT family transporter
+	 WP_049175988.1	DMT family transporter
+	 WP_084700441.1	EamA family transporter
+	 EXI69272.1	putative inner membrane transporter yiJE
+
+ ### Family: 270 -> SH3 domain-containing protein
+
+	 WP_000749906.1	SH3 domain-containing protein
+	 WP_001984397.1	hypothetical protein
+
+ ### Family: 271 -> hypothetical protein
+
+	 WP_031977943.1	hypothetical protein
+	 WP_002002228.1	hypothetical protein
+
+ ### Family: 272 -> SMP-30/gluconolactonase/LRE family protein
+
+	 WP_000404171.1	SMP-30/gluconolactonase/LRE family protein
+	 WP_000404178.1	SMP-30/gluconolactonase/LRE family protein
+	 WP_004841117.1	SMP-30/gluconolactonase/LRE family protein
+
+ ### Family: 273 -> GntR family transcriptional regulator
+
+	 WP_000883488.1	GntR family transcriptional regulator
+	 WP_000883486.1	GntR family transcriptional regulator
+	 WP_057065979.1	GntR family transcriptional regulator
+
+ ### Family: 274 -> hypothetical protein
+
+	 WP_032063786.1	hypothetical protein
+
+ ### Family: 275 -> Ish1 domain-containing protein
+
+	 WP_031968578.1	stress-responsive nuclear envelope protein
+	 WP_000767878.1	Ish1 domain-containing protein
+	 WP_000692540.1	Ish1 domain-containing protein
+	 WP_032023227.1	Ish1 domain-containing protein
+
+ ### Family: 276 -> major capsid protein
+
+	 WP_032063795.1	major capsid protein
+	 WP_000214195.1	major capsid protein
+	 WP_032051765.1	major capsid protein
+
+ ### Family: 277 -> DUF6651 domain-containing protein
+
+	 WP_031968575.1	DUF6651 domain-containing protein
+	 WP_000770053.1	DUF6651 domain-containing protein
+	 WP_000770049.1	hypothetical protein
+
+ ### Family: 278 -> SAM-dependent methyltransferase
+
+	 WP_032068281.1	SAM-dependent methyltransferase
+
+ ### Family: 279 -> BREX system P-loop protein BrxC
+
+	 WP_032068282.1	BREX system P-loop protein BrxC
+
+ ### Family: 280 -> DUF1788 domain-containing protein
+
+	 WP_032068283.1	DUF1788 domain-containing protein
+
+ ### Family: 281 -> hypothetical protein
+
+	 WP_223673321.1	hypothetical protein
+
+ ### Family: 282 -> hypothetical protein
+
+	 WP_000873035.1	hypothetical protein
+
+ ### Family: 283 -> hypothetical protein
+
+	 WP_000896070.1	hypothetical protein
+
+ ### Family: 284 -> hypothetical protein
+
+	 WP_227552511.1	hypothetical protein
+
+ ### Family: 285 -> hypothetical protein
+
+	 WP_004739417.1	hypothetical protein
+
+ ### Family: 286 -> HNH endonuclease
+
+	 WP_004739419.1	HNH endonuclease
+
+ ### Family: 287 -> protein kinase
+
+	 WP_000912081.1	protein kinase
+	 WP_004997402.1	protein kinase
+
+ ### Family: 288 -> DUF3336 domain-containing protein
+
+	 WP_000461855.1	DUF3336 domain-containing protein
+	 WP_004997401.1	DUF3336 domain-containing protein
+
+ ### Family: 289 -> putative hydrolase/metal-binding protein
+
+	 WP_032068288.1	hypothetical protein
+	 EXB03865.1	putative hydrolase/metal-binding protein
+
+ ### Family: 290 -> YqaJ viral recombinase family protein
+
+	 WP_045124803.1	YqaJ viral recombinase family protein
+	 WP_032058585.1	YqaJ viral recombinase family protein
+	 WP_001069149.1	YqaJ viral recombinase family protein
+
+ ### Family: 291 -> DUF932 domain-containing protein
+
+	 WP_032068290.1	DUF932 domain-containing protein
+	 WP_049590811.1	DUF932 domain-containing protein
+	 WP_000940839.1	DUF932 domain-containing protein
+
+ ### Family: 292 -> hypothetical protein
+
+	 WP_032068291.1	hypothetical protein
+	 WP_001027738.1	hypothetical protein
+	 WP_000058781.1	hypothetical protein
+	 WP_016654406.1	hypothetical protein
+
+ ### Family: 293 -> inovirus-type Gp2 protein
+
+	 WP_032068292.1	inovirus-type Gp2 protein
+	 WP_032059016.1	inovirus-type Gp2 protein
+	 WP_000284561.1	inovirus-type Gp2 protein
+	 WP_004747936.1	inovirus-type Gp2 protein
+	 WP_004992793.1	inovirus-type Gp2 protein
+	 WP_032003883.1	inovirus-type Gp2 protein
+
+ ### Family: 294 -> hypothetical protein
+
+	 WP_032068294.1	hypothetical protein
+	 WP_336152182.1	hypothetical protein
+	 EXB05622.1	hypothetical protein
+
+ ### Family: 295 -> gamma-glutamyltransferase
+
+	 WP_032068298.1	gamma-glutamyltransferase
+	 EXI76048.1	Gamma-glutamyltranspeptidase precursor
+
+ ### Family: 296 -> hypothetical protein
+
+	 WP_032068336.1	hypothetical protein
+	 WP_032051327.1	hypothetical protein
+	 WP_050441235.1	hypothetical protein
+
+ ### Family: 297 -> DUF4376 domain-containing protein
+
+	 WP_032068406.1	DUF4376 domain-containing protein
+	 WP_032050739.1	DUF4376 domain-containing protein
+
+ ### Family: 298 -> tail assembly protein
+
+	 WP_284073550.1	tail assembly protein
+	 WP_032050737.1	tail assembly protein
+
+ ### Family: 299 -> NlpC/P60 family protein
+
+	 WP_284073551.1	NlpC/P60 family protein
+	 WP_032050736.1	Mov34/MPN/PAD-1 family protein
+
+ ### Family: 300 -> prophage CP4-57 regulatory family protein
+
+	 EXC45202.1	prophage CP4-57 regulatory family protein
+	 EXB05625.1	prophage CP4-57 regulatory family protein
+
+ ### Family: 301 -> SRPBCC family protein
+
+	 WP_004739843.1	SRPBCC family protein
+	 WP_014207573.1	SRPBCC family protein
+	 WP_000190594.1	SRPBCC family protein
+
+ ### Family: 302 -> folate-binding protein YgfZ
+
+	 WP_004739846.1	folate-binding protein YgfZ
+	 WP_049174843.1	aminomethyltransferase
+	 WP_005064318.1	folate-binding protein YgfZ
+	 WP_000054207.1	folate-binding protein YgfZ
+	 WP_000054208.1	folate-binding protein YgfZ
+
+ ### Family: 303 -> DsbC family protein
+
+	 WP_004739847.1	DsbC family protein
+	 WP_049174842.1	DsbC family protein
+	 WP_033850736.1	DsbC family protein
+	 WP_000850476.1	DsbC family protein
+	 WP_000850465.1	DsbC family protein
+
+ ### Family: 304 -> tetratricopeptide repeat protein
+
+	 WP_004739849.1	tetratricopeptide repeat protein
+	 WP_049174840.1	SEL1-like repeat protein
+	 WP_000734697.1	tetratricopeptide repeat protein
+
+ ### Family: 305 -> DUF3226 domain-containing protein
+
+	 WP_001015802.1	hypothetical protein
+	 WP_001015801.1	DUF3226 domain-containing protein
+
+ ### Family: 306 -> AAA family ATPase
+
+	 WP_000598970.1	AAA family ATPase
+
+ ### Family: 307 -> metal-dependent hydrolase domain protein
+
+	 EXC51907.1	metal-dependent hydrolase domain protein
+
+ ### Family: 308 -> HlyD family efflux transporter periplasmic adaptor subunit
+
+	 WP_032068067.1	HlyD family efflux transporter periplasmic adaptor subunit
+	 EXC08878.1	efflux transporter%2C RND family%2C MFP subunit
+	 WP_001036898.1	HlyD family efflux transporter periplasmic adaptor subunit
+
+ ### Family: 309 -> ABC transporter permease
+
+	 WP_032068071.1	ABC transporter permease
+	 EXC08881.1	inner membrane transport permease ybhR
+	 EXC08880.1	ABC-2 type transporter family protein
+	 WP_000267847.1	ABC transporter permease
+	 WP_000006398.1	ABC transporter permease
+
+ ### Family: 310 -> ribbon-helix-helix protein%2C CopG family
+
+	 WP_171063815.1	ribbon-helix-helix protein%2C CopG family
+
+ ### Family: 311 -> SMR family transporter
+
+	 WP_004996340.1	SMR family transporter
+	 WP_035849085.1	SMR family transporter
+	 WP_035849082.1	SMR family transporter
+
+ ### Family: 312 -> tyrosine-type recombinase/integrase
+
+	 WP_019691762.1	integrase domain-containing protein
+	 WP_032068297.1	tyrosine-type recombinase/integrase
+	 WP_104159614.1	integrase family protein
+	 EXI71411.1	putative prophage CPS-53 integrase
+	 EXC06282.1	phage integrase family protein
+	 WP_000773627.1	tyrosine-type recombinase/integrase
+	 EXI78190.1	putative prophage CPS-53 integrase
+
+ ### Family: 313 -> single-stranded DNA-binding protein
+
+	 WP_011117439.1	single-stranded DNA-binding protein
+	 WP_019693874.1	single-stranded DNA-binding protein
+
+ ### Family: 314 -> methyl-accepting chemotaxis protein
+
+	 WP_019693753.1	methyl-accepting chemotaxis protein
+	 WP_019689751.1	methyl-accepting chemotaxis protein
+
+ ### Family: 315 -> protein-disulfide reductase DsbD
+
+	 WP_019693754.1	protein-disulfide reductase DsbD
+	 EXI66448.1	Thiol:disulfide interchange protein DsbD precursor
+
+ ### Family: 316 -> type II 3-dehydroquinate dehydratase
+
+	 WP_019693755.1	type II 3-dehydroquinate dehydratase
+	 WP_034302737.1	type II 3-dehydroquinate dehydratase
+
+ ### Family: 317 -> chemotaxis protein CheY
+
+	 EXF95932.1	chemotaxis protein CheY
+	 EXI73232.1	Cyclic di-GMP phosphodiesterase response regulator RpfG
+
+ ### Family: 318 -> methylated-DNA--[protein]-cysteine S-methyltransferase
+
+	 WP_019693593.1	methylated-DNA--[protein]-cysteine S-methyltransferase
+	 EXI77564.1	Methylated-DNA--protein-cysteine methyltransferase%2C constitutive
+
+ ### Family: 319 -> LuxR C-terminal-related transcriptional regulator
+
+	 WP_019693594.1	LuxR C-terminal-related transcriptional regulator
+	 EXI68616.1	ATP-dependent transcriptional activator MalT
+
+ ### Family: 320 -> LysE family transporter
+
+	 WP_019693598.1	LysE family transporter
+	 EXI82019.1	Leucine efflux protein
+	 WP_019690092.1	LysE family translocator
+
+ ### Family: 321 -> hypothetical protein
+
+	 EXC27095.1	hypothetical protein
+	 EXA97817.1	hypothetical protein
+
+ ### Family: 322 -> hypothetical protein
+
+	 EXC27094.1	hypothetical protein
+	 EXA97818.1	hypothetical protein
+
+ ### Family: 323 -> phage terminase large subunit
+
+	 WP_057045545.1	phage terminase large subunit
+	 WP_032063970.1	phage terminase large subunit
+	 WP_032049094.1	phage terminase large subunit
+
+ ### Family: 324 -> DUF2280 domain-containing protein
+
+	 WP_000157679.1	DUF2280 domain-containing protein
+	 WP_032063971.1	DUF2280 domain-containing protein
+	 WP_032049096.1	DUF2280 domain-containing protein
+	 WP_032003951.1	DUF2280 domain-containing protein
+
+ ### Family: 325 -> putative metallopeptidase
+
+	 WP_025464493.1	putative metallopeptidase
+	 WP_032049097.1	putative metallopeptidase
+	 EXA95533.1	hypothetical protein
+	 WP_032003952.1	putative metallopeptidase
+
+ ### Family: 326 -> hypothetical protein
+
+	 WP_000220307.1	hypothetical protein
+	 WP_165381370.1	hypothetical protein
+	 WP_171071235.1	hypothetical protein
+
+ ### Family: 327 -> hypothetical protein
+
+	 WP_000168342.1	hypothetical protein
+	 WP_032063791.1	hypothetical protein
+	 WP_194156750.1	hypothetical protein
+	 WP_032050742.1	hypothetical protein
+	 WP_017387292.1	hypothetical protein
+	 WP_029768976.1	hypothetical protein
+	 EXA97816.1	hypothetical protein
+
+ ### Family: 328 -> glutamate 5-kinase
+
+	 WP_023187965.1	hypothetical protein
+	 WP_032063793.1	hypothetical protein
+	 WP_031977933.1	hypothetical protein
+	 WP_000524227.1	glutamate 5-kinase
+	 WP_000524213.1	hypothetical protein
+	 WP_032050728.1	hypothetical protein
+	 WP_032051764.1	hypothetical protein
+
+ ### Family: 329 -> hypothetical protein
+
+	 WP_002121501.1	hypothetical protein
+	 WP_032063794.1	hypothetical protein
+	 WP_057704795.1	hypothetical protein
+	 WP_000008496.1	hypothetical protein
+	 WP_032050727.1	hypothetical protein
+	 WP_000008494.1	hypothetical protein
+
+ ### Family: 330 -> HeH/LEM domain-containing protein
+
+	 WP_005802754.1	HeH/LEM domain-containing protein
+	 WP_032050726.1	HeH/LEM domain-containing protein
+
+ ### Family: 331 -> major capsid protein
+
+	 WP_002121495.1	hypothetical protein
+	 WP_032050725.1	major capsid protein
+
+ ### Family: 332 -> hypothetical protein
+
+	 WP_005802756.1	hypothetical protein
+	 WP_032050724.1	hypothetical protein
+
+ ### Family: 333 -> type II toxin-antitoxin system HicA family toxin
+
+	 WP_000838146.1	type II toxin-antitoxin system HicA family toxin
+	 WP_000568483.1	type II toxin-antitoxin system HicA family toxin
+
+ ### Family: 334 -> hypothetical protein
+
+	 WP_025464105.1	hypothetical protein
+	 WP_032063782.1	hypothetical protein
+	 WP_086221743.1	hypothetical protein
+	 WP_001185592.1	hypothetical protein
+
+ ### Family: 335 -> phage tail tube protein
+
+	 WP_002121543.1	phage tail tube protein
+	 WP_032063783.1	phage tail tube protein
+	 WP_086221744.1	phage tail tube protein
+	 WP_000094273.1	phage tail tube protein
+
+ ### Family: 336 -> hypothetical protein
+
+	 WP_023187966.1	hypothetical protein
+	 WP_032063784.1	hypothetical protein
+	 WP_046693290.1	hypothetical protein
+
+ ### Family: 337 -> hypothetical protein
+
+	 WP_002121621.1	hypothetical protein
+	 WP_032063785.1	hypothetical protein
+	 WP_031977946.1	hypothetical protein
+	 WP_000064601.1	hypothetical protein
+	 WP_004998732.1	hypothetical protein
+	 WP_032051762.1	hypothetical protein
+
+ ### Family: 338 -> phage tail terminator-like protein
+
+	 WP_002121567.1	phage tail terminator-like protein
+	 WP_032063787.1	hypothetical protein
+	 WP_000157654.1	hypothetical protein
+	 WP_001251854.1	phage tail terminator-like protein
+	 WP_002062850.1	phage tail terminator-like protein
+	 WP_025469848.1	hypothetical protein
+
+ ### Family: 339 -> HK97 gp10 family phage protein
+
+	 WP_000539743.1	hypothetical protein
+	 WP_005135680.1	hypothetical protein
+	 WP_032063789.1	hypothetical protein
+	 WP_031977941.1	hypothetical protein
+	 WP_025464509.1	HK97 gp10 family phage protein
+	 WP_001993865.1	hypothetical protein
+	 WP_032050730.1	hypothetical protein
+
+ ### Family: 340 -> hypothetical protein
+
+	 WP_002121581.1	hypothetical protein
+	 WP_005135681.1	hypothetical protein
+	 WP_032063790.1	hypothetical protein
+	 WP_031977938.1	hypothetical protein
+	 WP_000247946.1	hypothetical protein
+	 WP_000247952.1	hypothetical protein
+	 WP_032050729.1	hypothetical protein
+
+ ### Family: 341 -> hypothetical protein
+
+	 WP_005802746.1	hypothetical protein
+
+ ### Family: 342 -> hypothetical protein
+
+	 EXB76555.1	hypothetical protein
+	 EXC26056.1	hypothetical protein
+
+ ### Family: 343 -> hypothetical protein
+
+	 EXB76556.1	hypothetical protein
+	 WP_000433923.1	hypothetical protein
+	 EXC26055.1	hypothetical protein
+	 WP_223233740.1	hypothetical protein
+	 WP_032050740.1	hypothetical protein
+	 WP_017402954.1	hypothetical protein
+
+ ### Family: 344 -> glycosyl hydrolase 108 family protein
+
+	 EXB76557.1	glycosyl hydrolase 108 family protein
+	 WP_284073548.1	glycosyl hydrolase 108 family protein
+	 WP_032043608.1	N-acetylmuramidase
+	 EXC26053.1	glycosyl hydrolase 108 family protein
+	 WP_032050741.1	N-acetylmuramidase
+	 WP_032049069.1	N-acetylmuramidase
+
+ ### Family: 345 -> impB/mucB/samB family protein
+
+	 EXB76562.1	impB/mucB/samB family protein
+	 EXC26050.1	impB/mucB/samB family protein
+	 WP_032050743.1	Y-family DNA polymerase
+	 WP_017402958.1	Y-family DNA polymerase
+
+ ### Family: 346 -> peptidase S24-like family protein
+
+	 EXB76563.1	peptidase S24-like family protein
+	 WP_017402959.1	translesion error-prone DNA polymerase V autoproteolytic subunit
+
+ ### Family: 347 -> transglycosylase SLT domain-containing protein
+
+	 WP_005803989.1	transglycosylase SLT domain-containing protein
+	 WP_002018049.1	transglycosylase SLT domain-containing protein
+	 WP_080630986.1	transglycosylase SLT domain-containing protein
+	 WP_014208138.1	transglycosylase SLT domain-containing protein
+	 WP_000667182.1	transglycosylase SLT domain-containing protein
+	 WP_081403753.1	transglycosylase SLT domain-containing protein
+
+ ### Family: 348 -> DUF2798 domain-containing protein
+
+	 WP_005065652.1	DUF2798 domain-containing protein
+	 WP_063099666.1	DUF2798 domain-containing protein
+	 WP_032005796.1	DUF2798 domain-containing protein
+
+ ### Family: 349 -> flavodoxin family protein
+
+	 WP_005803991.1	NAD(P)H-dependent oxidoreductase
+	 WP_000859327.1	flavodoxin family protein
+	 WP_005065655.1	flavodoxin family protein
+	 WP_262440666.1	flavodoxin family protein
+	 WP_031975501.1	flavodoxin family protein
+	 WP_032005798.1	flavodoxin family protein
+	 WP_019693120.1	NAD(P)H:quinone oxidoreductase
+
+ ### Family: 350 -> DUF2938 domain-containing protein
+
+	 WP_005803994.1	DUF2938 domain-containing protein
+	 WP_001098165.1	DUF2938 domain-containing protein
+	 WP_005065657.1	DUF2938 domain-containing protein
+	 WP_001098163.1	DUF2938 domain-containing protein
+	 WP_017402753.1	DUF2938 domain-containing protein
+	 WP_001098177.1	DUF2938 domain-containing protein
+	 WP_032005800.1	DUF2938 domain-containing protein
+
+ ### Family: 351 -> esterase-like activity of phytase family protein
+
+	 WP_005803998.1	esterase-like activity of phytase family protein
+	 WP_000039479.1	esterase-like activity of phytase family protein
+	 WP_025469756.1	esterase-like activity of phytase family protein
+	 WP_046693227.1	esterase-like activity of phytase family protein
+	 WP_262440665.1	esterase-like activity of phytase family protein
+	 WP_000039527.1	esterase-like activity of phytase family protein
+	 WP_032005804.1	esterase-like activity of phytase family protein
+
+ ### Family: 352 -> YgiQ family radical SAM protein
+
+	 WP_005804000.1	YgiQ family radical SAM protein
+	 WP_000102052.1	YgiQ family radical SAM protein
+	 WP_005065662.1	YgiQ family radical SAM protein
+	 WP_000102049.1	YgiQ family radical SAM protein
+	 WP_262440664.1	YgiQ family radical SAM protein
+	 WP_017400141.1	YgiQ family radical SAM protein
+
+ ### Family: 353 -> DUF2726 domain-containing protein
+
+	 WP_002121669.1	DUF2726 domain-containing protein
+	 WP_000291528.1	DUF2726 domain-containing protein
+	 WP_005065664.1	DUF2726 domain-containing protein
+	 WP_032027656.1	DUF2726 domain-containing protein
+	 WP_017385843.1	DUF2726 domain-containing protein
+
+ ### Family: 354 -> hydroxyacid dehydrogenase
+
+	 WP_078210336.1	hydroxyacid dehydrogenase
+	 WP_019693599.1	2-hydroxyacid dehydrogenase
+	 WP_081313700.1	hydroxyacid dehydrogenase
+	 WP_000824433.1	hydroxyacid dehydrogenase
+	 WP_170814119.1	hydroxyacid dehydrogenase
+	 WP_000824430.1	hydroxyacid dehydrogenase
+	 WP_019691941.1	D-glycerate dehydrogenase
+	 WP_019693115.1	2-hydroxyacid dehydrogenase
+	 WP_035850280.1	D-2-hydroxyacid dehydrogenase family protein
+
+ ### Family: 355 -> helix-turn-helix domain-containing protein
+
+	 WP_002113797.1	helix-turn-helix domain-containing protein
+	 WP_019693519.1	IclR family transcriptional regulator
+	 WP_000238908.1	helix-turn-helix domain-containing protein
+	 WP_032048846.1	helix-turn-helix domain-containing protein
+	 WP_000238907.1	helix-turn-helix domain-containing protein
+
+ ### Family: 356 -> serine protease inhibitor
+
+	 WP_002113654.1	hypothetical protein
+	 WP_262467546.1	serine protease inhibitor
+
+ ### Family: 357 -> proline--tRNA ligase
+
+	 WP_002116382.1	proline--tRNA ligase
+	 WP_001202757.1	proline--tRNA ligase
+	 WP_033850737.1	proline--tRNA ligase
+	 WP_032005450.1	proline--tRNA ligase
+	 WP_005134790.1	proline--tRNA ligase
+	 WP_001202756.1	proline--tRNA ligase
+	 WP_017385897.1	proline--tRNA ligase
+
+ ### Family: 358 -> YegP family protein
+
+	 WP_002116533.1	YegP family protein
+	 WP_000929502.1	YegP family protein
+	 WP_005064346.1	YegP family protein
+	 WP_032005452.1	YegP family protein
+
+ ### Family: 359 -> zinc ribbon domain-containing protein YjdM
+
+	 WP_002116259.1	zinc ribbon domain-containing protein YjdM
+	 WP_004739839.1	zinc ribbon domain-containing protein YjdM
+	 WP_000056785.1	zinc ribbon domain-containing protein YjdM
+
+ ### Family: 360 -> DUF488 domain-containing protein
+
+	 WP_002116230.1	DUF488 family protein
+	 WP_004739841.1	DUF488 domain-containing protein
+	 WP_033850828.1	DUF488 domain-containing protein
+	 WP_032005454.1	DUF488 domain-containing protein
+	 WP_005134787.1	DUF488 domain-containing protein
+	 WP_001025487.1	DUF488 domain-containing protein
+	 WP_017402634.1	DUF488 domain-containing protein
+
+ ### Family: 361 -> pyrimidine utilization protein D
+
+	 WP_002116479.1	pyrimidine utilization protein D
+	 WP_035850083.1	alpha/beta hydrolase
+	 WP_032005456.1	pyrimidine utilization protein D
+	 WP_017385899.1	pyrimidine utilization protein D
+	 WP_019690458.1	alpha/beta fold hydrolase
+	 WP_019693205.1	alpha/beta hydrolase
+	 WP_035847828.1	alpha/beta hydrolase
+
+ ### Family: 362 -> pyrimidine utilization protein B
+
+	 WP_002116538.1	pyrimidine utilization protein B
+	 WP_032005462.1	pyrimidine utilization protein B
+	 WP_005064334.1	pyrimidine utilization protein B
+
+ ### Family: 363 -> MFS transporter
+
+	 WP_031966636.1	MFS transporter
+	 WP_004745335.1	MFS transporter
+	 EXA93655.1	sugar (and other) transporter family protein
+	 EXB03720.1	sugar (and other) transporter family protein
+	 WP_019693875.1	MFS transporter
+	 WP_032005278.1	MFS transporter
+	 WP_051506780.1	MFS transporter
+
+ ### Family: 364 -> hypothetical protein
+
+	 WP_000835370.1	hypothetical protein
+	 WP_032005274.1	hypothetical protein
+
+ ### Family: 365 -> ArsO family NAD(P)H-dependent flavin-containing monooxygenase
+
+	 WP_000080827.1	ArsO family NAD(P)H-dependent flavin-containing monooxygenase
+	 WP_004704381.1	MSMEG_0569 family flavin-dependent oxidoreductase
+
+ ### Family: 366 -> glycosyltransferase
+
+	 WP_119030030.1	glycosyltransferase
+	 WP_000498151.1	glycosyltransferase
+	 WP_086267111.1	glycosyltransferase
+
+ ### Family: 367 -> glycosyltransferase
+
+	 WP_002116205.1	glycosyltransferase
+	 WP_001170031.1	glycosyltransferase
+	 WP_032059068.1	glycosyltransferase
+
+ ### Family: 368 -> putative membrane protein
+
+	 WP_002116556.1	hypothetical protein
+	 EXD35364.1	putative membrane protein
+	 WP_001251491.1	hypothetical protein
+	 WP_001251493.1	hypothetical protein
+
+ ### Family: 369 -> aspartate--tRNA ligase
+
+	 WP_002116046.1	aspartate--tRNA ligase
+	 EXD35365.1	aspartate--tRNA ligase
+	 WP_106438693.1	aspartate--tRNA ligase
+	 WP_000986448.1	aspartate--tRNA ligase
+	 WP_000986451.1	aspartate--tRNA ligase
+
+ ### Family: 370 -> DUF4184 family protein
+
+	 WP_005072679.1	DUF4184 family protein
+	 EXD35366.1	hypothetical protein
+	 WP_026443923.1	DUF4184 family protein
+	 WP_269510046.1	DUF4184 family protein
+	 WP_002059997.1	DUF4184 family protein
+
+ ### Family: 371 -> hypothetical protein
+
+	 EXC04292.1	hypothetical protein
+	 WP_032059235.1	hypothetical protein
+
+ ### Family: 372 -> hypothetical protein
+
+	 EXC04293.1	hypothetical protein
+	 EXC51369.1	hypothetical protein
+	 WP_031989347.1	hypothetical protein
+
+ ### Family: 373 -> hypothetical protein
+
+	 EXC04296.1	hypothetical protein
+	 EXC51366.1	hypothetical protein
+
+ ### Family: 374 -> hypothetical protein
+
+	 EXC04300.1	hypothetical protein
+	 WP_000370476.1	hypothetical protein
+
+ ### Family: 375 -> Formyl-coenzyme A transferase
+
+	 EXC08126.1	coA-transferase III family protein
+	 EXC53946.1	coA-transferase III family protein
+	 EXI77559.1	Formyl-coenzyme A transferase
+	 EXI89189.1	Formyl-coenzyme A transferase
+	 EXI86029.1	Formyl-coenzyme A transferase
+	 EXB06033.1	coA-transferase III family protein
+	 EXI79329.1	Formyl-coenzyme A transferase
+
+ ### Family: 376 -> hypothetical protein
+
+	 EXC08123.1	hypothetical protein
+	 EXC53943.1	hypothetical protein
+
+ ### Family: 377 -> hypothetical protein
+
+	 EXC08121.1	hypothetical protein
+	 EXC53941.1	hypothetical protein
+
+ ### Family: 378 -> virulence factor TspB C-terminal domain-related protein
+
+	 WP_004737974.1	virulence factor TspB C-terminal domain-related protein
+	 EXD37563.1	neisseria meningitidis TspB family protein
+
+ ### Family: 379 -> hypothetical protein
+
+	 WP_004737975.1	hypothetical protein
+
+ ### Family: 380 -> hypothetical protein
+
+	 WP_001159851.1	hypothetical protein
+	 WP_031966623.1	hypothetical protein
+	 WP_032050903.1	hypothetical protein
+
+ ### Family: 381 -> replication initiation factor domain-containing protein
+
+	 WP_000200014.1	replication initiation factor domain-containing protein
+	 WP_171071139.1	replication initiation factor domain-containing protein
+	 WP_171071243.1	replication initiation factor domain-containing protein
+
+ ### Family: 382 -> hypothetical protein
+
+	 WP_001071970.1	hypothetical protein
+	 WP_001085092.1	hypothetical protein
+	 WP_032050901.1	hypothetical protein
+
+ ### Family: 383 -> hypothetical protein
+
+	 WP_004737980.1	hypothetical protein
+
+ ### Family: 384 -> type B 50S ribosomal protein L31
+
+	 WP_001224256.1	type B 50S ribosomal protein L31
+
+ ### Family: 385 -> AarF/ABC1/UbiB kinase family protein
+
+	 WP_001096918.1	AarF/ABC1/UbiB kinase family protein
+	 EXI87298.1	putative ubiquinone biosynthesis protein UbiB
+
+ ### Family: 386 -> helix-turn-helix domain-containing protein
+
+	 WP_001101310.1	helix-turn-helix domain-containing protein
+	 WP_000737062.1	helix-turn-helix domain-containing protein
+	 WP_049067826.1	helix-turn-helix domain-containing protein
+
+ ### Family: 387 -> hypothetical protein
+
+	 EXC09920.1	hypothetical protein
+	 WP_006581949.1	hypothetical protein
+
+ ### Family: 388 -> 3-Deoxy-D-manno-octulosonic-acid transferase family protein
+
+	 EXC08583.1	3-Deoxy-D-manno-octulosonic-acid transferase family protein
+	 EXC53317.1	3-Deoxy-D-manno-octulosonic-acid transferase family protein
+
+ ### Family: 389 -> flavin oxidoreductase / NADH oxidase family protein
+
+	 EXC08582.1	flavin oxidoreductase / NADH oxidase family protein
+	 EXC53316.1	flavin oxidoreductase / NADH oxidase family protein
+
+ ### Family: 390 -> hypothetical protein
+
+	 EXC08580.1	hypothetical protein
+	 EXC53314.1	hypothetical protein
+
+ ### Family: 391 -> peptide chain release factor 2
+
+	 EXC08579.1	peptide chain release factor 2
+	 EXC53313.1	peptide chain release factor 2
+	 WP_104795336.1	peptide chain release factor 2
+
+ ### Family: 392 -> putative porin
+
+	 EXC08577.1	putative porin
+	 EXC08578.1	hypothetical protein
+	 EXC53312.1	putative porin
+	 WP_004985831.1	putative porin
+
+ ### Family: 393 -> single-stranded-DNA-specific exonuclease RecJ
+
+	 EXC08576.1	single-stranded-DNA-specific exonuclease RecJ
+	 EXC53311.1	single-stranded-DNA-specific exonuclease RecJ
+	 WP_034699349.1	single-stranded-DNA-specific exonuclease RecJ
+
+ ### Family: 394 -> hypothetical protein
+
+	 WP_000269705.1	hypothetical protein
+
+ ### Family: 395 -> NAD(P)/FAD-dependent oxidoreductase
+
+	 WP_000856578.1	NAD(P)/FAD-dependent oxidoreductase
+	 WP_272275534.1	3-hydroxybenzoate 6-monooxygenase
+	 WP_035848408.1	FAD-dependent oxidoreductase
+	 WP_035849586.1	FAD-dependent monooxygenase
+
+ ### Family: 396 -> Lactoylglutathione lyase
+
+	 WP_000703170.1	VOC family protein
+	 EXI82016.1	Lactoylglutathione lyase
+	 EXI69809.1	Lactoylglutathione lyase
+	 EXG80084.1	lactoylglutathione lyase-like lyase
+
+ ### Family: 397 -> hypothetical protein
+
+	 WP_000357680.1	hypothetical protein
+
+ ### Family: 398 -> bifunctional phosphoribosyl-AMP cyclohydrolase/phosphoribosyl-ATP diphosphatase HisIE
+
+	 WP_000073503.1	bifunctional phosphoribosyl-AMP cyclohydrolase/phosphoribosyl-ATP diphosphatase HisIE
+
+ ### Family: 399 -> AAA family ATPase
+
+	 WP_000764526.1	AAA family ATPase
+
+ ### Family: 400 -> monovalent cation/H+ antiporter subunit A
+
+	 WP_000381595.1	monovalent cation/H+ antiporter subunit A
+
+ ### Family: 401 -> hypothetical protein
+
+	 EXC04487.1	hypothetical protein
+	 EXC52075.1	hypothetical protein
+	 EXC30218.1	hypothetical protein
+	 EXB05830.1	hypothetical protein
+
+ ### Family: 402 -> UTP--glucose-1-phosphate uridylyltransferase GalU
+
+	 WP_000591183.1	UTP--glucose-1-phosphate uridylyltransferase GalU
+	 WP_032067854.1	UTP--glucose-1-phosphate uridylyltransferase GalU
+	 WP_000054001.1	glucose-1-phosphate thymidylyltransferase RfbA
+	 EXI80904.1	UTP--glucose-1-phosphate uridylyltransferase
+	 WP_032005730.1	UTP--glucose-1-phosphate uridylyltransferase GalU
+	 EXI68611.1	UTP--glucose-1-phosphate uridylyltransferase
+
+ ### Family: 403 -> NAD-dependent epimerase/dehydratase family protein
+
+	 WP_032059390.1	NAD-dependent epimerase/dehydratase family protein
+	 EXI78673.1	UDP-glucose 4-epimerase
+	 EXI91415.1	Bifunctional polymyxin resistance protein ArnA
+	 WP_034300026.1	NAD(P)-dependent oxidoreductase
+	 WP_019692965.1	SDR family oxidoreductase
+	 WP_037286791.1	UDP-glucose 4-epimerase GalE
+
+ ### Family: 404 -> glycosyltransferase
+
+	 WP_000392270.1	glycosyltransferase family A protein
+	 WP_032067858.1	glycosyltransferase
+	 WP_002123295.1	glycosyltransferase family 2 protein
+	 WP_002123301.1	glycosyltransferase
+	 EXI87569.1	GalNAc(5)-diNAcBac-PP-undecaprenol beta-1%2C3-glucosyltransferase
+	 WP_188142382.1	glycosyltransferase
+	 WP_032005731.1	glycosyltransferase
+
+ ### Family: 405 -> ninB family protein
+
+	 EXC07827.1	ninB family protein
+	 EXD36906.1	ninB family protein
+	 EXC06253.1	ninB family protein
+
+ ### Family: 406 -> hypothetical protein
+
+	 EXC07824.1	hypothetical protein
+	 EXC06254.1	hypothetical protein
+
+ ### Family: 407 -> hypothetical protein
+
+	 EXC07823.1	hypothetical protein
+	 EXC06255.1	hypothetical protein
+
+ ### Family: 408 -> hypothetical protein
+
+	 EXC07822.1	hypothetical protein
+	 EXC06256.1	hypothetical protein
+
+ ### Family: 409 -> hypothetical protein
+
+	 EXC07821.1	hypothetical protein
+	 EXD36911.1	hypothetical protein
+	 EXC06257.1	hypothetical protein
+
+ ### Family: 410 -> hypothetical protein
+
+	 EXC07820.1	hypothetical protein
+	 WP_000994943.1	hypothetical protein
+	 EXC06258.1	hypothetical protein
+
+ ### Family: 411 -> hypothetical protein
+
+	 WP_118936331.1	hypothetical protein
+	 WP_001112523.1	hypothetical protein
+
+ ### Family: 412 -> hypothetical protein
+
+	 WP_000378523.1	hypothetical protein
+	 WP_111916278.1	hypothetical protein
+	 WP_031975225.1	hypothetical protein
+
+ ### Family: 413 -> hypothetical protein
+
+	 WP_000152665.1	hypothetical protein
+	 WP_000152667.1	hypothetical protein
+	 WP_000152657.1	hypothetical protein
+
+ ### Family: 414 -> hypothetical protein
+
+	 WP_001005050.1	hypothetical protein
+	 WP_031957637.1	hypothetical protein
+	 WP_001039306.1	hypothetical protein
+	 WP_032000224.1	hypothetical protein
+	 WP_001039309.1	hypothetical protein
+
+ ### Family: 415 -> hypothetical protein
+
+	 WP_000959662.1	hypothetical protein
+
+ ### Family: 416 -> DUF559 domain-containing protein
+
+	 WP_000100186.1	DUF559 domain-containing protein
+	 WP_002062752.1	DUF559 domain-containing protein
+
+ ### Family: 417 -> delta-poly-L-ornithine synthetase PosA
+
+	 WP_032059815.1	delta-poly-L-ornithine synthetase PosA
+	 WP_269496018.1	delta-poly-L-ornithine synthetase PosA
+	 WP_057066017.1	non-ribosomal peptide synthetase
+
+ ### Family: 418 -> N-acetyltransferase
+
+	 WP_001027817.1	N-acetyltransferase
+	 WP_001027816.1	GNAT family N-acetyltransferase
+	 WP_031988677.1	N-acetyltransferase
+
+ ### Family: 419 -> YjhX family toxin
+
+	 WP_029423986.1	YjhX family toxin
+	 WP_049067594.1	YjhX family toxin
+	 WP_001054060.1	YjhX family toxin
+
+ ### Family: 420 -> TetR/AcrR family transcriptional regulator
+
+	 WP_032059809.1	TetR/AcrR family transcriptional regulator
+	 WP_002055243.1	TetR/AcrR family transcriptional regulator
+
+ ### Family: 421 -> TetR/AcrR family transcriptional regulator
+
+	 WP_032059807.1	TetR/AcrR family transcriptional regulator
+	 WP_057066223.1	TetR/AcrR family transcriptional regulator
+
+ ### Family: 422 -> thioredoxin-disulfide reductase
+
+	 WP_001276144.1	thioredoxin-disulfide reductase
+	 WP_001191832.1	thioredoxin-disulfide reductase
+
+ ### Family: 423 -> EF-Tu/IF-2/RF-3 family GTPase
+
+	 WP_000542094.1	EF-Tu/IF-2/RF-3 family GTPase
+
+ ### Family: 424 -> GTP-binding protein
+
+	 WP_001029592.1	GTP-binding protein
+
+ ### Family: 425 -> hypothetical protein
+
+	 WP_019689903.1	hypothetical protein
+	 EXF95768.1	hypothetical protein
+
+ ### Family: 426 -> hypothetical protein
+
+	 WP_019689904.1	hypothetical protein
+	 WP_019691532.1	hypothetical protein
+	 WP_019693687.1	hypothetical protein
+	 EXF95769.1	hypothetical protein
+
+ ### Family: 427 -> P63C domain-containing protein
+
+	 WP_019689905.1	P63C domain-containing protein
+	 EXF95770.1	hypothetical protein
+
+ ### Family: 428 -> peptidase
+
+	 WP_019689906.1	hypothetical protein
+	 EXF95771.1	peptidase
+
+ ### Family: 429 -> hypothetical protein
+
+	 WP_019689907.1	hypothetical protein
+	 EXF95772.1	hypothetical protein
+
+ ### Family: 430 -> hypothetical protein
+
+	 WP_019689225.1	hypothetical protein
+	 EXF95914.1	hypothetical protein
+
+ ### Family: 431 -> DUF932 domain-containing protein
+
+	 WP_019689227.1	DUF932 domain-containing protein
+	 EXF95915.1	hypothetical protein
+	 WP_011117440.1	DUF932 domain-containing protein
+
+ ### Family: 432 -> STY4534 family ICE replication protein
+
+	 WP_019689228.1	STY4534 family ICE replication protein
+	 EXF95916.1	hypothetical protein
+
+ ### Family: 433 -> DUF3085 domain-containing protein
+
+	 WP_019689229.1	DUF3085 domain-containing protein
+	 EXF95917.1	hypothetical protein
+
+ ### Family: 434 -> GTPase
+
+	 WP_019689230.1	hypothetical protein
+	 EXF95918.1	GTPase
+
+ ### Family: 435 -> DNA-binding protein
+
+	 EXF96089.1	DNA-binding protein
+	 WP_019693067.1	helix-turn-helix transcriptional regulator
+
+ ### Family: 436 -> phenylalanine--tRNA ligase subunit beta
+
+	 WP_037287046.1	phenylalanine--tRNA ligase subunit beta
+	 WP_042803017.1	phenylalanine--tRNA ligase subunit beta
+
+ ### Family: 437 -> hypothetical protein
+
+	 WP_037287040.1	hypothetical protein
+	 WP_207640386.1	hypothetical protein
+
+ ### Family: 438 -> phenylalanine--tRNA ligase subunit alpha
+
+	 WP_024856079.1	phenylalanine--tRNA ligase subunit alpha
+	 WP_027074628.1	phenylalanine--tRNA ligase subunit alpha
+
+ ### Family: 439 -> class I SAM-dependent methyltransferase
+
+	 WP_037287035.1	class I SAM-dependent methyltransferase
+	 WP_024858345.1	class I SAM-dependent methyltransferase
+
+ ### Family: 440 -> DMT family transporter
+
+	 WP_037287032.1	DMT family transporter
+	 WP_320561594.1	DMT family transporter
+
+ ### Family: 441 -> BspA family leucine-rich repeat surface protein
+
+	 WP_051506458.1	BspA family leucine-rich repeat surface protein
+	 WP_080691359.1	BspA family leucine-rich repeat surface protein
+
+ ### Family: 442 -> hypothetical protein
+
+	 WP_037287313.1	hypothetical protein
+
+ ### Family: 443 -> nucleobase:cation symporter-2 family protein
+
+	 WP_037286574.1	solute carrier family 23 protein
+	 WP_166591661.1	nucleobase:cation symporter-2 family protein
+	 WP_019692693.1	nucleobase:cation symporter-2 family protein
+
+ ### Family: 444 -> Tyrocidine synthase III
+
+	 WP_037286562.1	AMP-binding protein
+	 WP_019693597.1	fatty acid--CoA ligase
+	 EXI76469.1	Acetyl-coenzyme A synthetase
+	 EXI82970.1	Tyrocidine synthase III
+	 WP_019693203.1	long-chain-fatty-acid--CoA ligase FadD1
+	 WP_019693204.1	long-chain-fatty-acid--CoA ligase FadD2
+	 EXI85687.1	Tyrocidine synthase III
+
+ ### Family: 445 -> GH25 family lysozyme
+
+	 WP_294482348.1	GH25 family lysozyme
+	 WP_051506405.1	glycoside hydrolase family 25 protein
+
+ ### Family: 446 -> RNA methyltransferase%2C RsmE family protein
+
+	 WP_294482345.1	RsmE family RNA methyltransferase
+	 EXC08584.1	RNA methyltransferase%2C RsmE family protein
+	 EXC53318.1	RNA methyltransferase%2C RsmE family protein
+
+ ### Family: 447 -> 3-isopropylmalate dehydratase large subunit
+
+	 WP_010657579.1	3-isopropylmalate dehydratase large subunit
+	 EXB05979.1	3-isopropylmalate dehydratase%2C large subunit
+
+ ### Family: 448 -> radical SAM protein
+
+	 EXJ52726.1	radical SAM protein
+	 WP_176671167.1	lipoyl synthase
+
+ ### Family: 449 -> magnesium and cobalt transport protein CorA
+
+	 WP_121189121.1	magnesium and cobalt transport protein CorA
+	 EXG79006.1	Mg2+/Co2+ transporter
+
+ ### Family: 450 -> DEAD/DEAH box helicase
+
+	 WP_016464733.1	DEAD/DEAH box helicase
+	 EXI69359.1	ATP-dependent RNA helicase RhlE
+
+ ### Family: 451 -> ATP-dependent DNA helicase
+
+	 WP_121191207.1	ATP-dependent DNA helicase
+	 WP_024264896.1	UvrD-helicase domain-containing protein
+
+ ### Family: 452 -> Gp49 family protein
+
+	 WP_035024393.1	Gp49 family protein
+	 WP_032063796.1	Gp49 family protein
+
+ ### Family: 453 -> cysteine desulfurase
+
+	 EXM40412.1	cysteine desulfurase
+	 WP_037284124.1	cysteine desulfurase
+
+ ### Family: 454 -> nitrogen-fixing protein NifU
+
+	 EXM40411.1	nitrogen-fixing protein NifU
+	 WP_037284121.1	SUF system NifU family Fe-S cluster assembly protein
+
+ ### Family: 455 -> Rrf2 family transcriptional regulator
+
+	 EXM40410.1	Rrf2 family transcriptional regulator
+	 WP_024857222.1	Rrf2 family transcriptional regulator
+
+ ### Family: 456 -> hypothetical protein
+
+	 EXM40409.1	hypothetical protein
+	 WP_155267718.1	hypothetical protein
+
+ ### Family: 457 -> hypothetical protein
+
+	 EXM40897.1	hypothetical protein
+	 WP_037284116.1	hypothetical protein
+
+ ### Family: 458 -> dinitrogenase iron-molybdenum cofactor biosynthesis protein
+
+	 EXM40408.1	dinitrogenase iron-molybdenum cofactor biosynthesis protein
+	 WP_037284113.1	NifB/NifX family molybdenum-iron cluster-binding protein
+
+ ### Family: 459 -> hydrogenase
+
+	 EXM40407.1	hydrogenase
+	 WP_037284110.1	nitrogenase component 1
+
+ ### Family: 460 -> nitrogenase
+
+	 EXM40406.1	nitrogenase
+	 WP_037284108.1	nitrogenase component 1
+
+ ### Family: 461 -> Fibronectin type III domain protein
+
+	 EXI85592.1	Fibronectin type III domain protein
+	 WP_032049071.1	phage tail protein
+
+ ### Family: 462 -> putative phage cell wall peptidase%2C NlpC/P60 family
+
+	 EXI85591.1	putative phage cell wall peptidase%2C NlpC/P60 family
+	 WP_032049072.1	NlpC/P60 family protein
+
+ ### Family: 463 -> acyl carrier protein
+
+	 WP_024858048.1	acyl carrier protein
+	 EXG80773.1	acyl carrier protein
+
+ ### Family: 464 -> DEAD/DEAH box helicase family protein
+
+	 WP_035031866.1	DEAD/DEAH box helicase family protein
+
+ ### Family: 465 -> DUF3085 domain-containing protein
+
+	 WP_035031867.1	DUF3085 domain-containing protein
+
+ ### Family: 466 -> hypothetical protein
+
+	 WP_035031881.1	hypothetical protein
+
+ ### Family: 467 -> hypothetical protein
+
+	 EXM39018.1	hypothetical protein
+	 WP_024858255.1	hypothetical protein
+
+ ### Family: 468 -> phosphoglyceromutase
+
+	 EXM39019.1	phosphoglyceromutase
+	 WP_287990355.1	2%2C3-diphosphoglycerate-dependent phosphoglycerate mutase
+
+ ### Family: 469 -> alginate regulatory protein
+
+	 EXM39025.1	alginate regulatory protein
+	 WP_024858051.1	MBOAT family O-acyltransferase
+
+ ### Family: 470 -> DUF4358 domain-containing protein
+
+	 EXM39026.1	hypothetical protein
+	 WP_242836123.1	DUF4358 domain-containing protein
+
+ ### Family: 471 -> chorismate synthase
+
+	 EXM38765.1	chorismate synthase
+	 WP_034302755.1	chorismate synthase
+	 WP_008711082.1	chorismate synthase
+
+ ### Family: 472 -> hypothetical protein
+
+	 EXM39116.1	hypothetical protein
+	 EXM39115.1	hypothetical protein
+
+ ### Family: 473 -> 3-phosphoshikimate 1-carboxyvinyltransferase
+
+	 EXM38769.1	3-phosphoshikimate 1-carboxyvinyltransferase
+	 WP_034302752.1	3-phosphoshikimate 1-carboxyvinyltransferase
+	 WP_294479908.1	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+
+ ### Family: 474 -> 3-dehydroquinate synthase
+
+	 EXM38770.1	3-dehydroquinate synthase
+	 WP_034302749.1	3-dehydroquinate synthase
+
+ ### Family: 475 -> DUF3363 domain-containing protein
+
+	 WP_035022505.1	DUF3363 domain-containing protein
+	 EXI88118.1	hypothetical protein
+
+ ### Family: 476 -> nucleoside triphosphate pyrophosphohydrolase
+
+	 WP_051454262.1	nucleoside triphosphate pyrophosphohydrolase
+	 WP_019693108.1	nucleoside triphosphate pyrophosphohydrolase
+
+ ### Family: 477 -> hypothetical protein
+
+	 WP_024856991.1	hypothetical protein
+	 EXC08122.1	hypothetical protein
+	 EXC53942.1	hypothetical protein
+
+ ### Family: 478 -> metal-dependent transcriptional regulator
+
+	 WP_024857035.1	metal-dependent transcriptional regulator
+	 WP_024856098.1	metal-dependent transcriptional regulator
+
+ ### Family: 479 -> hypothetical protein
+
+	 WP_155267800.1	hypothetical protein
+
+ ### Family: 480 -> ATP-binding cassette domain-containing protein
+
+	 WP_278245465.1	ATP-binding cassette domain-containing protein
+
+ ### Family: 481 -> HAD family phosphatase
+
+	 WP_037288990.1	HAD family phosphatase
+	 EXF96091.1	HAD family hydrolase
+	 EXI78077.1	Phosphoglycolate phosphatase%2C chromosomal
+	 WP_042801487.1	beta-phosphoglucomutase family hydrolase
+
+ ### Family: 482 -> helix-turn-helix domain-containing protein
+
+	 WP_036286609.1	helix-turn-helix domain-containing protein
+	 WP_019689749.1	GlxA family transcriptional regulator
+	 WP_245620458.1	helix-turn-helix domain-containing protein
+
+ ### Family: 483 -> acyl-CoA dehydrogenase family protein
+
+	 WP_035023330.1	acyl-CoA dehydrogenase family protein
+	 WP_140992119.1	acyl-CoA dehydrogenase C-terminal domain-containing protein
+
+ ### Family: 484 -> pyridoxamine 5'-phosphate oxidase
+
+	 WP_133675752.1	pyridoxamine 5'-phosphate oxidase
+	 EXC53310.1	pyridoxamine 5'-phosphate oxidase
+	 WP_004995552.1	pyridoxamine 5'-phosphate oxidase
+
+ ### Family: 485 -> sigma-70 family RNA polymerase sigma factor
+
+	 WP_245264674.1	sigma-70 family RNA polymerase sigma factor
+	 EXG81802.1	RNA polymerase sigma-70 factor%2C sigma-E family
+	 WP_035859946.1	sigma-70 family RNA polymerase sigma factor
+
+ ### Family: 486 -> GNAT family N-acetyltransferase
+
+	 WP_010659767.1	GNAT family N-acetyltransferase
+	 WP_294479152.1	GNAT family N-acetyltransferase
+	 WP_037287668.1	GNAT family N-acetyltransferase
+	 WP_037286326.1	GNAT family N-acetyltransferase
+
+ ### Family: 487 -> dihydrofolate reductase
+
+	 WP_010659762.1	dihydrofolate reductase
+	 WP_176669721.1	dihydrofolate reductase
+
+ ### Family: 488 -> argininosuccinate synthase
+
+	 WP_010657890.1	argininosuccinate synthase
+	 EXC06285.1	argininosuccinate synthase
+
+ ### Family: 489 -> EpsG family protein
+
+	 WP_037285277.1	EpsG family protein
+
+ ### Family: 490 -> glycosyltransferase
+
+	 WP_037285275.1	glycosyltransferase
+
+ ### Family: 491 -> glycosyltransferase family 2 protein
+
+	 WP_037285273.1	glycosyltransferase family 2 protein
+	 WP_019692968.1	glycosyltransferase family 2 protein
+
+ ### Family: 492 -> glycosyltransferase family 4 protein
+
+	 WP_037285271.1	glycosyltransferase family 4 protein
+
+ ### Family: 493 -> glycosyltransferase
+
+	 WP_037285269.1	glycosyltransferase
+
+ ### Family: 494 -> sugar transferase
+
+	 WP_080691313.1	sugar transferase
+	 WP_000825496.1	sugar transferase
+	 WP_004735659.1	sugar transferase
+	 WP_025467448.1	sugar transferase
+	 WP_025470407.1	sugar transferase
+
+ ### Family: 495 -> QueT transporter family protein
+
+	 WP_024857301.1	QueT transporter family protein
+	 WP_034442330.1	QueT transporter family protein
+
+ ### Family: 496 -> class II fructose-1%2C6-bisphosphate aldolase
+
+	 WP_024857302.1	class II fructose-1%2C6-bisphosphate aldolase
+	 EXI68571.1	Fructose-bisphosphate aldolase class 2
+
+ ### Family: 497 -> Gfo/Idh/MocA family oxidoreductase
+
+	 WP_288119029.1	Gfo/Idh/MocA family oxidoreductase
+	 WP_034302165.1	Gfo/Idh/MocA family oxidoreductase
+
+ ### Family: 498 -> hypothetical protein
+
+	 EXJ51075.1	hypothetical protein
+	 EXJ51074.1	hypothetical protein
+
+ ### Family: 499 -> efflux RND transporter permease subunit
+
+	 EXJ51076.1	hydrogenase expression protein
+	 WP_086225790.1	efflux RND transporter permease subunit
+	 WP_004739836.1	efflux RND transporter permease subunit
+	 WP_033850738.1	efflux RND transporter permease subunit
+	 WP_002116481.1	efflux RND transporter permease subunit
+	 WP_000264365.1	efflux RND transporter permease subunit
+	 WP_032005267.1	efflux RND transporter permease subunit
+
+ ### Family: 500 -> phosphoglycolate phosphatase
+
+	 WP_035025872.1	phosphoglycolate phosphatase
+	 WP_000414395.1	HAD family hydrolase
+
+ ### Family: 501 -> nucleotidyl transferase AbiEii/AbiGii toxin family protein
+
+	 WP_036589577.1	nucleotidyl transferase AbiEii/AbiGii toxin family protein
+
+ ### Family: 502 -> NmrA/HSCARG family protein
+
+	 WP_036589575.1	NmrA/HSCARG family protein
+
+ ### Family: 503 -> hypothetical protein
+
+	 WP_011982970.1	hypothetical protein
+
+ ### Family: 504 -> DUF3846 domain-containing protein
+
+	 WP_011982969.1	DUF3846 domain-containing protein
+	 EXL02083.1	protein psiB
+
+ ### Family: 505 -> thermonuclease family protein
+
+	 WP_246669773.1	thermonuclease family protein
+
+ ### Family: 506 -> hypothetical protein
+
+	 WP_011982966.1	hypothetical protein
+
+ ### Family: 507 -> HU family DNA-binding protein
+
+	 WP_011982965.1	HU family DNA-binding protein
+	 WP_013498254.1	HU family DNA-binding protein
+	 WP_004997557.1	HU family DNA-binding protein
+	 EXI71414.1	Integration host factor subunit beta
+	 WP_002553164.1	integration host factor subunit alpha
+
+ ### Family: 508 -> AarF/UbiB family protein
+
+	 WP_204947602.1	AarF/UbiB family protein
+	 WP_000612218.1	AarF/UbiB family protein
+
+ ### Family: 509 -> hypothetical protein
+
+	 WP_034298539.1	hypothetical protein
+	 WP_034298541.1	hypothetical protein
+	 WP_034298543.1	hypothetical protein
+	 WP_034298546.1	hypothetical protein
+	 WP_034298548.1	hypothetical protein
+
+ ### Family: 510 -> type I methionyl aminopeptidase
+
+	 WP_034300071.1	type I methionyl aminopeptidase
+	 WP_029375841.1	type I methionyl aminopeptidase
+
+ ### Family: 511 -> sodium:alanine symporter family protein
+
+	 WP_231492062.1	sodium:alanine symporter family protein
+	 WP_331279798.1	sodium:alanine symporter family protein
+
+ ### Family: 512 -> Inner membrane protein YaaH
+
+	 WP_034300078.1	GPR1/FUN34/YaaH family transporter
+	 EXI86334.1	Inner membrane protein YaaH
+	 EXI81151.1	Inner membrane protein YaaH
+
+ ### Family: 513 -> Lrp/AsnC family transcriptional regulator
+
+	 WP_034300459.1	Lrp/AsnC family transcriptional regulator
+	 WP_002120489.1	Lrp/AsnC family transcriptional regulator
+	 WP_015451391.1	Lrp/AsnC family transcriptional regulator
+	 EXE62180.1	bacterial regulatory s%2C gntR family protein
+	 WP_019690803.1	Lrp/AsnC family transcriptional regulator
+	 WP_008055821.1	Lrp/AsnC family transcriptional regulator
+
+ ### Family: 514 -> redox-sensing transcriptional repressor Rex
+
+	 WP_034300463.1	redox-sensing transcriptional repressor Rex
+	 WP_037286806.1	redox-sensing transcriptional repressor Rex
+
+ ### Family: 515 -> DASH family cryptochrome
+
+	 WP_034302181.1	DASH family cryptochrome
+
+ ### Family: 516 -> ThiF family adenylyltransferase
+
+	 WP_034302183.1	ThiF family adenylyltransferase
+
+ ### Family: 517 -> acyl-homoserine-lactone synthase
+
+	 WP_197017783.1	acyl-homoserine-lactone synthase
+
+ ### Family: 518 -> thymidylate synthase
+
+	 WP_034303391.1	thymidylate synthase
+	 WP_010659761.1	thymidylate synthase
+
+ ### Family: 519 -> ATP-binding cassette domain-containing protein
+
+	 WP_034303393.1	ABC-F family ATP-binding cassette domain-containing protein
+	 WP_034300461.1	ABC-F family ATP-binding cassette domain-containing protein
+	 WP_032068070.1	ATP-binding cassette domain-containing protein
+	 WP_042804553.1	molybdate ABC transporter ATP-binding protein ModF
+	 EXI82020.1	putative ABC transporter ATP-binding protein YheS
+	 EXC08879.1	heme ABC exporter%2C ATP-binding protein CcmA
+	 WP_000567280.1	ATP-binding cassette domain-containing protein
+	 WP_024857420.1	ATP-binding cassette domain-containing protein
+
+ ### Family: 520 -> cold-shock protein
+
+	 WP_034303395.1	cold-shock protein
+	 WP_027074064.1	cold-shock protein
+
+ ### Family: 521 -> UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2%2C6-diaminopimelate ligase
+
+	 WP_034303401.1	UDP-N-acetylmuramyl-tripeptide synthetase
+	 WP_005804526.1	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2%2C6-diaminopimelate ligase
+	 WP_002116900.1	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+	 WP_294479923.1	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2%2C6-diaminopimelate ligase
+	 WP_294479920.1	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+
+ ### Family: 522 -> 50S ribosomal protein L19
+
+	 WP_034303269.1	50S ribosomal protein L19
+	 WP_006467977.1	50S ribosomal protein L19
+
+ ### Family: 523 -> tRNA (guanosine(37)-N1)-methyltransferase TrmD
+
+	 WP_034303266.1	tRNA (guanosine(37)-N1)-methyltransferase TrmD
+	 WP_029929674.1	tRNA (guanosine(37)-N1)-methyltransferase TrmD
+
+ ### Family: 524 -> ribosome maturation factor RimM
+
+	 WP_034303263.1	ribosome maturation factor RimM
+	 WP_010657582.1	ribosome maturation factor RimM
+
+ ### Family: 525 -> bifunctional (p)ppGpp synthetase/guanosine-3'%2C5'-bis(diphosphate) 3'-pyrophosphohydrolase
+
+	 WP_034298962.1	bifunctional (p)ppGpp synthetase/guanosine-3'%2C5'-bis(diphosphate) 3'-pyrophosphohydrolase
+	 WP_019693109.1	GTP diphosphokinase
+
+ ### Family: 526 -> SDR family oxidoreductase
+
+	 WP_034300937.1	SDR family oxidoreductase
+	 WP_204947604.1	NAD(P)H-binding protein
+
+ ### Family: 527 -> Isocitrate dehydrogenase [NADP]
+
+	 EXI92772.1	3-isopropylmalate dehydrogenase
+	 EXI77558.1	Isocitrate dehydrogenase [NADP]
+	 EXI86028.1	Isocitrate dehydrogenase [NADP]
+
+ ### Family: 528 -> 7-carboxy-7-deazaguanine synthase
+
+	 EXI92363.1	7-carboxy-7-deazaguanine synthase
+	 EXI75910.1	7-carboxy-7-deazaguanine synthase
+	 EXI69644.1	7-carboxy-7-deazaguanine synthase
+
+ ### Family: 529 -> tol-pal system protein YbgF
+
+	 EXI92362.1	tol-pal system protein YbgF
+	 EXI75911.1	tol-pal system protein YbgF
+	 EXI69643.1	tol-pal system protein YbgF
+
+ ### Family: 530 -> 15 kDa peptidoglycan-associated lipoprotein
+
+	 EXI92361.1	15 kDa peptidoglycan-associated lipoprotein
+	 EXI75912.1	15 kDa peptidoglycan-associated lipoprotein
+	 EXI69642.1	15 kDa peptidoglycan-associated lipoprotein
+	 WP_042801148.1	peptidoglycan-associated lipoprotein Pal
+
+ ### Family: 531 -> translocation protein TolB
+
+	 EXI92360.1	translocation protein TolB
+	 EXI75913.1	translocation protein TolB
+	 EXI69641.1	hypothetical protein
+	 WP_042801151.1	Tol-Pal system beta propeller repeat protein TolB
+
+ ### Family: 532 -> hypothetical protein
+
+	 EXI92359.1	hypothetical protein
+	 EXI69640.1	hypothetical protein
+
+ ### Family: 533 -> protein TolA
+
+	 EXI92358.1	protein TolA
+	 EXI69639.1	Filamentous hemagglutinin
+
+ ### Family: 534 -> Biopolymer transport protein ExbD
+
+	 EXI92357.1	Biopolymer transport protein ExbD
+	 WP_019691760.1	biopolymer transporter ExbD
+	 EXI90163.1	Biopolymer transport protein ExbD
+	 EXI79867.1	Biopolymer transport protein ExbD
+	 EXI69638.1	Biopolymer transport protein ExbD
+
+ ### Family: 535 -> Biopolymer transport protein ExbB
+
+	 EXI92356.1	Biopolymer transport protein ExbB
+	 WP_019691759.1	MotA/TolQ/ExbB proton channel family protein
+	 EXI90162.1	Biopolymer transport protein ExbB
+	 EXI79866.1	Biopolymer transport protein ExbB
+	 EXI75916.1	Biopolymer transport protein ExbB
+	 EXI69637.1	Biopolymer transport protein ExbB
+
+ ### Family: 536 -> Acyl-CoA thioester hydrolase YbgC
+
+	 EXI92355.1	Acyl-CoA thioester hydrolase YbgC
+	 EXI75917.1	Acyl-CoA thioester hydrolase YbgC
+	 EXI69636.1	Acyl-CoA thioester hydrolase YbgC
+
+ ### Family: 537 -> M20/M25/M40 family metallo-hydrolase
+
+	 WP_034302813.1	M20/M25/M40 family metallo-hydrolase
+
+ ### Family: 538 -> class D sortase
+
+	 WP_034302811.1	class D sortase
+	 EXG79013.1	sortase family protein%2C LPXTG-site transpeptidase
+
+ ### Family: 539 -> thioredoxin family protein
+
+	 WP_034302809.1	thioredoxin family protein
+
+ ### Family: 540 -> membrane protein insertion efficiency factor YidD
+
+	 WP_034302808.1	membrane protein insertion efficiency factor YidD
+
+ ### Family: 541 -> DUF2922 domain-containing protein
+
+	 WP_034302806.1	DUF2922 domain-containing protein
+
+ ### Family: 542 -> hypothetical protein
+
+	 EXI92070.1	hypothetical protein
+	 EXI92846.1	hypothetical protein
+	 EXI72703.1	hypothetical protein
+
+ ### Family: 543 -> hypothetical protein
+
+	 EXI92071.1	hypothetical protein
+	 EXI72702.1	hypothetical protein
+
+ ### Family: 544 -> hypothetical protein
+
+	 EXI92072.1	hypothetical protein
+	 EXI72701.1	hypothetical protein
+
+ ### Family: 545 -> hypothetical protein
+
+	 EXI92073.1	hypothetical protein
+	 EXI72700.1	hypothetical protein
+
+ ### Family: 546 -> hypothetical protein
+
+	 EXI92074.1	hypothetical protein
+	 EXI72699.1	hypothetical protein
+	 EXI92841.1	hypothetical protein
+
+ ### Family: 547 -> hypothetical protein
+
+	 EXI92075.1	hypothetical protein
+	 EXI72698.1	hypothetical protein
+
+ ### Family: 548 -> hypothetical protein
+
+	 EXI92076.1	hypothetical protein
+	 EXI72697.1	hypothetical protein
+	 EXI92837.1	hypothetical protein
+
+ ### Family: 549 -> hypothetical protein
+
+	 EXI92077.1	hypothetical protein
+
+ ### Family: 550 -> hypothetical protein
+
+	 EXI92078.1	hypothetical protein
+
+ ### Family: 551 -> Sulfate starvation-induced protein 7
+
+	 EXI91040.1	Sulfate starvation-induced protein 7
+	 WP_042801739.1	arginine ABC transporter substrate-binding protein
+	 EXI77788.1	Sulfate starvation-induced protein 7
+	 WP_019689664.1	ABC transporter substrate-binding protein
+
+ ### Family: 552 -> L-cystine transport system permease protein TcyB
+
+	 EXI91041.1	L-cystine transport system permease protein TcyB
+	 EXI77787.1	Inner membrane amino-acid ABC transporter permease protein YecS
+
+ ### Family: 553 -> putative DMT superfamily transporter inner membrane protein
+
+	 EXI91043.1	putative permease%2C DMT superfamily
+	 EXI76086.1	putative DMT superfamily transporter inner membrane protein
+	 EXI77785.1	putative DMT superfamily transporter inner membrane protein
+	 EXI67812.1	putative DMT superfamily transporter inner membrane protein
+
+ ### Family: 554 -> hypothetical protein
+
+	 EXI91044.1	hypothetical protein
+	 EXI76085.1	hypothetical protein
+	 EXI77784.1	hypothetical protein
+	 EXI67813.1	hypothetical protein
+
+ ### Family: 555 -> hypothetical protein
+
+	 EXI91047.1	hypothetical protein
+	 EXI77781.1	hypothetical protein
+
+ ### Family: 556 -> hypothetical protein
+
+	 EXI91048.1	hypothetical protein
+	 EXI77780.1	hypothetical protein
+
+ ### Family: 557 -> Recombination-associated protein RdgC
+
+	 EXI90796.1	Recombination-associated protein RdgC
+	 WP_042801485.1	recombination-associated protein RdgC
+	 EXI78189.1	Recombination-associated protein RdgC
+
+ ### Family: 558 -> hypothetical protein
+
+	 EXI90797.1	hypothetical protein
+	 EXI78188.1	hypothetical protein
+
+ ### Family: 559 -> Endonuclease/Exonuclease/phosphatase family protein
+
+	 EXI90798.1	Endonuclease/Exonuclease/phosphatase family protein
+	 EXI78187.1	Endonuclease/Exonuclease/phosphatase family protein
+
+ ### Family: 560 -> hypothetical protein
+
+	 EXI90799.1	hypothetical protein
+	 EXI86226.1	hypothetical protein
+	 EXI78186.1	hypothetical protein
+	 EXI68862.1	hypothetical protein
+	 EXI72581.1	hypothetical protein
+
+ ### Family: 561 -> FeS assembly protein IscX
+
+	 EXI90800.1	FeS assembly protein IscX
+	 EXI86225.1	FeS assembly protein IscX
+	 EXI78185.1	FeS assembly protein IscX
+	 EXI68863.1	FeS assembly protein IscX
+	 EXI72580.1	FeS assembly protein IscX
+
+ ### Family: 562 -> 2Fe-2S ferredoxin
+
+	 EXI90801.1	2Fe-2S ferredoxin
+	 EXI86224.1	2Fe-2S ferredoxin
+	 EXI78184.1	2Fe-2S ferredoxin
+	 EXI68864.1	2Fe-2S ferredoxin
+	 EXI72579.1	2Fe-2S ferredoxin
+
+ ### Family: 563 -> Hsc66
+
+	 EXI90802.1	Hsc66
+	 EXI86223.1	Hsc66
+	 EXI78183.1	Hsc66
+	 EXI68865.1	Hsc66
+	 EXI72578.1	Hsc66
+
+ ### Family: 564 -> Hsc20
+
+	 EXI90803.1	Hsc20
+	 EXI86222.1	Hsc20
+	 EXI78182.1	Hsc20
+	 EXI68866.1	Hsc20
+	 EXI72577.1	Hsc20
+
+ ### Family: 565 -> Maf-like protein YhdE
+
+	 EXI88888.1	Maf-like protein YhdE
+	 EXI92067.1	Maf-like protein YhdE
+
+ ### Family: 566 -> Ribosomal RNA large subunit methyltransferase H
+
+	 EXI88887.1	Ribosomal RNA large subunit methyltransferase H
+	 EXI92066.1	Ribosomal RNA large subunit methyltransferase H
+	 EXI81241.1	Ribosomal RNA large subunit methyltransferase H
+
+ ### Family: 567 -> Ribosomal silencing factor RsfS
+
+	 EXI88886.1	Ribosomal silencing factor RsfS
+	 EXI92065.1	Ribosomal silencing factor RsfS
+	 EXI81240.1	Ribosomal silencing factor RsfS
+
+ ### Family: 568 -> putative nicotinate-nucleotide adenylyltransferase
+
+	 EXI88885.1	putative nicotinate-nucleotide adenylyltransferase
+	 EXI92064.1	putative nicotinate-nucleotide adenylyltransferase
+	 EXI81239.1	putative nicotinate-nucleotide adenylyltransferase
+
+ ### Family: 569 -> putative integral membrane protein
+
+	 EXI88883.1	putative integral membrane protein
+	 EXI88884.1	putative integral membrane protein
+	 EXI92062.1	putative integral membrane protein
+	 EXI92063.1	hypothetical protein
+	 EXI81237.1	putative integral membrane protein
+	 EXI81238.1	putative integral membrane protein
+
+ ### Family: 570 -> Homoserine kinase
+
+	 EXI88882.1	Homoserine kinase
+	 EXI92060.1	Homoserine kinase
+	 EXI81236.1	Homoserine kinase
+
+ ### Family: 571 -> hypothetical protein
+
+	 EXI88881.1	hypothetical protein
+	 EXI92059.1	hypothetical protein
+	 EXI81235.1	hypothetical protein
+
+ ### Family: 572 -> DNA polymerase I
+
+	 EXI88880.1	DNA polymerase I
+	 EXI81234.1	DNA polymerase I
+
+ ### Family: 573 -> Adenosine monophosphate-protein transferase SoFic
+
+	 EXI87472.1	Adenosine monophosphate-protein transferase SoFic
+	 EXI90616.1	Adenosine monophosphate-protein transferase SoFic
+	 EXI90623.1	Fic/DOC family protein
+	 EXI71290.1	Fic/DOC family protein
+
+ ### Family: 574 -> putative type I restriction enzymeP M protein
+
+	 EXI87470.1	putative type I restriction enzymeP M protein
+	 WP_019692137.1	class I SAM-dependent DNA methyltransferase
+
+ ### Family: 575 -> Type I restriction enzyme EcoKI specificity protein
+
+	 EXI87467.1	Type I restriction enzyme EcoKI specificity protein
+	 EXI75327.1	Type I restriction enzyme EcoKI specificity protein
+	 WP_019692136.1	restriction endonuclease subunit S
+
+ ### Family: 576 -> P-type conjugative transfer ATPase TrbB
+
+	 WP_084496552.1	P-type conjugative transfer ATPase TrbB
+	 WP_035022515.1	P-type conjugative transfer ATPase TrbB
+
+ ### Family: 577 -> putative transcriptional regulator
+
+	 WP_035029315.1	winged helix-turn-helix transcriptional regulator
+	 WP_035022513.1	winged helix-turn-helix transcriptional regulator
+	 EXI84107.1	putative transcriptional regulator
+	 EXI81074.1	putative transcriptional regulator
+	 EXI81927.1	putative transcriptional regulator
+
+ ### Family: 578 -> DUF6516 family protein
+
+	 WP_035029499.1	DUF6516 family protein
+	 WP_035022803.1	DUF6516 family protein
+	 EXI81075.1	hypothetical protein
+	 EXI81928.1	hypothetical protein
+
+ ### Family: 579 -> type II toxin-antitoxin system VapB family antitoxin
+
+	 WP_035029312.1	type II toxin-antitoxin system VapB family antitoxin
+	 EXI76476.1	Virulence-associated protein
+
+ ### Family: 580 -> glycerol-3-phosphate dehydrogenase
+
+	 WP_035032404.1	glycerol-3-phosphate dehydrogenase
+	 WP_035850964.1	glycerol-3-phosphate dehydrogenase/oxidase
+
+ ### Family: 581 -> proteasome-type protease
+
+	 WP_035032401.1	proteasome-type protease
+	 WP_004989316.1	proteasome-type protease
+
+ ### Family: 582 -> transglutaminase family protein
+
+	 WP_035032398.1	transglutaminase family protein
+	 WP_151732331.1	transglutaminase family protein
+	 WP_019690454.1	transglutaminase family protein
+	 WP_019689389.1	transglutaminase family protein
+
+ ### Family: 583 -> alpha-E domain-containing protein
+
+	 WP_035032395.1	alpha-E domain-containing protein
+	 WP_019690455.1	alpha-E domain-containing protein
+	 WP_019689388.1	alpha-E domain-containing protein
+
+ ### Family: 584 -> circularly permuted type 2 ATP-grasp protein
+
+	 WP_035032392.1	circularly permuted type 2 ATP-grasp protein
+	 WP_151732330.1	circularly permuted type 2 ATP-grasp protein
+	 WP_019690456.1	circularly permuted type 2 ATP-grasp protein
+	 WP_019689387.1	circularly permuted type 2 ATP-grasp protein
+
+ ### Family: 585 -> tRNA preQ1(34) S-adenosylmethionine ribosyltransferase-isomerase QueA
+
+	 WP_035032384.1	tRNA preQ1(34) S-adenosylmethionine ribosyltransferase-isomerase QueA
+	 WP_080678284.1	tRNA preQ1(34) S-adenosylmethionine ribosyltransferase-isomerase QueA
+
+ ### Family: 586 -> cytochrome P450
+
+	 EXL07944.1	cytochrome P450
+	 WP_035030713.1	cytochrome P450
+	 EXI89843.1	Erythromycin C-12 hydroxylase
+	 WP_035853260.1	cytochrome P450
+
+ ### Family: 587 -> hypothetical protein
+
+	 EXL07947.1	hypothetical protein
+	 EXI89841.1	hypothetical protein
+	 EXI82017.1	hypothetical protein
+	 EXI69810.1	hypothetical protein
+
+ ### Family: 588 -> ParB/RepB/Spo0J family partition protein
+
+	 WP_035028158.1	ParB/RepB/Spo0J family partition protein
+	 WP_278555411.1	ParB/RepB/Spo0J family partition protein
+
+ ### Family: 589 -> hypothetical protein
+
+	 WP_035027980.1	hypothetical protein
+	 WP_278555412.1	hypothetical protein
+
+ ### Family: 590 -> hypothetical protein
+
+	 WP_035028156.1	hypothetical protein
+	 WP_278555413.1	hypothetical protein
+
+ ### Family: 591 -> DUF1419 domain-containing protein
+
+	 WP_278555417.1	DUF1419 domain-containing protein
+	 WP_035031870.1	DUF1419 domain-containing protein
+
+ ### Family: 592 -> hypothetical protein
+
+	 WP_035027964.1	hypothetical protein
+	 WP_051520790.1	hypothetical protein
+
+ ### Family: 593 -> PcfJ domain-containing protein
+
+	 WP_035027967.1	PcfJ domain-containing protein
+
+ ### Family: 594 -> hypothetical protein
+
+	 WP_035027971.1	hypothetical protein
+	 WP_035031877.1	hypothetical protein
+
+ ### Family: 595 -> hypothetical protein
+
+	 WP_035027974.1	hypothetical protein
+	 WP_035031873.1	hypothetical protein
+
+ ### Family: 596 -> hypothetical protein
+
+	 WP_035027977.1	hypothetical protein
+
+ ### Family: 597 -> sodium-translocating pyrophosphatase
+
+	 WP_035023670.1	sodium-translocating pyrophosphatase
+	 EXI77429.1	putative K(+)-stimulated pyrophosphate-energized sodium pump
+
+ ### Family: 598 -> DUF2165 domain-containing protein
+
+	 WP_035023672.1	DUF2165 domain-containing protein
+	 WP_019691940.1	DUF2165 domain-containing protein
+
+ ### Family: 599 -> penicillin-binding protein 1A
+
+	 WP_036585827.1	penicillin-binding protein 1A
+	 WP_035024553.1	transglycosylase domain-containing protein
+	 WP_005804528.1	penicillin-binding protein PBP1a
+
+ ### Family: 600 -> beta-ketoacyl-[acyl-carrier-protein] synthase family protein
+
+	 WP_035026408.1	beta-ketoacyl-[acyl-carrier-protein] synthase family protein
+	 EXG80772.1	3-oxoacyl-(acyl-carrier-protein) synthase
+	 EXI68608.1	3-oxoacyl-[acyl-carrier-protein] synthase 2
+
+ ### Family: 601 -> nucleoside triphosphate hydrolase
+
+	 WP_035026400.1	nucleoside triphosphate hydrolase
+	 WP_035848406.1	nucleoside/nucleotide kinase family protein
+
+ ### Family: 602 -> Nitrogen regulation protein NR(II)
+
+	 WP_035026581.1	ATP-binding protein
+	 WP_012092454.1	HAMP domain-containing sensor histidine kinase
+	 EXF95933.1	ATPase
+	 EXI70463.1	Nitrogen regulation protein NR(II)
+	 EXI82966.1	Non-motile and phage-resistance protein
+	 EXI80901.1	Phosphate regulon sensor protein PhoR
+	 EXI68314.1	Nitrogen regulation protein NR(II)
+	 EXI87215.1	Nitrogen regulation protein NR(II)
+
+ ### Family: 603 -> hypothetical protein
+
+	 WP_035026270.1	hypothetical protein
+
+ ### Family: 604 -> phage tail protein
+
+	 WP_051611452.1	phage tail protein
+
+ ### Family: 605 -> hypothetical protein
+
+	 WP_035026271.1	hypothetical protein
+
+ ### Family: 606 -> DUF2163 domain-containing protein
+
+	 WP_035026273.1	DUF2163 domain-containing protein
+
+ ### Family: 607 -> hypothetical protein
+
+	 WP_035026275.1	hypothetical protein
+
+ ### Family: 608 -> tape measure protein
+
+	 WP_035026276.1	tape measure protein
+	 WP_084496392.1	tape measure protein
+
+ ### Family: 609 -> hypothetical protein
+
+	 WP_035026278.1	hypothetical protein
+
+ ### Family: 610 -> response regulator transcription factor
+
+	 EXJ52337.1	transcriptional regulator
+	 WP_034302835.1	response regulator transcription factor
+	 WP_269317487.1	response regulator transcription factor
+	 WP_019693113.1	response regulator transcription factor
+	 EXG79737.1	response regulator containing a CheY-like receiver domain and an HTH DNA-binding domain
+	 WP_019689676.1	response regulator
+	 WP_024857633.1	response regulator transcription factor
+	 WP_024857758.1	response regulator transcription factor
+
+ ### Family: 611 -> extracellular solute-binding protein
+
+	 WP_244295717.1	extracellular solute-binding protein
+	 WP_063725646.1	extracellular solute-binding protein
+
+ ### Family: 612 -> AI-2E family transporter
+
+	 WP_135949558.1	AI-2E family transporter
+	 WP_019693101.1	AI-2E family transporter
+
+ ### Family: 613 -> glycine betaine/L-proline ABC transporter ATP-binding protein
+
+	 WP_135949560.1	glycine betaine/L-proline ABC transporter ATP-binding protein
+	 WP_034302799.1	glycine betaine/L-proline ABC transporter ATP-binding protein
+
+ ### Family: 614 -> replicative DNA helicase
+
+	 WP_036581331.1	replicative DNA helicase
+	 EXC04294.1	dnaB-like helicase C terminal domain protein
+	 EXC51368.1	dnaB-like helicase N terminal domain protein
+	 WP_000065241.1	DnaB-like helicase C-terminal domain-containing protein
+
+ ### Family: 615 -> Teichoic acid translocation permease protein TagG
+
+	 WP_036289038.1	ABC transporter permease
+	 EXI78674.1	Teichoic acid translocation permease protein TagG
+	 EXI75961.1	Teichoic acid translocation permease protein TagG
+
+ ### Family: 616 -> hypothetical protein
+
+	 EXM40293.1	hypothetical protein
+	 WP_037287287.1	hypothetical protein
+
+ ### Family: 617 -> SMEK domain-containing protein
+
+	 WP_037287291.1	SMEK domain-containing protein
+	 EXM40295.1	hypothetical protein
+	 EXI68892.1	Plasmid maintenance system antidote protein
+
+ ### Family: 618 -> DUF3791 domain-containing protein
+
+	 WP_037287293.1	DUF3791 domain-containing protein
+	 EXM39921.1	hypothetical protein
+	 WP_002847519.1	DUF3791 domain-containing protein
+
+ ### Family: 619 -> DUF3990 domain-containing protein
+
+	 WP_037287294.1	DUF3990 domain-containing protein
+	 EXM39922.1	hypothetical protein
+	 WP_100084523.1	DUF3990 domain-containing protein
+
+ ### Family: 620 -> hypothetical protein
+
+	 WP_002847518.1	hypothetical protein
+	 EXM39923.1	hypothetical protein
+
+ ### Family: 621 -> DUF2075 domain-containing protein
+
+	 WP_037287303.1	DUF2075 domain-containing protein
+	 EXM39924.1	hypothetical protein
+
+ ### Family: 622 -> hypothetical protein
+
+	 WP_037287308.1	hypothetical protein
+
+ ### Family: 623 -> leucyl/phenylalanyl-tRNA--protein transferase
+
+	 WP_033848341.1	leucyl/phenylalanyl-tRNA--protein transferase
+	 WP_000854785.1	leucyl/phenylalanyl-tRNA--protein transferase
+
+ ### Family: 624 -> arginyltransferase
+
+	 WP_004703325.1	arginyltransferase
+	 WP_000844343.1	arginyltransferase
+
+ ### Family: 625 -> ribosomal protein S18-alanine N-acetyltransferase
+
+	 WP_002121701.1	ribosomal protein S18-alanine N-acetyltransferase
+	 WP_000621543.1	ribosomal protein S18-alanine N-acetyltransferase
+	 WP_051506781.1	GNAT family N-acetyltransferase
+
+ ### Family: 626 -> elongation factor G
+
+	 WP_002120436.1	elongation factor G
+	 WP_034298980.1	translation elongation factor 4
+	 WP_037288183.1	translational GTPase TypA
+	 WP_000113824.1	elongation factor G
+
+ ### Family: 627 -> ShlB/FhaC/HecB family hemolysin secretion/activation protein
+
+	 WP_032035166.1	ShlB/FhaC/HecB family hemolysin secretion/activation protein
+	 WP_000935949.1	ShlB/FhaC/HecB family hemolysin secretion/activation protein
+
+ ### Family: 628 -> DMT family transporter
+
+	 WP_032035169.1	DMT family transporter
+	 WP_032035168.1	DMT family transporter
+	 WP_002113861.1	DMT family transporter
+	 WP_002113572.1	DMT family transporter
+	 WP_001166493.1	DMT family transporter
+	 WP_000153890.1	DMT family transporter
+	 WP_032063377.1	DMT family transporter
+	 WP_069035713.1	DMT family transporter
+	 WP_001166494.1	DMT family transporter
+	 WP_000153881.1	DMT family transporter
+	 WP_017386104.1	DMT family transporter
+	 WP_032048847.1	DMT family transporter
+	 WP_001166490.1	DMT family transporter
+	 WP_306698592.1	DMT family transporter
+
+ ### Family: 629 -> hypothetical protein
+
+	 WP_032035172.1	hypothetical protein
+	 WP_005074246.1	hypothetical protein
+
+ ### Family: 630 -> C4-dicarboxylate anaerobic carrier family protein
+
+	 EXS33903.1	C4-dicarboxylate anaerobic carrier family protein
+	 EXC04491.1	C4-dicarboxylate anaerobic carrier family protein
+	 EXC52079.1	C4-dicarboxylate anaerobic carrier family protein
+	 EXC30214.1	C4-dicarboxylate anaerobic carrier family protein
+	 EXB05834.1	C4-dicarboxylate anaerobic carrier family protein
+	 EXA99434.1	C4-dicarboxylate anaerobic carrier family protein
+	 EXE63456.1	C4-dicarboxylate anaerobic carrier family protein
+
+ ### Family: 631 -> hypothetical protein
+
+	 EXS33899.1	hypothetical protein
+	 EXB78150.1	hypothetical protein
+	 EXA99438.1	hypothetical protein
+	 EXE63452.1	hypothetical protein
+
+ ### Family: 632 -> hypothetical protein
+
+	 EXS33898.1	hypothetical protein
+	 EXC04486.1	hypothetical protein
+	 EXB78149.1	hypothetical protein
+	 EXC52074.1	hypothetical protein
+	 EXC30219.1	hypothetical protein
+	 EXB05829.1	hypothetical protein
+	 EXA99439.1	hypothetical protein
+	 WP_000775808.1	hypothetical protein
+	 EXE63451.1	hypothetical protein
+
+ ### Family: 633 -> fumarase C family protein
+
+	 EXS33897.1	fumarase C family protein
+	 EXC04485.1	lyase family protein
+	 EXB78148.1	fumarase C family protein
+	 EXC52073.1	lyase family protein
+	 EXC30220.1	fumarase C family protein
+	 EXI73646.1	Fumarate hydratase class II
+	 EXB05828.1	lyase family protein
+	 EXA99440.1	fumarase C family protein
+	 EXE63450.1	fumarase C family protein
+
+ ### Family: 634 -> hypothetical protein
+
+	 WP_005304392.1	hypothetical protein
+	 WP_000749814.1	hypothetical protein
+	 WP_000749813.1	hypothetical protein
+	 WP_005076466.1	hypothetical protein
+
+ ### Family: 635 -> YciI family protein
+
+	 WP_002116836.1	YciI family protein
+	 WP_000637651.1	YciI family protein
+
+ ### Family: 636 -> hypothetical protein
+
+	 WP_032006469.1	hypothetical protein
+	 WP_032036677.1	hypothetical protein
+
+ ### Family: 637 -> glycine--tRNA ligase subunit beta
+
+	 WP_017481687.1	glycine--tRNA ligase subunit beta
+	 WP_000033903.1	glycine--tRNA ligase subunit beta
+	 WP_049175986.1	glycine--tRNA ligase subunit beta
+	 WP_032057349.1	glycine--tRNA ligase subunit beta
+	 WP_017400457.1	glycine--tRNA ligase subunit beta
+	 EXI69804.1	Glycine--tRNA ligase beta subunit
+
+ ### Family: 638 -> glycine--tRNA ligase subunit alpha
+
+	 WP_002044989.1	glycine--tRNA ligase subunit alpha
+	 WP_000085212.1	glycine--tRNA ligase subunit alpha
+	 WP_049175984.1	glycine--tRNA ligase subunit alpha
+	 EXI69803.1	Glycine--tRNA ligase alpha subunit
+
+ ### Family: 639 -> hypothetical protein
+
+	 WP_032036682.1	hypothetical protein
+	 WP_002010652.1	hypothetical protein
+	 WP_032063084.1	hypothetical protein
+	 WP_032004831.1	hypothetical protein
+
+ ### Family: 640 -> lysozyme inhibitor LprI family protein
+
+	 WP_087400176.1	lysozyme inhibitor LprI family protein
+	 WP_000910993.1	DUF1311 domain-containing protein
+	 WP_032063085.1	lysozyme inhibitor LprI family protein
+	 WP_017400456.1	lysozyme inhibitor LprI family protein
+
+ ### Family: 641 -> putative DNA modification/repair radical SAM protein
+
+	 WP_087400174.1	putative DNA modification/repair radical SAM protein
+	 WP_001283774.1	putative DNA modification/repair radical SAM protein
+	 WP_032063086.1	putative DNA modification/repair radical SAM protein
+	 WP_017400455.1	putative DNA modification/repair radical SAM protein
+
+ ### Family: 642 -> TIGR03915 family putative DNA repair protein
+
+	 WP_087400172.1	TIGR03915 family putative DNA repair protein
+	 WP_000481397.1	TIGR03915 family putative DNA repair protein
+	 WP_032063087.1	TIGR03915 family putative DNA repair protein
+	 WP_017400454.1	TIGR03915 family putative DNA repair protein
+
+ ### Family: 643 -> HPP family protein
+
+	 WP_032006472.1	HPP family protein
+	 WP_032057354.1	HPP family protein
+	 WP_002117107.1	HPP family protein
+
+ ### Family: 644 -> his Kinase A domain protein
+
+	 EXS27694.1	his Kinase A domain protein
+	 WP_032005566.1	HAMP domain-containing sensor histidine kinase
+
+ ### Family: 645 -> zinc ribbon-containing protein
+
+	 WP_001983336.1	zinc ribbon-containing protein
+	 WP_004929145.1	zinc ribbon-containing protein
+
+ ### Family: 646 -> hypothetical protein
+
+	 WP_032037121.1	hypothetical protein
+	 WP_026056967.1	hypothetical protein
+
+ ### Family: 647 -> Fe/S-dependent 2-methylisocitrate dehydratase AcnD
+
+	 WP_032037119.1	Fe/S-dependent 2-methylisocitrate dehydratase AcnD
+	 WP_286994997.1	Fe/S-dependent 2-methylisocitrate dehydratase AcnD
+
+ ### Family: 648 -> aldehyde dehydrogenase (NADP(+))
+
+	 WP_320123883.1	aldehyde dehydrogenase (NADP(+))
+	 WP_019690459.1	aldehyde dehydrogenase
+
+ ### Family: 649 -> pepSY-associated TM helix family protein
+
+	 EXS30601.1	pepSY-associated TM helix family protein
+	 WP_005802274.1	PepSY-associated TM helix domain-containing protein
+	 WP_004997374.1	PepSY-associated TM helix domain-containing protein
+	 EXA96942.1	pepSY-associated TM helix family protein
+	 EXC30274.1	pepSY-associated TM helix family protein
+	 WP_069035697.1	PepSY-associated TM helix domain-containing protein
+
+ ### Family: 650 -> putative membrane protein
+
+	 EXS31060.1	putative membrane protein
+	 WP_005802273.1	hypothetical protein
+	 WP_004997376.1	hypothetical protein
+	 EXA96943.1	putative membrane protein
+	 EXC30273.1	putative membrane protein
+	 WP_039761356.1	hypothetical protein
+
+ ### Family: 651 -> lipid-A-disaccharide synthase
+
+	 EXS30766.1	lipid-A-disaccharide synthase
+	 WP_002122187.1	lipid-A-disaccharide synthase
+	 WP_004997387.1	lipid-A-disaccharide synthase
+	 EXA96945.1	lipid-A-disaccharide synthase
+	 EXC30271.1	lipid-A-disaccharide synthase
+	 WP_069035699.1	lipid-A-disaccharide synthase
+
+ ### Family: 652 -> DUF2797 domain-containing protein
+
+	 EXS30519.1	hypothetical protein
+	 WP_005076175.1	DUF2797 domain-containing protein
+	 WP_032069024.1	DUF2797 domain-containing protein
+	 WP_004997388.1	DUF2797 domain-containing protein
+	 EXC08882.1	hypothetical protein
+	 EXA96946.1	hypothetical protein
+	 WP_000422836.1	DUF2797 domain-containing protein
+	 EXC30270.1	hypothetical protein
+	 WP_004708933.1	DUF2797 domain-containing protein
+
+ ### Family: 653 -> DUF6231 family protein
+
+	 EXS30987.1	hypothetical protein
+	 WP_002122130.1	DUF6231 family protein
+	 WP_000840537.1	DUF6231 family protein
+	 WP_004989364.1	DUF6231 family protein
+	 EXC08883.1	hypothetical protein
+	 EXA96947.1	hypothetical protein
+	 EXC30269.1	hypothetical protein
+	 WP_262467501.1	DUF6231 family protein
+
+ ### Family: 654 -> YidB family protein
+
+	 EXS31052.1	hypothetical protein
+	 WP_002122193.1	YidB family protein
+	 WP_000183448.1	YidB family protein
+	 WP_004997392.1	YidB family protein
+	 EXC08884.1	hypothetical protein
+	 WP_000183451.1	YidB family protein
+	 EXC30268.1	hypothetical protein
+	 WP_069035701.1	YidB family protein
+
+ ### Family: 655 -> gram-negative porin family protein
+
+	 EXS30607.1	gram-negative porin family protein
+	 WP_002122289.1	porin
+	 WP_000734917.1	porin
+	 EXC08885.1	gram-negative porin family protein
+	 EXC30267.1	gram-negative porin family protein
+	 WP_014206653.1	porin
+
+ ### Family: 656 -> HIT family protein
+
+	 EXS31079.1	hit-like protein involved in cell-cycle regulation
+	 WP_002122141.1	HIT family protein
+	 WP_032050085.1	HIT family protein
+	 EXC08886.1	hit-like protein involved in cell-cycle regulation
+	 WP_000312749.1	HIT family protein
+	 EXC30266.1	hit-like protein involved in cell-cycle regulation
+	 WP_005069390.1	HIT family protein
+
+ ### Family: 657 -> fatty acid oxidation complex subunit alpha FadB
+
+	 WP_032038078.1	fatty acid oxidation complex subunit alpha FadB
+	 WP_032005085.1	fatty acid oxidation complex subunit alpha FadB
+	 WP_019689392.1	3-hydroxyacyl-CoA dehydrogenase NAD-binding domain-containing protein
+
+ ### Family: 658 -> acetyl-CoA C-acetyltransferase family protein
+
+	 WP_005065826.1	acetyl-CoA C-acyltransferase FadA
+	 EXS33902.1	acetyl-CoA C-acetyltransferase family protein
+	 EXC04490.1	acetyl-CoA C-acetyltransferase family protein
+	 EXB78154.1	acetyl-CoA C-acetyltransferase family protein
+	 EXC52078.1	acetyl-CoA C-acetyltransferase family protein
+	 EXC30215.1	acetyl-CoA C-acetyltransferase family protein
+	 EXB05833.1	acetyl-CoA C-acetyltransferase family protein
+	 EXA99435.1	acetyl-CoA C-acetyltransferase family protein
+	 EXE63455.1	acetyl-CoA C-acetyltransferase family protein
+	 WP_019689391.1	acetyl-CoA C-acetyltransferase
+
+ ### Family: 659 -> hypothetical protein
+
+	 WP_032038084.1	hypothetical protein
+	 WP_034698161.1	hypothetical protein
+
+ ### Family: 660 -> hypothetical protein
+
+	 WP_032038087.1	hypothetical protein
+	 WP_004994300.1	hypothetical protein
+
+ ### Family: 661 -> lytic transglycosylase domain-containing protein
+
+	 WP_032038729.1	lytic transglycosylase domain-containing protein
+	 WP_017400421.1	lytic transglycosylase domain-containing protein
+	 WP_000792526.1	lytic transglycosylase domain-containing protein
+	 WP_034698968.1	lytic transglycosylase domain-containing protein
+	 WP_000792523.1	lytic transglycosylase domain-containing protein
+	 WP_016802976.1	lytic transglycosylase domain-containing protein
+
+ ### Family: 662 -> ribonuclease I
+
+	 WP_005804634.1	hypothetical protein
+	 WP_000877281.1	hypothetical protein
+	 WP_034698970.1	ribonuclease I
+	 WP_019692695.1	ribonuclease T2
+
+ ### Family: 663 -> malate dehydrogenase
+
+	 WP_002119517.1	malate dehydrogenase
+	 WP_000813006.1	malate dehydrogenase
+	 WP_004985458.1	malate dehydrogenase
+
+ ### Family: 664 -> DUF2789 family protein
+
+	 WP_013196798.1	DUF2789 family protein
+	 WP_002119522.1	DUF2789 family protein
+	 WP_000462894.1	DUF2789 family protein
+	 WP_034698972.1	DUF2789 family protein
+	 WP_019691148.1	DUF2789 domain-containing protein
+
+ ### Family: 665 -> hypothetical protein
+
+	 WP_032038733.1	hypothetical protein
+	 WP_005804635.1	hypothetical protein
+	 WP_000021437.1	hypothetical protein
+	 WP_034698974.1	hypothetical protein
+	 WP_000021434.1	hypothetical protein
+	 WP_002119538.1	hypothetical protein
+
+ ### Family: 666 -> 2OG-Fe(II) oxygenase
+
+	 WP_014207717.1	2OG-Fe(II) oxygenase
+	 WP_000556104.1	2OG-Fe(II) oxygenase
+	 WP_005002081.1	2OG-Fe(II) oxygenase
+	 WP_000556102.1	2OG-Fe(II) oxygenase
+	 WP_002119561.1	2OG-Fe(II) oxygenase
+
+ ### Family: 667 -> 23S rRNA (adenine(2030)-N(6))-methyltransferase RlmJ
+
+	 WP_032038735.1	23S rRNA (adenine(2030)-N(6))-methyltransferase RlmJ
+	 WP_017400420.1	23S rRNA (adenine(2030)-N(6))-methyltransferase RlmJ
+	 WP_001109438.1	23S rRNA (adenine(2030)-N(6))-methyltransferase RlmJ
+	 WP_034698976.1	23S rRNA (adenine(2030)-N(6))-methyltransferase RlmJ
+	 WP_002119552.1	23S rRNA (adenine(2030)-N(6))-methyltransferase RlmJ
+	 WP_019691445.1	23S rRNA (adenine(2030)-N(6))-methyltransferase RlmJ
+
+ ### Family: 668 -> CDP-diacylglycerol--serine O-phosphatidyltransferase
+
+	 WP_002119541.1	CDP-diacylglycerol--serine O-phosphatidyltransferase
+	 WP_000180205.1	CDP-diacylglycerol--serine O-phosphatidyltransferase
+	 WP_004985472.1	CDP-diacylglycerol--serine O-phosphatidyltransferase
+
+ ### Family: 669 -> hypothetical protein
+
+	 WP_037284661.1	hypothetical protein
+	 WP_037284658.1	hypothetical protein
+
+ ### Family: 670 -> phosphoglucosamine mutase
+
+	 WP_024857463.1	phosphoglucosamine mutase
+	 WP_004995553.1	phosphoglucosamine mutase
+
+ ### Family: 671 -> Holliday junction branch migration DNA helicase RuvB
+
+	 WP_037284678.1	Holliday junction branch migration DNA helicase RuvB
+	 EXI75918.1	Holliday junction ATP-dependent DNA helicase RuvB
+
+ ### Family: 672 -> helix-turn-helix domain-containing protein
+
+	 WP_242836118.1	helix-turn-helix domain-containing protein
+	 WP_037287305.1	DNA-binding protein
+	 WP_002847521.1	helix-turn-helix domain-containing protein
+	 WP_074833625.1	helix-turn-helix domain-containing protein
+
+ ### Family: 673 -> acetyl-CoA carboxylase%2C carboxyltransferase subunit beta
+
+	 WP_002116475.1	acetyl-CoA carboxylase%2C carboxyltransferase subunit beta
+	 WP_001071168.1	acetyl-CoA carboxylase%2C carboxyltransferase subunit beta
+	 WP_005804699.1	acetyl-CoA carboxylase%2C carboxyltransferase subunit beta
+	 WP_004993949.1	acetyl-CoA carboxylase%2C carboxyltransferase subunit beta
+
+ ### Family: 674 -> tryptophan synthase subunit alpha
+
+	 WP_002116163.1	tryptophan synthase subunit alpha
+	 WP_000088559.1	tryptophan synthase subunit alpha
+	 WP_002059485.1	tryptophan synthase subunit alpha
+	 WP_004993950.1	tryptophan synthase subunit alpha
+	 WP_032062578.1	tryptophan synthase subunit alpha
+
+ ### Family: 675 -> DUF2804 domain-containing protein
+
+	 WP_033850694.1	DUF2804 domain-containing protein
+	 WP_032036969.1	DUF2804 domain-containing protein
+	 WP_000364279.1	DUF2804 domain-containing protein
+	 WP_005804702.1	DUF2804 domain-containing protein
+	 WP_032067712.1	DUF2804 domain-containing protein
+	 WP_004993955.1	DUF2804 domain-containing protein
+	 WP_032062580.1	DUF2804 domain-containing protein
+	 WP_000364280.1	DUF2804 domain-containing protein
+	 WP_032005532.1	DUF2804 domain-containing protein
+
+ ### Family: 676 -> DUF1543 domain-containing protein
+
+	 WP_033850693.1	DUF1543 domain-containing protein
+	 WP_032036970.1	DUF1543 domain-containing protein
+	 WP_001139537.1	DUF1543 domain-containing protein
+	 WP_001139542.1	DUF1543 domain-containing protein
+	 WP_001139539.1	DUF1543 domain-containing protein
+	 WP_004993956.1	DUF1543 domain-containing protein
+	 WP_005072710.1	DUF1543 domain-containing protein
+	 WP_001139541.1	DUF1543 domain-containing protein
+	 WP_032005533.1	DUF1543 domain-containing protein
+
+ ### Family: 677 -> cysteine synthase A
+
+	 WP_002116129.1	tryptophan synthase subunit beta
+	 WP_153565912.1	tryptophan synthase subunit beta
+	 WP_000372734.1	tryptophan synthase subunit beta
+	 WP_005803987.1	cysteine synthase A
+	 WP_272275406.1	cysteine synthase A
+	 WP_171063292.1	tryptophan synthase subunit beta
+	 WP_005065649.1	cysteine synthase A
+	 WP_000102371.1	cysteine synthase A
+	 WP_032037780.1	cysteine synthase A
+	 WP_000372737.1	tryptophan synthase subunit beta
+	 WP_000102364.1	cysteine synthase A
+	 WP_032005793.1	cysteine synthase A
+
+ ### Family: 678 -> phosphoribosylanthranilate isomerase
+
+	 WP_032005535.1	phosphoribosylanthranilate isomerase
+	 WP_032036971.1	phosphoribosylanthranilate isomerase
+	 WP_000083551.1	phosphoribosylanthranilate isomerase
+	 WP_005804704.1	phosphoribosylanthranilate isomerase
+	 WP_000083555.1	phosphoribosylanthranilate isomerase
+	 WP_004993957.1	phosphoribosylanthranilate isomerase
+	 WP_032056705.1	phosphoribosylanthranilate isomerase
+
+ ### Family: 679 -> TonB-dependent receptor
+
+	 WP_033850691.1	TonB-dependent receptor
+	 WP_032036972.1	TonB-dependent receptor
+	 EXS30796.1	tonB-dependent siderophore receptor family protein
+	 EXS33896.1	tonB-dependent siderophore receptor family protein
+	 WP_000045373.1	TonB-dependent receptor
+	 WP_005072682.1	zinc piracy TonB-dependent receptor ZnuD
+	 WP_017400284.1	TonB-dependent receptor
+	 WP_002122191.1	TonB-dependent siderophore receptor
+	 EXB78147.1	tonB-dependent siderophore receptor family protein
+	 WP_004833947.1	TonB-dependent receptor
+	 EXC52072.1	tonB-dependent siderophore receptor family protein
+	 EXC30221.1	tonB-dependent siderophore receptor family protein
+	 EXD35367.1	tonB dependent receptor family protein
+	 WP_005002908.1	TonB-dependent receptor
+	 WP_151721395.1	TonB-dependent siderophore receptor
+	 WP_262450532.1	zinc piracy TonB-dependent receptor ZnuD
+	 WP_004993958.1	TonB-dependent receptor
+	 WP_080776812.1	TonB-dependent receptor
+	 WP_269510049.1	zinc piracy TonB-dependent receptor ZnuD
+	 EXB05827.1	tonB-dependent siderophore receptor family protein
+	 EXA96944.1	tonB-dependent siderophore receptor family protein
+	 EXA99441.1	tonB-dependent siderophore receptor family protein
+	 WP_000899879.1	zinc piracy TonB-dependent receptor ZnuD
+	 EXC30272.1	tonB-dependent siderophore receptor family protein
+	 WP_262467500.1	TonB-dependent siderophore receptor
+	 EXE63449.1	tonB-dependent siderophore receptor family protein
+	 WP_032005537.1	TonB-dependent receptor
+	 WP_019691937.1	TonB-dependent receptor
+
+ ### Family: 680 -> sugar (and other) transporter family protein
+
+	 EXS36300.1	sugar (and other) transporter family protein
+	 EXC27822.1	sugar (and other) transporter family protein
+	 EXE61677.1	sugar (and other) transporter family protein
+
+ ### Family: 681 -> acetyltransferase family protein
+
+	 EXS36301.1	acetyltransferase family protein
+	 EXC27823.1	acetyltransferase family protein
+
+ ### Family: 682 -> glucose / Sorbosone dehydrogenase family protein
+
+	 EXS36302.1	glucose / Sorbosone dehydrogenase family protein
+	 EXC27824.1	glucose / Sorbosone dehydrogenase family protein
+	 EXE61675.1	glucose / Sorbosone dehydrogenase family protein
+
+ ### Family: 683 -> hypothetical protein
+
+	 EXS36303.1	hypothetical protein
+	 EXC27825.1	hypothetical protein
+	 EXE61674.1	hypothetical protein
+
+ ### Family: 684 -> DUF1302 domain-containing protein
+
+	 EXS36304.1	hypothetical protein
+	 WP_019693596.1	DUF1302 domain-containing protein
+	 EXC27826.1	hypothetical protein
+	 EXE61673.1	hypothetical protein
+
+ ### Family: 685 -> alpha/beta hydrolase fold family protein
+
+	 EXS36305.1	alpha/beta hydrolase fold family protein
+	 EXC27827.1	serine hydrolase family protein
+	 EXE61672.1	alpha/beta hydrolase fold family protein
+
+ ### Family: 686 -> AraC family transcriptional regulator
+
+	 EXS36306.1	bacterial regulatory helix-turn-helix s%2C AraC family protein
+	 WP_033850696.1	AraC family transcriptional regulator
+	 WP_032036966.1	AraC family transcriptional regulator
+	 WP_001155162.1	AraC family transcriptional regulator
+	 WP_005804700.1	AraC family transcriptional regulator
+	 WP_001155165.1	AraC family transcriptional regulator
+	 EXC27828.1	bacterial regulatory helix-turn-helix s%2C AraC family protein
+	 WP_004993951.1	AraC family transcriptional regulator
+	 WP_032062579.1	AraC family transcriptional regulator
+	 WP_320561595.1	AraC family transcriptional regulator
+	 WP_004745949.1	AraC family transcriptional regulator
+	 EXE61671.1	bacterial regulatory helix-turn-helix s%2C AraC family protein
+	 WP_032004077.1	AraC family transcriptional regulator
+	 WP_005072716.1	AraC family transcriptional regulator
+	 WP_019691093.1	AraC family transcriptional regulator
+
+ ### Family: 687 -> conserved hypothetical 698 family protein
+
+	 EXS36307.1	conserved hypothetical 698 family protein
+	 EXC27829.1	conserved hypothetical 698 family protein
+	 EXE61670.1	conserved hypothetical 698 family protein
+
+ ### Family: 688 -> rieske domain protein
+
+	 EXS36308.1	rieske domain protein
+	 EXC27830.1	rieske domain protein
+	 EXE61669.1	rieske domain protein
+
+ ### Family: 689 -> hypothetical protein
+
+	 WP_032034710.1	hypothetical protein
+	 WP_033849730.1	hypothetical protein
+	 WP_032059197.1	hypothetical protein
+	 WP_002114368.1	hypothetical protein
+	 WP_032056329.1	hypothetical protein
+	 WP_032051115.1	hypothetical protein
+	 WP_032003442.1	hypothetical protein
+
+ ### Family: 690 -> MFS transporter
+
+	 WP_005304407.1	MFS transporter
+	 WP_033849728.1	MFS transporter
+	 EXS33895.1	sugar (and other) transporter family protein
+	 WP_314429322.1	MFS transporter
+	 WP_121189115.1	MFS transporter
+	 WP_032059198.1	MFS transporter
+	 WP_002114231.1	MFS transporter
+	 EXB78146.1	sugar (and other) transporter family protein
+	 EXC52071.1	sugar (and other) transporter family protein
+	 WP_032056331.1	MFS transporter
+	 EXC30222.1	sugar (and other) transporter family protein
+	 WP_000053790.1	MFS transporter
+	 WP_004996005.1	DHA2 family efflux MFS transporter permease subunit
+	 WP_042804551.1	MFS transporter
+	 WP_035848401.1	MFS transporter
+	 WP_000053782.1	MFS transporter
+	 EXB05826.1	sugar (and other) transporter family protein
+	 EXB06032.1	sugar (and other) transporter family protein
+	 EXA99442.1	sugar (and other) transporter family protein
+	 WP_032051114.1	MFS transporter
+	 WP_032003441.1	MFS transporter
+	 EXE63448.1	sugar (and other) transporter family protein
+	 WP_057065980.1	MFS transporter
+	 WP_187682495.1	MDR family MFS transporter
+
+ ### Family: 691 -> LLM class flavin-dependent oxidoreductase
+
+	 WP_000162425.1	LLM class flavin-dependent oxidoreductase
+	 WP_033849727.1	LLM class flavin-dependent oxidoreductase
+	 WP_031987537.1	LLM class flavin-dependent oxidoreductase
+	 WP_002116551.1	pyrimidine utilization protein A
+	 WP_002114461.1	LLM class flavin-dependent oxidoreductase
+	 WP_004642499.1	LLM class flavin-dependent oxidoreductase
+	 WP_032005460.1	pyrimidine utilization protein A
+	 WP_032051113.1	LLM class flavin-dependent oxidoreductase
+	 WP_017385901.1	pyrimidine utilization protein A
+	 WP_032003440.1	LLM class flavin-dependent oxidoreductase
+
+ ### Family: 692 -> acyl-CoA dehydrogenase family protein
+
+	 WP_032034706.1	acyl-CoA dehydrogenase family protein
+	 WP_033849726.1	acyl-CoA dehydrogenase family protein
+	 WP_032059199.1	acyl-CoA dehydrogenase family protein
+	 WP_000202659.1	SfnB family sulfur acquisition oxidoreductase
+	 WP_002114418.1	acyl-CoA dehydrogenase family protein
+	 WP_032062636.1	acyl-CoA dehydrogenase family protein
+	 EXI89190.1	Acyl-CoA dehydrogenase
+	 EXB06031.1	acyl-CoA dehydrogenase%2C N-terminal domain protein
+	 WP_017386138.1	acyl-CoA dehydrogenase family protein
+	 WP_140992186.1	acyl-CoA dehydrogenase family protein
+	 WP_032003439.1	acyl-CoA dehydrogenase family protein
+	 EXI79330.1	Acyl-CoA dehydrogenase
+
+ ### Family: 693 -> hypothetical protein
+
+	 WP_032034704.1	hypothetical protein
+	 WP_033849723.1	hypothetical protein
+	 WP_032059200.1	hypothetical protein
+	 WP_002114561.1	hypothetical protein
+	 WP_032062638.1	hypothetical protein
+	 WP_004996010.1	hypothetical protein
+	 WP_017403183.1	hypothetical protein
+	 WP_032051111.1	hypothetical protein
+	 WP_032003438.1	hypothetical protein
+
+ ### Family: 694 -> cytochrome ubiquinol oxidase subunit I
+
+	 WP_017386136.1	cytochrome ubiquinol oxidase subunit I
+	 WP_033849721.1	cytochrome ubiquinol oxidase subunit I
+	 WP_000051999.1	cytochrome ubiquinol oxidase subunit I
+	 WP_032063964.1	cytochrome ubiquinol oxidase subunit I
+	 WP_032062640.1	cytochrome ubiquinol oxidase subunit I
+	 WP_000052002.1	cytochrome ubiquinol oxidase subunit I
+	 WP_005076460.1	cytochrome ubiquinol oxidase subunit I
+
+ ### Family: 695 -> cytochrome d ubiquinol oxidase subunit II
+
+	 WP_005076463.1	cytochrome d ubiquinol oxidase subunit II
+	 WP_033849719.1	cytochrome d ubiquinol oxidase subunit II
+	 WP_032059201.1	cytochrome d ubiquinol oxidase subunit II
+	 WP_032006713.1	cytochrome d ubiquinol oxidase subunit II
+	 WP_000566431.1	cytochrome d ubiquinol oxidase subunit II
+	 EXG79734.1	cytochrome d oxidase cyd%2C subunit II
+
+ ### Family: 696 -> PLP-dependent aminotransferase family protein
+
+	 WP_032034702.1	PLP-dependent aminotransferase family protein
+	 WP_033849717.1	PLP-dependent aminotransferase family protein
+	 WP_000278276.1	PLP-dependent aminotransferase family protein
+	 WP_032063953.1	PLP-dependent aminotransferase family protein
+	 WP_032062641.1	PLP-dependent aminotransferase family protein
+	 WP_004996008.1	PLP-dependent aminotransferase family protein
+	 WP_005076470.1	PLP-dependent aminotransferase family protein
+	 WP_140992188.1	PLP-dependent aminotransferase family protein
+	 WP_032003436.1	PLP-dependent aminotransferase family protein
+
+ ### Family: 697 -> isocitrate lyase
+
+	 WP_002117581.1	isocitrate lyase
+	 WP_000214787.1	isocitrate lyase
+	 WP_199981006.1	isocitrate lyase
+
+ ### Family: 698 -> hemolysin family protein
+
+	 WP_002117726.1	hemolysin family protein
+	 WP_034298976.1	hemolysin family protein
+	 WP_004990563.1	hemolysin family protein
+	 WP_000051871.1	hemolysin family protein
+
+ ### Family: 699 -> CitMHS family transporter
+
+	 WP_005802944.1	CitMHS family transporter
+	 WP_000956799.1	CitMHS family transporter
+	 WP_004996328.1	CitMHS family transporter
+
+ ### Family: 700 -> hypothetical protein
+
+	 WP_002117749.1	hypothetical protein
+	 WP_032068044.1	hypothetical protein
+	 WP_034698540.1	hypothetical protein
+	 WP_002069551.1	hypothetical protein
+
+ ### Family: 701 -> DUF2239 family protein
+
+	 WP_005802947.1	DUF2239 family protein
+	 WP_001092989.1	DUF2239 family protein
+	 WP_199970979.1	DUF2239 family protein
+
+ ### Family: 702 -> sulfate adenylyltransferase subunit CysN
+
+	 WP_005802949.1	sulfate adenylyltransferase subunit CysN
+	 WP_032068043.1	sulfate adenylyltransferase subunit CysN
+	 WP_004996327.1	sulfate adenylyltransferase subunit CysN
+	 WP_000019502.1	sulfate adenylyltransferase subunit CysN
+
+ ### Family: 703 -> sulfate adenylyltransferase subunit CysD
+
+	 WP_000140408.1	sulfate adenylyltransferase subunit CysD
+	 WP_004996326.1	sulfate adenylyltransferase subunit CysD
+
+ ### Family: 704 -> hypothetical protein
+
+	 WP_004793966.1	hypothetical protein
+	 WP_002011285.1	hypothetical protein
+
+ ### Family: 705 -> transketolase C-terminal domain-containing protein
+
+	 WP_033848593.1	transketolase C-terminal domain-containing protein
+	 WP_032058515.1	transketolase C-terminal domain-containing protein
+	 WP_017387127.1	transketolase C-terminal domain-containing protein
+	 EXI77875.1	1-deoxy-D-xylulose-5-phosphate synthase
+
+ ### Family: 706 -> methionine synthase
+
+	 WP_033848594.1	methionine synthase
+	 WP_049594609.1	methionine synthase
+	 WP_005802991.1	methionine synthase
+	 WP_032063147.1	methionine synthase
+	 WP_004996549.1	methionine synthase
+	 EXI91245.1	Methionine synthase
+	 WP_017387129.1	methionine synthase
+	 WP_032050846.1	methionine synthase
+	 WP_031955962.1	methionine synthase
+	 WP_032004163.1	methionine synthase
+	 EXI69799.1	Methionine synthase
+
+ ### Family: 707 -> inorganic phosphate transporter
+
+	 WP_005070664.1	inorganic phosphate transporter
+	 WP_032058513.1	inorganic phosphate transporter
+	 EXC52205.1	phosphate transporter family protein
+	 WP_004996551.1	inorganic phosphate transporter
+	 WP_001087641.1	inorganic phosphate transporter
+
+ ### Family: 708 -> D-serine ammonia-lyase
+
+	 WP_033848595.1	D-serine ammonia-lyase
+	 WP_032058512.1	D-serine ammonia-lyase
+	 WP_005802989.1	D-serine ammonia-lyase
+	 EXC52206.1	D-serine ammonia-lyase
+	 WP_032063146.1	D-serine ammonia-lyase
+	 WP_034699972.1	D-serine ammonia-lyase
+	 WP_017403153.1	D-serine ammonia-lyase
+	 WP_032050845.1	D-serine ammonia-lyase
+	 WP_000859904.1	D-serine ammonia-lyase
+	 WP_032004162.1	D-serine ammonia-lyase
+
+ ### Family: 709 -> hypothetical protein
+
+	 WP_033848597.1	hypothetical protein
+	 WP_032058510.1	hypothetical protein
+	 WP_031969083.1	hypothetical protein
+	 EXC52208.1	hypothetical protein
+	 WP_032063144.1	hypothetical protein
+	 WP_004996562.1	hypothetical protein
+	 WP_017387131.1	hypothetical protein
+	 WP_000098361.1	hypothetical protein
+	 WP_032004160.1	hypothetical protein
+	 WP_035853298.1	hypothetical protein
+
+ ### Family: 710 -> hypothetical protein
+
+	 WP_000854552.1	hypothetical protein
+	 EXC52209.1	hypothetical protein
+	 WP_000854551.1	hypothetical protein
+
+ ### Family: 711 -> formylglycine-generating enzyme family protein
+
+	 WP_033848598.1	formylglycine-generating enzyme family protein
+	 WP_017816073.1	formylglycine-generating enzyme family protein
+	 WP_005802986.1	formylglycine-generating enzyme family protein
+	 EXC52210.1	formylglycine-generating sulfatase enzyme family protein
+	 WP_032063143.1	formylglycine-generating enzyme family protein
+	 WP_004996564.1	SUMF1/EgtB/PvdO family nonheme iron enzyme
+	 WP_017387132.1	formylglycine-generating enzyme family protein
+	 WP_000769055.1	SUMF1/EgtB/PvdO family nonheme iron enzyme
+	 WP_032004159.1	formylglycine-generating enzyme family protein
+
+ ### Family: 712 -> arylsulfatase
+
+	 WP_033848599.1	arylsulfatase
+	 WP_000875360.1	arylsulfatase
+	 WP_005802985.1	arylsulfatase
+	 EXC52211.1	arylsulfatase
+	 WP_032056853.1	arylsulfatase
+	 WP_034699974.1	arylsulfatase
+	 WP_017387133.1	sulfatase-like hydrolase/transferase
+	 WP_000875355.1	arylsulfatase
+	 WP_032004157.1	arylsulfatase
+
+ ### Family: 713 -> rhomboid family intramembrane serine protease
+
+	 WP_033848600.1	rhomboid family intramembrane serine protease
+	 WP_032058508.1	rhomboid family intramembrane serine protease
+	 WP_005802983.1	rhomboid family intramembrane serine protease
+	 EXC52212.1	rhomboid family protein
+	 WP_002117778.1	rhomboid family intramembrane serine protease
+	 WP_151837608.1	rhomboid family intramembrane serine protease
+	 WP_017387134.1	rhomboid family intramembrane serine protease
+	 WP_000902943.1	rhomboid family intramembrane serine protease
+
+ ### Family: 714 -> transketolase
+
+	 WP_081035343.1	transketolase
+	 WP_081405225.1	transketolase
+	 WP_096639818.1	transketolase
+	 WP_086250509.1	transketolase
+	 WP_079381098.1	transketolase
+	 EXI77874.1	Transketolase 2
+
+ ### Family: 715 -> MFS transporter
+
+	 WP_033848591.1	MFS transporter
+	 WP_320123886.1	MFS transporter
+	 WP_032037199.1	MFS transporter
+	 WP_002045941.1	MFS transporter
+	 WP_002113894.1	MFS transporter
+	 WP_032068032.1	MFS transporter
+	 WP_005074254.1	MFS transporter
+	 WP_000102825.1	MFS transporter
+	 WP_017387125.1	MFS transporter
+	 WP_032048844.1	MFS transporter
+	 WP_057065982.1	MFS transporter
+
+ ### Family: 716 -> hypothetical protein
+
+	 WP_033848586.1	hypothetical protein
+	 WP_032037197.1	hypothetical protein
+	 WP_002045950.1	hypothetical protein
+	 WP_005802993.1	hypothetical protein
+	 WP_032068028.1	hypothetical protein
+	 WP_017387123.1	hypothetical protein
+	 WP_032050851.1	hypothetical protein
+	 WP_050675753.1	hypothetical protein
+
+ ### Family: 717 -> aldose epimerase family protein
+
+	 WP_033848584.1	aldose epimerase family protein
+	 WP_032037195.1	aldose epimerase family protein
+	 WP_005802994.1	aldose epimerase family protein
+	 WP_031987789.1	aldose epimerase family protein
+	 WP_017387122.1	aldose epimerase family protein
+	 WP_000731765.1	aldose epimerase family protein
+	 WP_032004166.1	aldose epimerase family protein
+
+ ### Family: 718 -> MFS transporter
+
+	 WP_033848582.1	MFS transporter
+	 WP_032037194.1	MFS transporter
+	 WP_002045996.1	MFS transporter
+	 WP_005802996.1	MFS transporter
+	 WP_032068027.1	MFS transporter
+	 WP_017387121.1	MFS transporter
+	 WP_098713163.1	MFS transporter
+	 WP_032004167.1	MFS transporter
+
+ ### Family: 719 -> helix-turn-helix transcriptional regulator
+
+	 WP_033848580.1	helix-turn-helix transcriptional regulator
+	 WP_032037193.1	helix-turn-helix transcriptional regulator
+	 WP_001285126.1	helix-turn-helix transcriptional regulator
+	 WP_005802997.1	helix-turn-helix transcriptional regulator
+	 WP_001285121.1	helix-turn-helix transcriptional regulator
+	 WP_017403154.1	helix-turn-helix transcriptional regulator
+	 WP_098713162.1	helix-turn-helix transcriptional regulator
+	 WP_032003215.1	AraC family transcriptional regulator
+	 WP_032004168.1	helix-turn-helix transcriptional regulator
+
+ ### Family: 720 -> glutaminase
+
+	 WP_033848578.1	glutaminase
+	 WP_032037192.1	glutaminase
+	 WP_002045896.1	glutaminase
+	 WP_002060167.1	glutaminase
+	 WP_000856712.1	glutaminase
+
+ ### Family: 721 -> TolC family protein
+
+	 WP_033850101.1	TolC family protein
+	 WP_032035114.1	TolC family protein
+	 WP_000677745.1	TolC family protein
+	 WP_057093815.1	TolC family protein
+	 WP_032062986.1	TolC family protein
+	 WP_032014948.1	TolC family protein
+	 WP_017403230.1	TolC family protein
+	 WP_252434623.1	TolC family protein
+	 WP_032003666.1	TolC family protein
+
+ ### Family: 722 -> hypothetical protein
+
+	 WP_033850099.1	hypothetical protein
+	 WP_032035112.1	hypothetical protein
+	 WP_001044478.1	hypothetical protein
+	 WP_057093817.1	hypothetical protein
+	 WP_032062987.1	hypothetical protein
+	 WP_002113689.1	hypothetical protein
+	 WP_017403229.1	hypothetical protein
+	 WP_049067834.1	hypothetical protein
+	 WP_032003665.1	hypothetical protein
+
+ ### Family: 723 -> 5'/3'-nucleotidase SurE
+
+	 WP_081404732.1	5'/3'-nucleotidase SurE
+	 WP_086227658.1	5'/3'-nucleotidase SurE
+	 WP_086230966.1	5'/3'-nucleotidase SurE
+	 WP_081404126.1	5'/3'-nucleotidase SurE
+	 WP_078210339.1	5'/3'-nucleotidase SurE
+	 WP_079381132.1	5'/3'-nucleotidase SurE
+	 WP_269495601.1	5'/3'-nucleotidase SurE
+	 WP_081403561.1	5'/3'-nucleotidase SurE
+
+ ### Family: 724 -> hypothetical protein
+
+	 WP_033850097.1	hypothetical protein
+	 WP_199969644.1	hypothetical protein
+	 WP_057093818.1	hypothetical protein
+	 WP_032062989.1	hypothetical protein
+	 WP_002113665.1	hypothetical protein
+	 WP_017387296.1	hypothetical protein
+	 WP_049067831.1	hypothetical protein
+	 WP_032003663.1	hypothetical protein
+
+ ### Family: 725 -> HD domain-containing protein
+
+	 WP_033850096.1	HD domain-containing protein
+	 WP_032035110.1	HD domain-containing protein
+	 WP_032060121.1	HD domain-containing protein
+	 WP_002126884.1	HD domain-containing protein
+	 WP_032062990.1	HD domain-containing protein
+	 WP_002113589.1	HD domain-containing protein
+	 WP_017387295.1	HD domain-containing protein
+	 WP_032051147.1	HD domain-containing protein
+	 WP_032003662.1	HD domain-containing protein
+
+ ### Family: 726 -> DUF3696 domain-containing protein
+
+	 WP_033850094.1	DUF3696 domain-containing protein
+	 EXI87468.1	exonuclease SbcC
+	 EXD35512.1	recF/RecN/SMC N terminal domain protein
+	 EXI75326.1	putative ATPase
+	 EXI90619.1	hypothetical protein
+
+ ### Family: 727 -> adenylosuccinate lyase
+
+	 WP_002118712.1	adenylosuccinate lyase
+	 WP_288119040.1	adenylosuccinate lyase
+	 WP_086376523.1	adenylosuccinate lyase
+
+ ### Family: 728 -> high frequency lysogenization protein HflD
+
+	 WP_002118587.1	high frequency lysogenization protein HflD
+
+ ### Family: 729 -> tRNA 2-thiouridine(34) synthase MnmA
+
+	 WP_032035860.1	tRNA 2-thiouridine(34) synthase MnmA
+	 WP_086376522.1	tRNA 2-thiouridine(34) synthase MnmA
+
+ ### Family: 730 -> NUDIX hydrolase
+
+	 WP_002119006.1	NUDIX hydrolase
+	 WP_032063058.1	NUDIX hydrolase
+
+ ### Family: 731 -> DUF4262 domain-containing protein
+
+	 WP_032035858.1	DUF4262 domain-containing protein
+	 WP_032063057.1	DUF4262 domain-containing protein
+
+ ### Family: 732 -> gamma carbonic anhydrase family protein
+
+	 WP_032035857.1	gamma carbonic anhydrase family protein
+	 WP_035025489.1	gamma carbonic anhydrase family protein
+	 WP_000055863.1	DapH/DapD/GlmU-related protein
+	 WP_019692972.1	acyltransferase
+
+ ### Family: 733 -> D-alanyl-D-alanine carboxypeptidase PBP5/6
+
+	 WP_002118558.1	D-alanyl-D-alanine carboxypeptidase PBP5/6
+	 WP_034302814.1	serine hydrolase
+
+ ### Family: 734 -> hypothetical protein
+
+	 WP_002118406.1	hypothetical protein
+
+ ### Family: 735 -> hypothetical protein
+
+	 WP_032035856.1	hypothetical protein
+	 WP_032063056.1	hypothetical protein
+
+ ### Family: 736 -> SDR family NAD(P)-dependent oxidoreductase
+
+	 EXS30821.1	short chain dehydrogenase family protein
+	 WP_032035105.1	SDR family NAD(P)-dependent oxidoreductase
+	 WP_033848590.1	SDR family NAD(P)-dependent oxidoreductase
+	 WP_000926501.1	SDR family NAD(P)-dependent oxidoreductase
+	 WP_036581306.1	3-oxoacyl-[acyl-carrier-protein] reductase
+	 WP_035024551.1	SDR family oxidoreductase
+	 WP_061682691.1	SDR family NAD(P)-dependent oxidoreductase
+	 WP_002046024.1	SDR family NAD(P)-dependent oxidoreductase
+	 EXB76146.1	short chain dehydrogenase family protein
+	 EXC27381.1	short chain dehydrogenase family protein
+	 WP_019693522.1	SDR family oxidoreductase
+	 EXS35897.1	short chain dehydrogenase family protein
+	 WP_032068030.1	SDR family NAD(P)-dependent oxidoreductase
+	 EXI78615.1	3-oxoacyl-[acyl-carrier-protein] reductase FabG
+	 EXI87301.1	3-oxoacyl-[acyl-carrier-protein] reductase FabG
+	 WP_035851303.1	SDR family NAD(P)-dependent oxidoreductase
+	 WP_035851301.1	mycofactocin-coupled SDR family oxidoreductase
+	 WP_000926503.1	SDR family NAD(P)-dependent oxidoreductase
+	 WP_057066222.1	SDR family oxidoreductase
+	 EXA94891.1	short chain dehydrogenase family protein
+	 WP_032005736.1	oxidoreductase
+	 EXE63593.1	short chain dehydrogenase family protein
+	 WP_019693009.1	SDR family oxidoreductase
+	 WP_019691080.1	SDR family oxidoreductase
+	 EXG81180.1	dehydrogenase of unknown specificity%2C short-chain alcohol dehydrogenase like
+	 EXI74850.1	putative oxidoreductase
+	 EXI68573.1	3-oxoacyl-[acyl-carrier-protein] reductase FabG
+
+ ### Family: 737 -> bacterial regulatory s%2C tetR family protein
+
+	 EXS30544.1	bacterial regulatory s%2C tetR family protein
+	 EXB76144.1	bacterial regulatory s%2C tetR family protein
+	 EXC27379.1	bacterial regulatory s%2C tetR family protein
+	 EXS35899.1	bacterial regulatory s%2C tetR family protein
+	 EXA94893.1	bacterial regulatory s%2C tetR family protein
+	 EXE63595.1	bacterial regulatory s%2C tetR family protein
+
+ ### Family: 738 -> metallo-beta-lactamase superfamily protein
+
+	 EXS30958.1	metallo-beta-lactamase superfamily protein
+	 EXB76143.1	metallo-beta-lactamase superfamily protein
+	 EXC27378.1	metallo-beta-lactamase superfamily protein
+	 EXS35900.1	metallo-beta-lactamase superfamily protein
+	 EXA94894.1	metallo-beta-lactamase superfamily protein
+	 EXE63596.1	metallo-beta-lactamase superfamily protein
+
+ ### Family: 739 -> putative membrane protein
+
+	 EXS31041.1	putative membrane protein
+	 EXB76142.1	putative membrane protein
+	 EXC27377.1	putative membrane protein
+	 EXS35901.1	putative membrane protein
+	 EXA94895.1	putative membrane protein
+	 EXE63597.1	putative membrane protein
+
+ ### Family: 740 -> transcriptional regulator family protein
+
+	 EXS31044.1	transcriptional regulator family protein
+	 EXB76141.1	transcriptional regulator family protein
+	 EXC27376.1	rrf2 family protein
+	 EXS35902.1	transcriptional regulator family protein
+	 EXA94896.1	transcriptional regulator family protein
+	 EXE63598.1	transcriptional regulator family protein
+
+ ### Family: 741 -> pyridine nucleotide-disulfide oxidoreductase family protein
+
+	 EXS31048.1	pyridine nucleotide-disulfide oxidoreductase family protein
+	 EXB76140.1	pyridine nucleotide-disulfide oxidoreductase family protein
+	 EXC27375.1	pyridine nucleotide-disulfide oxidoreductase family protein
+	 EXS35903.1	pyridine nucleotide-disulfide oxidoreductase family protein
+	 EXA94897.1	pyridine nucleotide-disulfide oxidoreductase family protein
+	 EXE63599.1	pyridine nucleotide-disulfide oxidoreductase family protein
+
+ ### Family: 742 -> N-terminal domain of DJ-1_PfpI family protein
+
+	 EXS30863.1	N-terminal domain of DJ-1_PfpI family protein
+	 EXB76139.1	N-terminal domain of DJ-1_PfpI family protein
+	 EXC27374.1	N-terminal domain of DJ-1_PfpI family protein
+	 EXS35904.1	N-terminal domain of DJ-1_PfpI family protein
+	 EXE63600.1	N-terminal domain of DJ-1_PfpI family protein
+
+ ### Family: 743 -> helix-turn-helix domain-containing protein
+
+	 EXS31091.1	merR regulatory family protein
+	 WP_002114700.1	MerR family transcriptional regulator
+	 WP_000350995.1	helix-turn-helix domain-containing protein
+	 EXB76138.1	merR regulatory family protein
+	 EXC27373.1	merR regulatory family protein
+	 EXS35905.1	merR regulatory family protein
+	 WP_000350996.1	helix-turn-helix domain-containing protein
+	 WP_005065659.1	helix-turn-helix domain-containing protein
+	 WP_000351000.1	helix-turn-helix domain-containing protein
+	 WP_032005802.1	helix-turn-helix domain-containing protein
+	 WP_000355089.1	helix-turn-helix domain-containing protein
+	 EXE63601.1	merR regulatory family protein
+
+ ### Family: 744 -> GTP cyclohydrolase I FolE
+
+	 WP_002118643.1	GTP cyclohydrolase I FolE
+	 EXD36500.1	GTP cyclohydrolase I
+	 WP_001187844.1	GTP cyclohydrolase I FolE
+	 WP_171061155.1	GTP cyclohydrolase I FolE
+
+ ### Family: 745 -> ADC family extended-spectrum class C beta-lactamase
+
+	 WP_033847702.1	ADC family extended-spectrum class C beta-lactamase
+	 WP_114699271.1	extended-spectrum class C beta-lactamase ADC-179
+	 WP_005128228.1	extended-spectrum class C beta-lactamase ADC-155
+	 WP_002118772.1	extended-spectrum class C beta-lactamase ADC-18
+	 WP_002131981.1	ADC family extended-spectrum class C beta-lactamase
+	 WP_017386568.1	extended-spectrum class C beta-lactamase ADC-150
+	 WP_032004548.1	ADC family extended-spectrum class C beta-lactamase
+
+ ### Family: 746 -> DUF4105 domain-containing protein
+
+	 WP_081404568.1	DUF4105 domain-containing protein
+	 WP_032068215.1	DUF4105 domain-containing protein
+	 WP_025470001.1	DUF4105 domain-containing protein
+	 WP_019767535.1	DUF4105 domain-containing protein
+	 WP_002132154.1	DUF4105 domain-containing protein
+	 WP_017402704.1	DUF4105 domain-containing protein
+	 WP_032004546.1	DUF4105 domain-containing protein
+
+ ### Family: 747 -> DUF3015 family protein
+
+	 WP_005039106.1	DUF3015 family protein
+	 WP_000914200.1	DUF3015 family protein
+	 WP_002118800.1	DUF3015 family protein
+	 WP_003650547.1	DUF3015 family protein
+
+ ### Family: 748 -> DUF817 family protein
+
+	 WP_033847703.1	DUF817 family protein
+	 WP_121191209.1	DUF817 domain-containing protein
+	 EXD36503.1	hypothetical protein
+	 WP_032068216.1	DUF817 family protein
+	 WP_001199677.1	DUF817 family protein
+	 WP_002118932.1	DUF817 family protein
+	 WP_002126572.1	DUF817 family protein
+	 WP_017386570.1	DUF817 domain-containing protein
+	 WP_032004545.1	DUF817 domain-containing protein
+
+ ### Family: 749 -> uroporphyrinogen decarboxylase
+
+	 WP_033847704.1	uroporphyrinogen decarboxylase
+	 EXD36504.1	uroporphyrinogen decarboxylase
+	 WP_000209397.1	uroporphyrinogen decarboxylase
+	 WP_002118698.1	uroporphyrinogen decarboxylase
+	 WP_002131956.1	uroporphyrinogen decarboxylase
+	 WP_017386571.1	uroporphyrinogen decarboxylase
+	 WP_032004544.1	uroporphyrinogen decarboxylase
+
+ ### Family: 750 -> L%2CD-transpeptidase
+
+	 WP_017398631.1	L%2CD-transpeptidase
+	 EXD36505.1	putative peptidoglycan binding domain protein
+	 WP_000498089.1	L%2CD-transpeptidase
+	 WP_002118952.1	L%2CD-transpeptidase
+	 WP_002131963.1	L%2CD-transpeptidase
+	 WP_032004543.1	L%2CD-transpeptidase
+
+ ### Family: 751 -> acinetobactin biosynthesis isochorismate synthase BasJ
+
+	 WP_032005243.1	acinetobactin biosynthesis isochorismate synthase BasJ
+	 WP_049068650.1	acinetobactin biosynthesis isochorismate synthase BasJ
+	 WP_005128224.1	acinetobactin biosynthesis isochorismate synthase BasJ
+	 WP_005803771.1	acinetobactin biosynthesis isochorismate synthase BasJ
+	 WP_002132267.1	acinetobactin biosynthesis isochorismate synthase BasJ
+	 WP_017386572.1	acinetobactin biosynthesis isochorismate synthase BasJ
+	 WP_032004541.1	acinetobactin biosynthesis isochorismate synthase BasJ
+
+ ### Family: 752 -> 4'-phosphopantetheinyl transferase superfamily protein
+
+	 WP_033847707.1	4'-phosphopantetheinyl transferase superfamily protein
+	 WP_049068667.1	acinetobactin biosynthesis phosphopantetheinyl transferase BasI
+	 WP_005128223.1	acinetobactin biosynthesis phosphopantetheinyl transferase BasI
+	 WP_002118449.1	4'-phosphopantetheinyl transferase superfamily protein
+	 WP_002132238.1	4'-phosphopantetheinyl transferase superfamily protein
+	 WP_025466004.1	4'-phosphopantetheinyl transferase superfamily protein
+	 WP_032004540.1	acinetobactin biosynthesis phosphopantetheinyl transferase BasI
+
+ ### Family: 753 -> hypothetical protein
+
+	 WP_032036466.1	hypothetical protein
+	 WP_001017703.1	hypothetical protein
+	 WP_032000222.1	hypothetical protein
+	 WP_001017713.1	hypothetical protein
+
+ ### Family: 754 -> glycosyl hydrolase Ghy
+
+	 EXS27617.1	hypothetical protein
+	 EXS32650.1	hypothetical protein
+	 WP_032005553.1	glycosyl hydrolase Ghy
+
+ ### Family: 755 -> glycosyltransferase
+
+	 EXS27716.1	glycosyl transferases group 1 family protein
+	 EXS32649.1	glycosyl transferases group 1 family protein
+	 WP_036289049.1	glycosyltransferase family 1 protein
+	 WP_036286613.1	glycosyltransferase
+	 WP_288121353.1	glycosyltransferase
+	 WP_000186549.1	glycosyltransferase family 4 protein
+	 WP_002116302.1	glycosyltransferase
+	 WP_004735655.1	glycosyltransferase family 4 protein
+	 EXD35359.1	glycosyl transferases group 1 family protein
+	 EXI77236.1	2-deoxystreptamine glucosyltransferase
+	 EXI87568.1	2-deoxystreptamine glucosyltransferase
+	 EXI87570.1	putative glycosyltransferase EpsF
+	 EXI91785.1	GDP-mannose-dependent alpha-(1-6)-phosphatidylinositol monomannoside mannosyltransferase
+	 WP_000734175.1	glycosyltransferase family 4 protein
+	 WP_032005555.1	glycosyltransferase
+	 WP_032005732.1	glycosyltransferase family 4 protein
+	 EXI76739.1	GDP-mannose-dependent alpha-(1-6)-phosphatidylinositol monomannoside mannosyltransferase
+	 EXI68189.1	GDP-mannose-dependent alpha-(1-6)-phosphatidylinositol monomannoside mannosyltransferase
+	 EXI68576.1	Glycosyltransferase KanE
+
+ ### Family: 756 -> glycosyl transferase 2 family protein
+
+	 EXS27607.1	glycosyl transferase 2 family protein
+	 EXS32648.1	glycosyl transferase 2 family protein
+	 WP_032005557.1	glycosyltransferase family 2 protein
+
+ ### Family: 757 -> polysaccharide deacetylase family protein
+
+	 EXS27631.1	polysaccharide deacetylase family protein
+	 EXS32647.1	polysaccharide deacetylase family protein
+	 WP_005064195.1	polysaccharide deacetylase family protein
+	 EXI77241.1	outer membrane N-deacetylase
+	 EXI91788.1	poly-beta-1%2C6-N-acetyl-D-glucosamine N-deacetylase PgaB
+	 WP_032005559.1	polysaccharide deacetylase family protein
+	 EXI76735.1	polysaccharide deacetylase family sporulation protein PdaB
+	 EXI68186.1	outer membrane N-deacetylase
+
+ ### Family: 758 -> glycosyl transferases group 1 family protein
+
+	 EXS27621.1	glycosyl transferases group 1 family protein
+	 EXS32646.1	glycosyl transferases group 1 family protein
+
+ ### Family: 759 -> hypothetical protein
+
+	 EXS27612.1	hypothetical protein
+	 EXS32645.1	hypothetical protein
+
+ ### Family: 760 -> ELM1/GtrOC1 family putative glycosyltransferase
+
+	 EXS27678.1	hypothetical protein
+	 EXS32644.1	hypothetical protein
+	 WP_002116052.1	ELM1/GtrOC1 family putative glycosyltransferase
+	 WP_032005561.1	ELM1/GtrOC1 family putative glycosyltransferase
+
+ ### Family: 761 -> branched-chain amino acid aminotransferase
+
+	 EXS27723.1	branched-chain amino acid aminotransferase
+	 EXS32643.1	branched-chain amino acid aminotransferase
+	 WP_004705670.1	branched-chain amino acid transaminase
+	 WP_019690094.1	branched-chain amino acid aminotransferase
+
+ ### Family: 762 -> glnD PII-uridylyltransferase family protein
+
+	 EXS27724.1	glnD PII-uridylyltransferase family protein
+	 EXS32642.1	glnD PII-uridylyltransferase family protein
+	 WP_032005564.1	bifunctional [glutamate--ammonia ligase]-adenylyl-L-tyrosine phosphorylase/[glutamate--ammonia-ligase] adenylyltransferase
+	 WP_051498338.1	bifunctional [glutamate--ammonia ligase]-adenylyl-L-tyrosine phosphorylase/[glutamate--ammonia-ligase] adenylyltransferase
+
+ ### Family: 763 -> methyltransferase domain protein
+
+	 EXS26749.1	methyltransferase domain protein
+	 WP_001278011.1	50S ribosomal protein L11 methyltransferase
+	 EXC26137.1	methyltransferase domain protein
+	 EXB01306.1	ribosomal L11 methyltransferase family protein
+
+ ### Family: 764 -> tetrahydrofolate dehydrogenase/cyclohydrolase%2C catalytic domain protein
+
+	 EXS26704.1	tetrahydrofolate dehydrogenase/cyclohydrolase%2C catalytic domain protein
+	 WP_001229846.1	bifunctional methylenetetrahydrofolate dehydrogenase/methenyltetrahydrofolate cyclohydrolase FolD
+	 WP_001229847.1	bifunctional methylenetetrahydrofolate dehydrogenase/methenyltetrahydrofolate cyclohydrolase FolD
+	 EXD33352.1	tetrahydrofolate dehydrogenase/cyclohydrolase%2C catalytic domain protein
+	 EXC26136.1	tetrahydrofolate dehydrogenase/cyclohydrolase%2C catalytic domain protein
+	 EXB01305.1	tetrahydrofolate dehydrogenase/cyclohydrolase%2C catalytic domain protein
+	 EXE61251.1	tetrahydrofolate dehydrogenase/cyclohydrolase%2C catalytic domain protein
+
+ ### Family: 765 -> phoD-like phosphatase family protein
+
+	 EXS26798.1	phoD-like phosphatase family protein
+	 WP_001290938.1	alkaline phosphatase D family protein
+	 WP_001290926.1	alkaline phosphatase D family protein
+	 EXC26135.1	phoD-like phosphatase family protein
+	 EXB01304.1	phoD-like phosphatase family protein
+
+ ### Family: 766 -> hypothetical protein
+
+	 EXS26754.1	hypothetical protein
+	 EXC26134.1	hypothetical protein
+	 EXB01303.1	hypothetical protein
+	 EXE61248.1	hypothetical protein
+
+ ### Family: 767 -> DUF5713 family protein
+
+	 EXS26786.1	hypothetical protein
+	 WP_032059413.1	DUF5713 family protein
+	 WP_000461267.1	DUF5713 family protein
+	 EXD33348.1	hypothetical protein
+	 EXC26133.1	hypothetical protein
+	 EXB01302.1	hypothetical protein
+	 EXE61247.1	hypothetical protein
+
+ ### Family: 768 -> dihydropteroate synthase
+
+	 EXS26744.1	dihydropteroate synthase
+	 WP_065708250.1	dihydropteroate synthase
+	 WP_001176038.1	dihydropteroate synthase
+	 EXD33346.1	dihydropteroate synthase
+	 WP_336165507.1	dihydropteroate synthase
+	 EXI90479.1	Dihydropteroate synthase
+	 EXC26132.1	dihydropteroate synthase
+	 EXB01301.1	dihydropteroate synthase
+	 EXE61246.1	dihydropteroate synthase
+
+ ### Family: 769 -> ATP-dependent metallopeptidase HflB family protein
+
+	 EXS26804.1	ATP-dependent metallopeptidase HflB family protein
+	 WP_001286662.1	ATP-dependent zinc metalloprotease FtsH
+	 EXD33345.1	ATP-dependent metallopeptidase HflB family protein
+	 WP_034699969.1	ATP-dependent zinc metalloprotease FtsH
+	 EXI90478.1	ATP-dependent zinc metalloprotease FtsH
+	 EXC26131.1	ATP-dependent metallopeptidase HflB family protein
+	 EXB01300.1	ATP-dependent metallopeptidase HflB family protein
+	 EXE61245.1	ATP-dependent metallopeptidase HflB family protein
+
+ ### Family: 770 -> ftsJ-like methyltransferase family protein
+
+	 EXS26768.1	ftsJ-like methyltransferase family protein
+	 WP_000235573.1	23S rRNA (uridine(2552)-2'-O)-methyltransferase RlmE
+	 EXD33344.1	ftsJ-like methyltransferase family protein
+	 WP_004990210.1	23S rRNA (uridine(2552)-2'-O)-methyltransferase RlmE
+	 EXI90477.1	Ribosomal RNA large subunit methyltransferase E
+	 EXC26130.1	ftsJ-like methyltransferase family protein
+	 EXB01299.1	ftsJ-like methyltransferase family protein
+	 EXE61244.1	ftsJ-like methyltransferase family protein
+
+ ### Family: 771 -> CRS1 / YhbY domain protein
+
+	 EXS26801.1	CRS1 / YhbY domain protein
+	 WP_000729551.1	ribosome assembly RNA-binding protein YhbY
+	 WP_004990213.1	ribosome assembly RNA-binding protein YhbY
+	 EXI90476.1	RNA-binding protein
+	 EXC26129.1	CRS1 / YhbY domain protein
+	 EXB01298.1	CRS1 / YhbY domain protein
+	 EXE61243.1	CRS1 / YhbY domain protein
+
+ ### Family: 772 -> hypothetical protein
+
+	 WP_032037522.1	hypothetical protein
+	 WP_079381138.1	hypothetical protein
+	 WP_171071509.1	hypothetical protein
+	 WP_031380325.1	hypothetical protein
+
+ ### Family: 773 -> hypothetical protein
+
+	 WP_032037524.1	hypothetical protein
+	 WP_032049080.1	hypothetical protein
+	 WP_032063955.1	hypothetical protein
+	 WP_032003932.1	hypothetical protein
+
+ ### Family: 774 -> hypothetical protein
+
+	 WP_000090027.1	hypothetical protein
+	 WP_032049082.1	hypothetical protein
+	 WP_032063956.1	hypothetical protein
+	 WP_032003934.1	hypothetical protein
+
+ ### Family: 775 -> hypothetical protein
+
+	 WP_032037526.1	hypothetical protein
+	 WP_032049083.1	hypothetical protein
+	 WP_032063957.1	hypothetical protein
+	 WP_032003935.1	hypothetical protein
+
+ ### Family: 776 -> hypothetical protein
+
+	 WP_032037527.1	hypothetical protein
+	 WP_032049084.1	hypothetical protein
+	 WP_032063958.1	hypothetical protein
+	 WP_032003937.1	hypothetical protein
+
+ ### Family: 777 -> hypothetical protein
+
+	 WP_032037528.1	hypothetical protein
+	 WP_033917412.1	hypothetical protein
+	 WP_032063959.1	hypothetical protein
+	 WP_032003938.1	hypothetical protein
+
+ ### Family: 778 -> DUF4054 domain-containing protein
+
+	 WP_032037529.1	DUF4054 domain-containing protein
+	 WP_032049087.1	DUF4054 domain-containing protein
+	 WP_032063960.1	DUF4054 domain-containing protein
+	 WP_032003939.1	DUF4054 domain-containing protein
+
+ ### Family: 779 -> hypothetical protein
+
+	 WP_032037530.1	hypothetical protein
+	 WP_032063961.1	hypothetical protein
+	 WP_032049089.1	hypothetical protein
+	 WP_032003940.1	hypothetical protein
+
+ ### Family: 780 -> Mpo1-like protein
+
+	 WP_002118194.1	Mpo1-like protein
+	 WP_000835608.1	DUF962 domain-containing protein
+	 WP_049176218.1	Mpo1-like protein
+	 WP_032004595.1	Mpo1-like protein
+
+ ### Family: 781 -> septal ring lytic transglycosylase RlpA family protein
+
+	 WP_002118141.1	septal ring lytic transglycosylase RlpA family protein
+	 WP_001177236.1	septal ring lytic transglycosylase RlpA family protein
+	 WP_004988609.1	septal ring lytic transglycosylase RlpA family protein
+
+ ### Family: 782 -> lytic murein transglycosylase B
+
+	 WP_005068218.1	lytic murein transglycosylase B
+	 WP_000951088.1	lytic murein transglycosylase B
+	 WP_004988606.1	lytic murein transglycosylase B
+	 WP_017386542.1	lytic murein transglycosylase B
+	 WP_032004596.1	lytic murein transglycosylase B
+
+ ### Family: 783 -> rod shape-determining protein RodA
+
+	 WP_005068220.1	rod shape-determining protein RodA
+	 WP_000075224.1	rod shape-determining protein RodA
+	 WP_004988605.1	rod shape-determining protein RodA
+	 WP_017386541.1	rod shape-determining protein RodA
+	 WP_017398602.1	rod shape-determining protein RodA
+	 WP_024857938.1	putative peptidoglycan glycosyltransferase FtsW
+
+ ### Family: 784 -> hypothetical protein
+
+	 WP_033847654.1	hypothetical protein
+	 WP_002118229.1	hypothetical protein
+	 WP_001115740.1	hypothetical protein
+	 WP_004988601.1	hypothetical protein
+	 WP_017386540.1	hypothetical protein
+	 WP_032004597.1	hypothetical protein
+
+ ### Family: 785 -> NADPH-dependent 7-cyano-7-deazaguanine reductase QueF
+
+	 WP_033847652.1	NADPH-dependent 7-cyano-7-deazaguanine reductase QueF
+	 WP_002118169.1	NADPH-dependent 7-cyano-7-deazaguanine reductase QueF
+	 WP_000110166.1	NADPH-dependent 7-cyano-7-deazaguanine reductase QueF
+	 WP_049176220.1	NADPH-dependent 7-cyano-7-deazaguanine reductase QueF
+	 WP_017386539.1	NADPH-dependent 7-cyano-7-deazaguanine reductase QueF
+	 WP_014207239.1	NADPH-dependent 7-cyano-7-deazaguanine reductase QueF
+
+ ### Family: 786 -> ABC transporter permease
+
+	 WP_031948927.1	ABC transporter permease
+	 WP_002118099.1	ABC transporter permease
+	 WP_001010536.1	ABC transporter permease
+	 WP_004988590.1	ABC transporter permease
+	 EXI73387.1	Inner membrane transport permease YadH
+
+ ### Family: 787 -> ABC transporter ATP-binding protein
+
+	 WP_002118101.1	ABC transporter ATP-binding protein
+	 WP_314429323.1	ABC transporter ATP-binding protein
+	 WP_135949559.1	ABC transporter ATP-binding protein
+	 EXI91042.1	Glutamine transport ATP-binding protein GlnQ
+	 WP_288121326.1	ATP-binding cassette domain-containing protein
+	 WP_000128669.1	ABC transporter ATP-binding protein
+	 WP_336165419.1	ABC transporter ATP-binding protein
+	 WP_004988582.1	ABC transporter ATP-binding protein
+	 WP_042801741.1	ABC transporter ATP-binding protein
+	 EXI77786.1	Glutamine transport ATP-binding protein GlnQ
+	 WP_035847677.1	ABC transporter ATP-binding protein
+	 WP_035847675.1	ABC transporter ATP-binding protein
+	 WP_035847673.1	ABC transporter ATP-binding protein
+	 WP_017402968.1	ATP-binding cassette domain-containing protein
+	 WP_051569897.1	ABC transporter ATP-binding protein
+	 EXG79735.1	ATPase and permease component of ABC-type transporter involved in cytochrome bd biosynthesis
+
+ ### Family: 788 -> hypothetical protein
+
+	 WP_081404566.1	hypothetical protein
+	 WP_005803659.1	hypothetical protein
+	 WP_017897439.1	hypothetical protein
+	 WP_079380940.1	hypothetical protein
+	 WP_081403651.1	hypothetical protein
+
+ ### Family: 789 -> NADPH-dependent 2%2C4-dienoyl-CoA reductase
+
+	 EXS35996.1	flavin oxidoreductase / NADH oxidase family protein
+	 WP_032036323.1	NADPH-dependent 2%2C4-dienoyl-CoA reductase
+	 WP_023187862.1	NADPH-dependent 2%2C4-dienoyl-CoA reductase
+	 WP_000061168.1	NADPH-dependent 2%2C4-dienoyl-CoA reductase
+	 EXC51902.1	flavin oxidoreductase / NADH oxidase family protein
+	 EXC06283.1	flavin oxidoreductase / NADH oxidase family protein
+	 WP_032003778.1	NADPH-dependent 2%2C4-dienoyl-CoA reductase
+
+ ### Family: 790 -> nuclear transport factor 2 family protein
+
+	 EXS35995.1	snoaL-like domain protein
+	 WP_005069036.1	nuclear transport factor 2 family protein
+	 WP_019767707.1	nuclear transport factor 2 family protein
+	 WP_000171430.1	nuclear transport factor 2 family protein
+	 EXC51903.1	hypothetical protein
+
+ ### Family: 791 -> SGNH/GDSL hydrolase family protein
+
+	 EXS35994.1	GDSL-like Lipase/Acylhydrolase family protein
+	 WP_320123855.1	SGNH/GDSL hydrolase family protein
+	 WP_019767708.1	SGNH/GDSL hydrolase family protein
+	 WP_032059530.1	SGNH/GDSL hydrolase family protein
+	 EXC51904.1	GDSL-like Lipase/Acylhydrolase family protein
+	 WP_032003777.1	SGNH/GDSL hydrolase family protein
+
+ ### Family: 792 -> alpha/beta hydrolase fold family protein
+
+	 EXS35993.1	alpha/beta hydrolase fold family protein
+	 WP_320123856.1	alpha/beta hydrolase
+	 WP_019767709.1	alpha/beta hydrolase
+	 WP_032059528.1	alpha/beta fold hydrolase
+	 EXC51905.1	alpha/beta hydrolase fold family protein
+	 WP_032003776.1	alpha/beta fold hydrolase
+
+ ### Family: 793 -> metal-dependent hydrolase
+
+	 EXS35992.1	putative metal-dependent hydrolase family protein
+	 WP_033850823.1	metal-dependent hydrolase
+	 WP_032036968.1	metal-dependent hydrolase
+	 WP_025468387.1	metal-dependent hydrolase
+	 WP_033848334.1	metal-dependent hydrolase
+	 WP_033848338.1	metal-dependent hydrolase
+	 WP_000992305.1	metal-dependent hydrolase
+	 WP_000992291.1	metal-dependent hydrolase
+	 WP_032059811.1	metal-dependent hydrolase
+	 WP_000991228.1	metal-dependent hydrolase
+	 WP_005804701.1	metal-dependent hydrolase
+	 WP_002121049.1	metal-dependent hydrolase
+	 WP_032059526.1	metal-dependent hydrolase
+	 EXC51906.1	putative metal-dependent hydrolase family protein
+	 WP_000991230.1	metal-dependent hydrolase
+	 WP_049067492.1	metal-dependent hydrolase
+	 WP_004993953.1	metal-dependent hydrolase
+	 WP_005072715.1	metal-dependent hydrolase
+	 WP_032018587.1	metal-dependent hydrolase
+	 WP_031953705.1	metal-dependent hydrolase
+	 WP_032003775.1	metal-dependent hydrolase
+	 WP_032005530.1	metal-dependent hydrolase
+
+ ### Family: 794 -> putative signal peptide-containing protein
+
+	 EXS35991.1	putative signal peptide-containing protein
+	 WP_002121076.1	hypothetical protein
+	 WP_005073995.1	hypothetical protein
+	 WP_001284535.1	hypothetical protein
+	 EXC51908.1	hypothetical protein
+	 WP_032003774.1	hypothetical protein
+
+ ### Family: 795 -> CTP synthase
+
+	 EXS35990.1	CTP synthase
+	 WP_002121060.1	CTP synthase
+	 WP_032059524.1	CTP synthase
+	 EXC51909.1	CTP synthase
+
+ ### Family: 796 -> 3-deoxy-8-phosphooctulonate synthase
+
+	 EXS35989.1	3-deoxy-8-phosphooctulonate synthase
+	 WP_002121042.1	3-deoxy-8-phosphooctulonate synthase
+	 WP_000080538.1	3-deoxy-8-phosphooctulonate synthase
+	 EXC51910.1	3-deoxy-8-phosphooctulonate synthase
+
+ ### Family: 797 -> phosphopyruvate hydratase
+
+	 EXS35988.1	phosphopyruvate hydratase
+	 WP_002121066.1	phosphopyruvate hydratase
+	 WP_005052537.1	phosphopyruvate hydratase
+	 WP_000078452.1	phosphopyruvate hydratase
+	 EXC51911.1	phosphopyruvate hydratase
+
+ ### Family: 798 -> potassium transporter Kup
+
+	 WP_032038678.1	potassium transporter Kup
+	 EXB07061.1	potassium uptake protein
+	 EXI66453.1	potassium transport protein Kup
+
+ ### Family: 799 -> DHCW motif cupin fold protein
+
+	 WP_001017481.1	DHCW motif cupin fold protein
+	 WP_005804488.1	DHCW motif cupin fold protein
+
+ ### Family: 800 -> hypothetical protein
+
+	 WP_032038672.1	hypothetical protein
+	 EXB07060.1	hypothetical protein
+
+ ### Family: 801 -> NAD(P)H-dependent oxidoreductase
+
+	 WP_032038667.1	NAD(P)H-dependent oxidoreductase
+	 EXB07056.1	general stress protein 14
+	 WP_005804487.1	NAD(P)H-dependent oxidoreductase
+
+ ### Family: 802 -> helix-turn-helix domain-containing protein
+
+	 WP_032038666.1	helix-turn-helix domain-containing protein
+	 WP_036589573.1	helix-turn-helix domain-containing protein
+	 WP_005804486.1	helix-turn-helix domain-containing protein
+	 WP_016803011.1	helix-turn-helix domain-containing protein
+
+ ### Family: 803 -> DUF6500 family protein
+
+	 WP_032038664.1	DUF6500 family protein
+	 WP_005804485.1	DUF6500 family protein
+	 WP_032004936.1	DUF6500 family protein
+
+ ### Family: 804 -> hypothetical protein
+
+	 WP_032038663.1	hypothetical protein
+	 WP_032004937.1	hypothetical protein
+
+ ### Family: 805 -> nitroreductase family protein
+
+	 WP_033847941.1	nitroreductase family protein
+	 WP_001100693.1	nitroreductase family protein
+	 WP_002116218.1	malonic semialdehyde reductase
+	 WP_032005458.1	malonic semialdehyde reductase
+	 WP_001100694.1	nitroreductase family protein
+	 WP_017385900.1	malonic semialdehyde reductase
+	 WP_042803014.1	NAD(P)H-dependent oxidoreductase
+
+ ### Family: 806 -> TetR/AcrR family transcriptional regulator
+
+	 WP_033847943.1	TetR/AcrR family transcriptional regulator
+	 WP_033850095.1	TetR/AcrR family transcriptional regulator
+	 WP_032035108.1	TetR/AcrR family transcriptional regulator
+	 WP_032059812.1	TetR/AcrR family transcriptional regulator
+	 WP_199981002.1	TetR/AcrR family transcriptional regulator
+	 EXC08124.1	bacterial regulatory s%2C tetR family protein
+	 EXC53944.1	bacterial regulatory s%2C tetR family protein
+	 WP_025464598.1	TetR/AcrR family transcriptional regulator
+	 WP_057094442.1	TetR/AcrR family transcriptional regulator
+	 WP_032062991.1	TetR/AcrR family transcriptional regulator
+	 WP_282463375.1	TetR/AcrR family transcriptional regulator
+	 WP_002113874.1	TetR/AcrR family transcriptional regulator
+	 WP_057066221.1	TetR/AcrR family transcriptional regulator
+	 EXB06034.1	bacterial regulatory s%2C tetR family protein
+	 WP_017402995.1	TetR/AcrR family transcriptional regulator
+	 WP_025469777.1	TetR/AcrR family transcriptional regulator
+	 EXA93658.1	transcriptional regulator
+	 WP_025466055.1	TetR/AcrR family transcriptional regulator
+	 WP_005804483.1	TetR/AcrR family transcriptional regulator
+	 WP_049067880.1	TetR/AcrR family transcriptional regulator
+	 WP_032004943.1	TetR/AcrR family transcriptional regulator
+	 EXE63585.1	bacterial regulatory s%2C tetR family protein
+	 WP_032003661.1	TetR/AcrR family transcriptional regulator
+
+ ### Family: 807 -> ATP-binding protein
+
+	 WP_033847944.1	ATP-binding protein
+	 EXI88113.1	ATP-dependent zinc metalloprotease FtsH
+
+ ### Family: 808 -> DUF2513 domain-containing protein
+
+	 WP_033847945.1	DUF2513 domain-containing protein
+	 WP_019692618.1	DUF2513 domain-containing protein
+
+ ### Family: 809 -> hypothetical protein
+
+	 WP_037285667.1	hypothetical protein
+	 WP_037287300.1	hypothetical protein
+	 EXM40297.1	hypothetical protein
+
+ ### Family: 810 -> Tyrosine recombinase XerD
+
+	 WP_051506335.1	tyrosine-type recombinase/integrase
+	 WP_010657583.1	tyrosine recombinase XerC
+	 EXD37559.1	phage integrase family protein
+	 EXI77563.1	Tyrosine recombinase XerD
+	 EXI86034.1	Tyrosine recombinase XerD
+	 WP_211247296.1	site-specific integrase
+	 EXI73236.1	Tyrosine recombinase XerC
+	 EXI73237.1	Tyrosine recombinase XerD
+	 WP_002847516.1	site-specific integrase
+	 WP_002847517.1	site-specific integrase
+	 WP_074833630.1	tyrosine-type recombinase/integrase
+
+ ### Family: 811 -> hypothetical protein
+
+	 WP_024856197.1	hypothetical protein
+	 WP_028510886.1	hypothetical protein
+
+ ### Family: 812 -> glycoside hydrolase family 9 protein
+
+	 WP_037287335.1	glycoside hydrolase family 9 protein
+	 WP_037285005.1	glycoside hydrolase family 9 protein
+
+ ### Family: 813 -> aldo/keto reductase
+
+	 WP_037287332.1	aldo/keto reductase
+
+ ### Family: 814 -> leucine-rich repeat domain-containing protein
+
+	 WP_037287330.1	leucine-rich repeat domain-containing protein
+
+ ### Family: 815 -> tRNA-dihydrouridine synthase family protein
+
+	 WP_037287327.1	tRNA-dihydrouridine synthase family protein
+
+ ### Family: 816 -> DUF1893 domain-containing protein
+
+	 WP_051506457.1	DUF1893 domain-containing protein
+
+ ### Family: 817 -> ECF transporter S component
+
+	 WP_051506455.1	ECF transporter S component
+
+ ### Family: 818 -> hypothetical protein
+
+	 WP_155267776.1	hypothetical protein
+
+ ### Family: 819 -> hypothetical protein
+
+	 WP_037287317.1	hypothetical protein
+	 WP_024857601.1	hypothetical protein
+
+ ### Family: 820 -> hypothetical protein
+
+	 WP_207640387.1	hypothetical protein
+
+ ### Family: 821 -> helix-turn-helix transcriptional regulator
+
+	 WP_013497096.1	helix-turn-helix transcriptional regulator
+	 WP_034298537.1	helix-turn-helix transcriptional regulator
+	 WP_004985834.1	helix-turn-helix transcriptional regulator
+
+ ### Family: 822 -> hypothetical protein
+
+	 WP_155250883.1	hypothetical protein
+	 WP_037286043.1	hypothetical protein
+
+ ### Family: 823 -> glycoside hydrolase family 3 C-terminal domain-containing protein
+
+	 WP_037286046.1	glycoside hydrolase family 3 C-terminal domain-containing protein
+	 WP_019692230.1	beta-glucosidase BglX
+
+ ### Family: 824 -> hypothetical protein
+
+	 WP_024858201.1	hypothetical protein
+	 EXM39022.1	hypothetical protein
+
+ ### Family: 825 -> protein-glutamate O-methyltransferase CheR
+
+	 WP_024858205.1	protein-glutamate O-methyltransferase CheR
+	 WP_035850077.1	protein-glutamate O-methyltransferase CheR
+
+ ### Family: 826 -> phosphoribosylamine--glycine ligase
+
+	 WP_037288093.1	phosphoribosylamine--glycine ligase
+	 WP_035023333.1	phosphoribosylamine--glycine ligase
+
+ ### Family: 827 -> O-acetylhomoserine aminocarboxypropyltransferase/cysteine synthase
+
+	 WP_024858471.1	O-acetylhomoserine aminocarboxypropyltransferase/cysteine synthase
+	 EXI92773.1	Methionine gamma-lyase
+	 WP_037288187.1	PLP-dependent aspartate aminotransferase family protein
+	 WP_019690802.1	cystathionine beta-lyase
+
+ ### Family: 828 -> hypothetical protein
+
+	 WP_024858472.1	hypothetical protein
+
+ ### Family: 829 -> hypothetical protein
+
+	 WP_037288089.1	hypothetical protein
+
+ ### Family: 830 -> DUF2085 domain-containing protein
+
+	 WP_037288087.1	DUF2085 domain-containing protein
+
+ ### Family: 831 -> hypothetical protein
+
+	 WP_024858476.1	hypothetical protein
+
+ ### Family: 832 -> hypothetical protein
+
+	 WP_037288083.1	hypothetical protein
+
+ ### Family: 833 -> adenylosuccinate lyase
+
+	 WP_024858477.1	adenylosuccinate lyase
+
+ ### Family: 834 -> MoxR family ATPase
+
+	 WP_037290383.1	MoxR family ATPase
+
+ ### Family: 835 -> peptidylprolyl isomerase
+
+	 WP_024856329.1	peptidylprolyl isomerase
+	 EXG79008.1	peptidyl-prolyl cis-trans isomerase (rotamase) - cyclophilin family
+
+ ### Family: 836 -> GGDEF domain-containing protein
+
+	 WP_037290399.1	GGDEF domain-containing protein
+	 WP_294482351.1	GGDEF domain-containing protein
+
+ ### Family: 837 -> 30S ribosomal protein S12 methylthiotransferase RimO
+
+	 WP_024856359.1	30S ribosomal protein S12 methylthiotransferase RimO
+	 WP_242836194.1	tRNA (N6-isopentenyl adenosine(37)-C2)-methylthiotransferase MiaB
+
+ ### Family: 838 -> bacterial regulatory %2C arsR family protein
+
+	 WP_024856765.1	autorepressor SdpR family transcription factor
+	 EXC08581.1	bacterial regulatory %2C arsR family protein
+	 EXC53315.1	bacterial regulatory %2C arsR family protein
+	 WP_004985826.1	metalloregulator ArsR/SmtB family transcription factor
+
+ ### Family: 839 -> hypothetical protein
+
+	 WP_037289648.1	hypothetical protein
+	 WP_024856762.1	hypothetical protein
+
+ ### Family: 840 -> 23S rRNA (uracil(1939)-C(5))-methyltransferase RlmD
+
+	 WP_037289529.1	23S rRNA (uracil(1939)-C(5))-methyltransferase RlmD
+	 WP_037290385.1	23S rRNA (uracil(1939)-C(5))-methyltransferase RlmD
+	 EXI76084.1	23S rRNA (uracil(1939)-C(5))-methyltransferase RlmD
+	 EXI77782.1	23S rRNA (uracil(1939)-C(5))-methyltransferase RlmD
+	 EXI67814.1	23S rRNA (uracil(1939)-C(5))-methyltransferase RlmD
+
+ ### Family: 841 -> 4-hydroxy-tetrahydrodipicolinate reductase
+
+	 WP_037290372.1	4-hydroxy-tetrahydrodipicolinate reductase
+	 WP_034303329.1	4-hydroxy-tetrahydrodipicolinate reductase
+
+ ### Family: 842 -> 4-hydroxy-tetrahydrodipicolinate synthase
+
+	 WP_037290374.1	4-hydroxy-tetrahydrodipicolinate synthase
+
+ ### Family: 843 -> aspartate-semialdehyde dehydrogenase
+
+	 WP_024856337.1	aspartate-semialdehyde dehydrogenase
+
+ ### Family: 844 -> GIY-YIG nuclease family protein
+
+	 WP_035024398.1	GIY-YIG nuclease family protein
+
+ ### Family: 845 -> hypothetical protein
+
+	 WP_156953458.1	hypothetical protein
+
+ ### Family: 846 -> hypothetical protein
+
+	 WP_035024417.1	hypothetical protein
+
+ ### Family: 847 -> hypothetical protein
+
+	 WP_035024419.1	hypothetical protein
+
+ ### Family: 848 -> hypothetical protein
+
+	 WP_035024421.1	hypothetical protein
+
+ ### Family: 849 -> RusA family crossover junction endodeoxyribonuclease
+
+	 WP_035024423.1	RusA family crossover junction endodeoxyribonuclease
+	 WP_042803993.1	RusA family crossover junction endodeoxyribonuclease
+
+ ### Family: 850 -> hypothetical protein
+
+	 WP_035024425.1	hypothetical protein
+
+ ### Family: 851 -> putative gp12
+
+	 WP_035024427.1	hypothetical protein
+	 EXD36894.1	putative gp12
+
+ ### Family: 852 -> hypothetical protein
+
+	 WP_035024429.1	hypothetical protein
+
+ ### Family: 853 -> ParB N-terminal domain-containing protein
+
+	 WP_035025795.1	ParB N-terminal domain-containing protein
+	 EXI92812.1	DNA adenine methyltransferase YhdJ
+	 EXI92811.1	Modification methylase PvuII
+
+ ### Family: 854 -> DUF6362 family protein
+
+	 WP_035025796.1	DUF6362 family protein
+	 EXI92810.1	hypothetical protein
+
+ ### Family: 855 -> methionyl-tRNA formyltransferase
+
+	 WP_010659412.1	methionyl-tRNA formyltransferase
+	 WP_042804554.1	methionyl-tRNA formyltransferase
+	 EXI91416.1	Bifunctional polymyxin resistance protein ArnA
+
+ ### Family: 856 -> zinc-binding dehydrogenase family protein
+
+	 WP_010659414.1	quinone oxidoreductase
+	 WP_288119031.1	NADP-dependent oxidoreductase
+	 EXB76560.1	zinc-binding dehydrogenase family protein
+	 WP_004995458.1	alcohol dehydrogenase AdhP
+	 EXI77004.1	Alcohol dehydrogenase
+	 WP_037282180.1	acryloyl-CoA reductase
+	 EXB06028.1	zinc-binding dehydrogenase family protein
+	 WP_019693061.1	zinc-binding dehydrogenase
+	 WP_019689771.1	NAD(P)-dependent alcohol dehydrogenase
+	 EXG81182.1	Zn-dependent alcohol dehydrogenase
+
+ ### Family: 857 -> bacterial regulatory helix-turn-helix %2C lysR family protein
+
+	 WP_010659415.1	LysR family transcriptional regulator
+	 WP_024856196.1	LysR family transcriptional regulator
+	 EXS30691.1	bacterial regulatory helix-turn-helix %2C lysR family protein
+	 WP_081404654.1	LysR substrate-binding domain-containing protein
+	 WP_004703082.1	LysR family transcriptional regulator
+	 WP_081309280.1	LysR substrate-binding domain-containing protein
+	 EXS33900.1	bacterial regulatory helix-turn-helix %2C lysR family protein
+	 EXS33901.1	bacterial regulatory helix-turn-helix %2C lysR family protein
+	 WP_032035170.1	LysR family transcriptional regulator
+	 EXF96085.1	LysR family transcriptional regulator
+	 EXC04488.1	bacterial regulatory helix-turn-helix %2C lysR family protein
+	 EXC04489.1	bacterial regulatory helix-turn-helix %2C lysR family protein
+	 WP_081311117.1	LysR substrate-binding domain-containing protein
+	 EXC08125.1	bacterial regulatory helix-turn-helix %2C lysR family protein
+	 WP_002113638.1	LysR family transcriptional regulator
+	 EXB76145.1	bacterial regulatory helix-turn-helix %2C lysR family protein
+	 EXB78152.1	bacterial regulatory helix-turn-helix %2C lysR family protein
+	 EXB78153.1	bacterial regulatory helix-turn-helix %2C lysR family protein
+	 EXC27380.1	bacterial regulatory helix-turn-helix %2C lysR family protein
+	 EXS35898.1	bacterial regulatory helix-turn-helix %2C lysR family protein
+	 EXC53945.1	bacterial regulatory helix-turn-helix %2C lysR family protein
+	 EXC52076.1	bacterial regulatory helix-turn-helix %2C lysR family protein
+	 EXC52077.1	bacterial regulatory helix-turn-helix %2C lysR family protein
+	 WP_104039492.1	LysR substrate-binding domain-containing protein
+	 EXC30217.1	bacterial regulatory helix-turn-helix %2C lysR family protein
+	 EXC30216.1	bacterial regulatory helix-turn-helix %2C lysR family protein
+	 WP_000366421.1	LysR family transcriptional regulator
+	 WP_153565982.1	LysR family transcriptional regulator
+	 WP_001047619.1	LysR family transcriptional regulator
+	 WP_000355664.1	LysR family transcriptional regulator
+	 WP_049174850.1	LysR family transcriptional regulator
+	 WP_049175989.1	LysR family transcriptional regulator
+	 EXI88501.1	D-malate degradation protein R
+	 WP_069035712.1	LysR family transcriptional regulator
+	 WP_000366420.1	LysR family transcriptional regulator
+	 WP_079381097.1	LysR substrate-binding domain-containing protein
+	 EXB05831.1	bacterial regulatory helix-turn-helix %2C lysR family protein
+	 EXB05832.1	bacterial regulatory helix-turn-helix %2C lysR family protein
+	 EXB06029.1	bacterial regulatory helix-turn-helix %2C lysR family protein
+	 WP_000423162.1	LysR family transcriptional regulator
+	 WP_017386103.1	LysR family transcriptional regulator
+	 EXA94892.1	bacterial regulatory helix-turn-helix %2C lysR family protein
+	 EXB05981.1	bacterial regulatory helix-turn-helix %2C lysR family protein
+	 EXA99437.1	bacterial regulatory helix-turn-helix %2C lysR family protein
+	 EXA99436.1	bacterial regulatory helix-turn-helix %2C lysR family protein
+	 WP_017386892.1	LysR family transcriptional regulator
+	 EXB03721.1	bacterial regulatory helix-turn-helix %2C lysR family protein
+	 WP_032003578.1	LysR family transcriptional regulator
+	 WP_019690093.1	LysR substrate-binding domain-containing protein
+	 EXE63453.1	bacterial regulatory helix-turn-helix %2C lysR family protein
+	 EXE63454.1	bacterial regulatory helix-turn-helix %2C lysR family protein
+	 EXE63594.1	bacterial regulatory helix-turn-helix %2C lysR family protein
+	 WP_081037658.1	LysR substrate-binding domain-containing protein
+	 WP_000366419.1	LysR family transcriptional regulator
+	 WP_019691942.1	LysR family transcriptional regulator
+	 WP_024264650.1	LysR substrate-binding domain-containing protein
+	 WP_042804273.1	DNA-binding transcriptional regulator OxyR
+	 WP_028510887.1	LysR family transcriptional regulator
+
+ ### Family: 858 -> succinyl-diaminopimelate desuccinylase
+
+	 WP_010659417.1	succinyl-diaminopimelate desuccinylase
+	 WP_037282736.1	dipeptidase PepV
+	 WP_042801491.1	acetylornithine deacetylase
+
+ ### Family: 859 -> transglutaminase-like cysteine peptidase
+
+	 WP_010659419.1	transglutaminase-like cysteine peptidase
+	 WP_035025485.1	transglutaminase-like cysteine peptidase
+
+ ### Family: 860 -> hypothetical protein
+
+	 WP_010659421.1	hypothetical protein
+	 WP_010659420.1	hypothetical protein
+
+ ### Family: 861 -> ATP-dependent Clp protease ATP-binding subunit ClpA
+
+	 WP_010659969.1	ATP-dependent Clp protease ATP-binding subunit ClpA
+	 WP_024858200.1	ATP-dependent chaperone ClpB
+	 EXI64479.1	Chaperone protein ClpB
+
+ ### Family: 862 -> YdcF family protein
+
+	 WP_010659962.1	YdcF family protein
+	 WP_024856609.1	YdcF family protein
+
+ ### Family: 863 -> hypothetical protein
+
+	 WP_035028113.1	hypothetical protein
+	 WP_035026771.1	hypothetical protein
+
+ ### Family: 864 -> IS1182 family transposase
+
+	 WP_024264657.1-3	IS1182 family transposase
+	 WP_014538385.1-14	IS30 family transposase
+	 WP_187682478.1-2	IS21 family transposase
+	 WP_024264708.1-2	IS21-like element helper ATPase IstB
+	 WP_024264657.1-2	IS1182 family transposase
+
+ ### Family: 865 -> hypothetical protein
+
+	 WP_035027938.1	hypothetical protein
+
+ ### Family: 866 -> type II toxin-antitoxin system prevent-host-death family antitoxin
+
+	 WP_035027940.1	type II toxin-antitoxin system prevent-host-death family antitoxin
+	 EXL02085.1	hypothetical protein
+
+ ### Family: 867 -> DUF2493 domain-containing protein
+
+	 WP_035027942.1	DUF2493 domain-containing protein
+
+ ### Family: 868 -> hypothetical protein
+
+	 WP_035027924.1	hypothetical protein
+
+ ### Family: 869 -> hypothetical protein
+
+	 WP_051520630.1	hypothetical protein
+	 EXL02122.1	hypothetical protein
+
+ ### Family: 870 -> hypothetical protein
+
+	 WP_035027927.1	hypothetical protein
+
+ ### Family: 871 -> DUF736 family protein
+
+	 WP_035027931.1	DUF736 family protein
+	 EXL02086.1	hypothetical protein
+
+ ### Family: 872 -> GNAT family N-acetyltransferase
+
+	 WP_245264734.1	GNAT family N-acetyltransferase
+	 WP_278555427.1	GNAT family N-acetyltransferase
+
+ ### Family: 873 -> hypothetical protein
+
+	 WP_035027934.1	hypothetical protein
+	 WP_278555429.1	hypothetical protein

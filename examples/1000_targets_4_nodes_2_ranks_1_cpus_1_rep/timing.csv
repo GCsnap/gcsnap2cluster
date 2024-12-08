@@ -1,0 +1,14 @@
+Step,Time (sec) 
+All steps 0-10,171.81597352027893
+Step 0: Parse Targets,0.009281158447265625
+Step 1: Collecting the genomic contexts,13.566170930862427
+Step 1a: Mapping,9.324079036712646
+Step 1b: Assemblies,3.4337852001190186
+Step 1c: Sequences,0.8082857131958008
+Step 2: Finding protein families,96.24148631095886
+Step 3: Annotating functions and structures,4.558556318283081
+Step 4-5: Finding operon/genomic_context,1.8788750171661377
+Step 6: Mapping taxonomy,28.139700889587402
+Step 7: Finding ALL proteins with transmembrane segments,0.002202749252319336
+Step 8-9: Producing figures,27.281070470809937
+Step 10: Write output,0.13285255432128906
