@@ -19,7 +19,7 @@ n-cpus-per-rank:
     type: int
     help: Number of cores per rank to use (SLURM --cpus-per-task) for MMseqs2. Total number of CPU cores per node needed = n-ranks-per-node * n-cpus-per-rank.
 data-path:
-    value: /.../
+    value: /storage/shared/msc/gcsnap_data/
     type: str
     help: Path to the data folder.
 tmp-mmseqs-folder:
