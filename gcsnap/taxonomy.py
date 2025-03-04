@@ -142,57 +142,6 @@ class Taxonomy:
 
         return taxonomy
 
-    def find_taxonomies_old(self, taxids: list) -> dict:
-        """
-        Find taxonomies for all flanking genes in the file rankedlineage.dmp.
-        Details about the file can be found here:https://ftp.ncbi.nih.gov/pub/taxonomy/new_taxdump/taxdump_readme.txt
-
-        Args:
-            taxids (list): The list of taxids to find taxonomies for.
-        """        
-        # read the content
-        with open(os.path.join(self.database_path,'rankedlineage.dmp'), 'r', encoding='utf-8') as f:
-            content = f.read()
-
-        lines = content.splitlines()
-        parts = [line.strip().split('|') for line in lines]
-        entries = [part for part in parts if part[0].strip() in [str(taxid) for taxid in taxids]]
-
-        # extact
-        # tax_id                -- node id
-        # tax_name              -- scientific name of the organism
-        # species               -- name of a species (coincide with organism name for species-level nodes)
-        # genus					-- genus name when available
-        # family				-- family name when available
-        # order					-- order name when available
-        # class					-- class name when available
-        # phylum				-- phylum name when available
-        # kingdom				-- kingdom name when available
-        # superkingdom		    -- superkingdom (domain) name when available
-
-        taxonomy_dmp = {e[0].strip() : {
-                        'tax_name'  : e[1].strip() if len(e[1].strip()) > 0 else None,
-                        'species'   : e[2].strip() if len(e[2].strip()) > 0 else None,
-                        'genus'     : e[3].strip() if len(e[3].strip()) > 0 else None,
-                        'family'    : e[4].strip() if len(e[4].strip()) > 0 else None,
-                        'order'     : e[5].strip() if len(e[5].strip()) > 0 else None,
-                        'class'     : e[6].strip() if len(e[6].strip()) > 0 else None,
-                        'phylum'    : e[7].strip() if len(e[7].strip()) > 0 else None,
-                        'kingdom'   : e[8].strip() if len(e[8].strip()) > 0 else None,
-                        'superkingdom' : e[9].strip() if len(e[9].strip()) > 0 else None
-                    }
-                for e in entries
-            }
-
-        # remove all entries that are None
-        # we do this here to have keep entrez result as is (to see what was not there)
-        clean_taxonomy = {
-            target: {key: value for key, value in sub_dict.items() if value is not None}
-            for target, sub_dict in taxonomy_dmp.items()
-        }
-
-        return clean_taxonomy
-
     def find_taxonomies(self, taxids: list) -> dict:
         """
         Find taxonomies for all flanking genes in the file rankedlineage.dmp.
