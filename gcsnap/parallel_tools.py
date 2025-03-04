@@ -34,7 +34,7 @@ class ParallelTools:
         self.cluster = None
 
          # for mpi, we actually use - 1, as one is running the main thread
-        self.workers = (self.n_nodes * self.n_cpu) - 1
+        self.workers = (self.n_nodes * self.n_cpu)
             
         self.console = RichConsole()
 
