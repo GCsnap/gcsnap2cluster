@@ -33,8 +33,8 @@ class ParallelTools:
         self.n_cpu = config.arguments['n_ranks_per_node']['value']
         self.cluster = None
 
-         # for mpi, we actually use - 1, as one is running the main thread
-        self.workers = (self.n_nodes * self.n_cpu) - 1
+         # for mpi
+        self.workers = (self.n_nodes * self.n_cpu)
             
         self.console = RichConsole()
 
