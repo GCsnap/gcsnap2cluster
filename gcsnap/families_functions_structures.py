@@ -40,7 +40,8 @@ class FamiliesFunctionsStructures:
             gc (GenomicContext): The GenomicContext object containing all genomic context information.
         """        
         self.config = config
-        #self.chunks = (config.arguments['n_nodes']['value'] * config.arguments['n_ranks_per_node']['value']) - 1
+        # -1 as master rank 0 does not compute
+        self.chunks = (config.arguments['n_nodes']['value'] * config.arguments['n_ranks_per_node']['value']) - 1
         self.get_pdb = config.arguments['get_pdb']['value']
         self.annotation_files_path = config.arguments['functional_annotation_files_path']['value']        
         self.annotations_and_structures = {}
