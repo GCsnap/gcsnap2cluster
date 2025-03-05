@@ -40,7 +40,7 @@ class FamiliesFunctionsStructures:
             gc (GenomicContext): The GenomicContext object containing all genomic context information.
         """        
         self.config = config
-        #self.chunks = (config.arguments['n_nodes']['value'] * config.arguments['n_ranks_per_node']['value']) - 1
+        self.chunks = (config.arguments['n_nodes']['value'] * config.arguments['n_ranks_per_node']['value'])
         self.get_pdb = config.arguments['get_pdb']['value']
         self.annotation_files_path = config.arguments['functional_annotation_files_path']['value']        
         self.annotations_and_structures = {}
@@ -89,18 +89,19 @@ class FamiliesFunctionsStructures:
             mapping.run()
             mapping_dict = mapping.get_target_to_result_dict('UniProtKB_AC')
 
-            # create parallel args with 4 items
-            parallel_args = [({k: v}, mapping_dict, self.get_pdb, self.get_annotation)
-                             for k,v in self.families.items()]
+            # create parallel args 
+            families_chunks = split_dict_chunks(self.families, self.chunks) 
+            parallel_args = [(sub_dict, mapping_dict, self.get_pdb, self.get_annotation)
+                             for sub_dict in families_chunks]
 
             with self.console.status('Get functional annotations and structures'):
-                result_list = ParallelTools.parallel_wrapper(parallel_args, self.run_each)
+                result_list = ParallelTools.parallel_wrapper(parallel_args, self.run_each_famfunct)
                 # combine results
                 self.annotations_and_structures = {k: v for dict_ in result_list for k, v in dict_.items()}
         else:
             self.console.print_skipped_step('No annotations or structures retrieval requested')
 
-    def run_each(self, args: tuple[dict,dict,bool,bool]) -> dict:
+    def run_each_famfunct(self, args: tuple[dict,dict,bool,bool]) -> dict:
         """
         Run the retrieval of the functional annotations and structures for each family
         used in parallel processing.
