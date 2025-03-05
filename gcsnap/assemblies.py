@@ -54,7 +54,7 @@ class Assemblies:
         # get necessary configuration arguments        
         self.n_flanking5 = config.arguments['n_flanking5']['value']  
         self.n_flanking3 = config.arguments['n_flanking3']['value']
-        self.chunks = (config.arguments['n_nodes']['value'] * config.arguments['n_ranks_per_node']['value']) - 1        
+        self.chunks = (config.arguments['n_nodes']['value'] * config.arguments['n_ranks_per_node']['value'])        
         self.exclude_partial = config.arguments['exclude_partial']['value']
         self.database_path = os.path.join(config.arguments['data_path']['value'],'db') 
         self.data_path = os.path.join(config.arguments['data_path']['value']) 
