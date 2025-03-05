@@ -47,7 +47,7 @@ class Taxonomy:
         # get necessary configuration arguments      
         self.config = config
         self.gc = gc             
-        self.chunks = (config.arguments['n_nodes']['value'] * config.arguments['n_ranks_per_node']['value']) - 1
+        self.chunks = (config.arguments['n_nodes']['value'] * config.arguments['n_ranks_per_node']['value'])
         self.database_path = os.path.join(config.arguments['data_path']['value'],'db') 
 
         if config.arguments['get_taxonomy']['value']:
@@ -84,12 +84,12 @@ class Taxonomy:
         parallel_args = split_dict_chunks(self.gc.get_syntenies(), self.chunks)
 
         with self.console.status(self.msg):
-            dict_list = ParallelTools.parallel_wrapper(parallel_args, self.run_each)
+            dict_list = ParallelTools.parallel_wrapper(parallel_args, self.run_each_taxonomy)
             # combine results
             # as this is a heavily nested dictionary, we need some recursive functionality
             self.taxonomy = self.merge_all_dicts(dict_list)
 
-    def run_each(self, arg: dict) -> dict:
+    def run_each_taxonomy(self, arg: dict) -> dict:
         """
         Run the create of the taxonomy dictionary for each target gene.
 

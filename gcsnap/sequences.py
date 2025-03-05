@@ -46,7 +46,7 @@ class Sequences:
         self.config = config
         # get necessary configuration arguments        
         self.database_path = os.path.join(config.arguments['data_path']['value'],'db') 
-        self.chunks = (config.arguments['n_nodes']['value'] * config.arguments['n_ranks_per_node']['value']) - 1
+        self.chunks = (config.arguments['n_nodes']['value'] * config.arguments['n_ranks_per_node']['value'])
         self.gc = gc
 
         self.console = RichConsole()
@@ -76,11 +76,11 @@ class Sequences:
         parallel_args = split_dict_chunks(targets_ncbi_codes, self.chunks)
 
         with self.console.status('Add sequences, tax id and species name to flanking genes'):
-            dict_list = ParallelTools.parallel_wrapper(parallel_args, self.run_each)
+            dict_list = ParallelTools.parallel_wrapper(parallel_args, self.run_each_sequences)
             # combine results
             self.sequences = {k: v for d in dict_list for k, v in d.items()}
 
-    def run_each(self, args: list[dict]) -> dict:
+    def run_each_sequences(self, args: list[dict]) -> dict:
         """
         Run the assignment of sequences to the flanking genes for one target used
         in parallel processing.

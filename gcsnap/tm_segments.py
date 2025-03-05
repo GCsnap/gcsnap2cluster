@@ -46,7 +46,7 @@ class TMsegments:
             out_label (str): The label of the output.
         """        
         self.config = config
-        self.chunks = (config.arguments['n_nodes']['value'] * config.arguments['n_ranks_per_node']['value']) - 1        
+        self.chunks = (config.arguments['n_nodes']['value'] * config.arguments['n_ranks_per_node']['value'])        
         self.annotate_TM = config.arguments['annotate_TM']['value']
         self.annotate_mode = config.arguments['annotation_TM_mode']['value']
         self.annotate_file = config.arguments['annotation_TM_file']['value']
@@ -151,7 +151,7 @@ class TMsegments:
                 parallel_args = [(sub_list, mapping_dict, all_uniprot_data) 
                                 for sub_list in split_list_chunks(self.ncbi_code_order, self.chunks)]
 
-                result_lists = ParallelTools.process_wrapper(parallel_args, self.uniprot_annotation)
+                result_lists = ParallelTools.parallel_wrapper(parallel_args, self.uniprot_annotation)
                 # combine results
                 result_list = [result for sub_list in result_lists for result in sub_list]   
 

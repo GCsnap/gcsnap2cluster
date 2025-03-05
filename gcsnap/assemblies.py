@@ -54,7 +54,7 @@ class Assemblies:
         # get necessary configuration arguments        
         self.n_flanking5 = config.arguments['n_flanking5']['value']  
         self.n_flanking3 = config.arguments['n_flanking3']['value']
-        self.chunks = (config.arguments['n_nodes']['value'] * config.arguments['n_ranks_per_node']['value']) - 1        
+        self.chunks = (config.arguments['n_nodes']['value'] * config.arguments['n_ranks_per_node']['value'])        
         self.exclude_partial = config.arguments['exclude_partial']['value']
         self.database_path = os.path.join(config.arguments['data_path']['value'],'db') 
         self.data_path = os.path.join(config.arguments['data_path']['value']) 
@@ -87,7 +87,7 @@ class Assemblies:
         parallel_args = split_list_chunks(self.targets_and_ncbi_codes, self.chunks)
 
         with self.console.status('Download assemblies and extract flanking genes'):
-            dict_list = ParallelTools.parallel_wrapper(parallel_args, self.run_each)
+            dict_list = ParallelTools.parallel_wrapper(parallel_args, self.run_each_assemblies)
             # # uncomment this to exctract a list of needed assembly files to run evaluation. Those were added to the sequences.db
             # return dict_list
         
@@ -117,7 +117,7 @@ class Assemblies:
             msg = 'No flanking genes found for any target sequence. Continuing is not possible.'
             self.console.stop_execution(msg = msg)
 
-    def run_each(self, args: list[tuple[str,str]]) -> dict[str, dict]:
+    def run_each_assemblies(self, args: list[tuple[str,str]]) -> dict[str, dict]:
         """
         Called in parallel and is doing:
             - Get assembly accessions from database.
