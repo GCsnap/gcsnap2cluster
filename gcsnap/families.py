@@ -42,7 +42,8 @@ class Families:
         self.out_dir = os.path.join(os.getcwd(), f'{out_label}_all_against_all_searches')     
         self.gc = gc
         self.syntenies = gc.get_syntenies()
-        self.chunks = (config.arguments['n_nodes']['value'] * config.arguments['n_ranks_per_node']['value'])
+        # -1 as master rank 0 does not compute
+        self.chunks = (config.arguments['n_nodes']['value'] * config.arguments['n_ranks_per_node']['value']) - 1
         self.families_adapted = {}
 
         self.console = RichConsole()
