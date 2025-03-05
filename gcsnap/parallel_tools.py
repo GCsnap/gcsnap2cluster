@@ -78,16 +78,14 @@ class ParallelTools:
         Returns:
             list: A list of results from the function applied to the arguments in the order they finish.
         """            
-        # build parallel args including func and length of parallel_args list
-        parallel_args_2 = [(func, arg, len(parallel_args)) for arg in parallel_args]
-
         # Same as with ProcessPoolExecutor from cuncurrent.futures
         # https://mpi4py.readthedocs.io/en/stable/mpi4py.futures.html#parallel-tasks
         # with MPIPoolExecutor(max_workers = workers) as executor:
         with MPIPoolExecutor(max_workers = self.workers) as executor:        
-            # get numbers of worker
-            #print('Number of workers given: {}'.format(executor.num_workers))
-            #print('Number of workers asked: {}'.format(workers))
+
+            # build parallel args including func and length of parallel_args list
+            parallel_args_2 = [(func, arg, len(parallel_args), executor.num_workers) for arg in parallel_args]
+
             # futures = [executor.submit(func, arg) for arg in parallel_args]
             futures = [executor.submit(self.timed_func, arg) for arg in parallel_args_2]
             result_list = [future.result() for future in as_completed(futures)]
@@ -109,7 +107,7 @@ class ParallelTools:
         timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 
         # execute function
-        func, arg, all_len = args
+        func, arg, all_len, workers = args
         startstamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
         start_t = time.time()
         result = func(arg)
@@ -122,7 +120,7 @@ class ParallelTools:
         type_args = []
         for e in arg:
             type_args.append(type(e))
-            if type(e) == str:
+            if type(e) == str or type(e) == bool:
                 size_args.append(1)
             else:
                 size_args.append(len(e))
@@ -159,6 +157,7 @@ class ParallelTools:
         # strings to write
         func_s = f'Func: {func_name}'
         all_len_s = f'Len: {all_len}'
+        workers_s = f'Workers: {workers}'
         rank_s = f'Rank: {rank}'
         pid_s = f'PID: {os.getpid()}'
         start_s = f'Start: {startstamp}'
@@ -167,7 +166,7 @@ class ParallelTools:
 
         # write to file
         with open(os.path.join(log_path,log_file), 'a') as f:
-            f.write(f'{timestamp}, {func_s}, {all_len_s}, {rank_s}, {pid_s}, {args_s}, {start_s}, {end_s}, {dur_s}\n')
+            f.write(f'{timestamp}, {func_s}, {all_len_s}, {workers_s}, {rank_s}, {pid_s}, {args_s}, {start_s}, {end_s}, {dur_s}\n')
 
         # return result and time
         return result
