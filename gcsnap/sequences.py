@@ -46,7 +46,7 @@ class Sequences:
         self.config = config
         # get necessary configuration arguments        
         self.database_path = os.path.join(config.arguments['data_path']['value'],'db') 
-        self.chunks = (config.arguments['n_nodes']['value'] * config.arguments['n_ranks_per_node']['value']) - 1
+        self.chunks = (config.arguments['n_nodes']['value'] * config.arguments['n_ranks_per_node']['value'])
         self.gc = gc
 
         self.console = RichConsole()

@@ -47,7 +47,7 @@ class Taxonomy:
         # get necessary configuration arguments      
         self.config = config
         self.gc = gc             
-        self.chunks = (config.arguments['n_nodes']['value'] * config.arguments['n_ranks_per_node']['value']) - 1
+        self.chunks = (config.arguments['n_nodes']['value'] * config.arguments['n_ranks_per_node']['value'])
         self.database_path = os.path.join(config.arguments['data_path']['value'],'db') 
 
         if config.arguments['get_taxonomy']['value']:

@@ -46,7 +46,7 @@ class TMsegments:
             out_label (str): The label of the output.
         """        
         self.config = config
-        self.chunks = (config.arguments['n_nodes']['value'] * config.arguments['n_ranks_per_node']['value']) - 1        
+        self.chunks = (config.arguments['n_nodes']['value'] * config.arguments['n_ranks_per_node']['value'])       
         self.annotate_TM = config.arguments['annotate_TM']['value']
         self.annotate_mode = config.arguments['annotation_TM_mode']['value']
         self.annotate_file = config.arguments['annotation_TM_file']['value']
