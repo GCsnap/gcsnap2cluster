@@ -10,6 +10,7 @@ from gcsnap.rich_console import RichConsole
 import time
 from datetime import datetime
 import os
+import inspect
 
 class ParallelTools:
 
@@ -77,8 +78,8 @@ class ParallelTools:
         Returns:
             list: A list of results from the function applied to the arguments in the order they finish.
         """            
-        # build parallel args including func
-        parallel_args_2 = [(func, arg) for arg in parallel_args]
+        # build parallel args including func and length of parallel_args list
+        parallel_args_2 = [(func, arg, len(parallel_args)) for arg in parallel_args]
 
         # Same as with ProcessPoolExecutor from cuncurrent.futures
         # https://mpi4py.readthedocs.io/en/stable/mpi4py.futures.html#parallel-tasks
@@ -95,18 +96,40 @@ class ParallelTools:
     
     # helper function to time func
     def timed_func(self, args):
-        func, arg = args
+        """
+        Function to collect MPI rank information and write timing information to a log file.
+
+        Args:
+            args (tuple): A tuple containing the function, the arguments, and the length of the arguments list.
+
+        Returns:
+            list: The result of the function applied to the arguments.
+        """
+        # Get timestamp maily for sorting the output
+        timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+
+        # execute function
+        func, arg, all_len = args
         startstamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
         start_t = time.time()
         result = func(arg)
         end_t = time.time()
         endstamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 
+        # create arg lenght summary
+        num_args = len(arg)
+        size_args = []
+        type_args = []
+        for e in arg:
+            type_args.append(type(e))
+            if type(e) == str:
+                size_args.append(1)
+            else:
+                size_args.append(len(e))
+        args_s = f'Num Args: {num_args}, Type Args: {type_args}, Size Args: {size_args}'
+
         # duration
         dur_t = end_t - start_t
-
-        # Get timestamp
-        timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 
         # Identify function name
         if hasattr(func, '__name__'):  # Regular function
@@ -128,12 +151,23 @@ class ParallelTools:
             rank = os.getpid()  # Fallback to process ID
 
         # path hard coded
-        log_path = '/users/stud/k/kruret00/PASC25/experiments/profiling/rank_results/'
+        log_path = '/users/stud/k/kruret00/PASC25/experiments_deliver/MPIprofiling/rank_results'
 
         # Log timing information (append to the same file per worker)
         log_file = f'func_{func_name}_mpi_worker_{rank}.log'
+
+        # strings to write
+        func_s = f'Func: {func_name}'
+        all_len_s = f'Len: {all_len}'
+        rank_s = f'Rank: {rank}'
+        pid_s = f'PID: {os.getpid()}'
+        start_s = f'Start: {startstamp}'
+        end_s = f'End: {endstamp}'
+        dur_s = f'Duration: {dur_t:.6f}'
+
+        # write to file
         with open(os.path.join(log_path,log_file), 'a') as f:
-            f.write(f'{timestamp}, Func: {func_name}, Rank: {rank}, PID: {os.getpid()}, Start: {startstamp}, End: {endstamp}, Duration: {dur_t:.6f}\n')
+            f.write(f'{timestamp}, {func_s}, {all_len_s}, {rank_s}, {pid_s}, {args_s}, {start_s}, {end_s}, {dur_s}\n')
 
         # return result and time
         return result
