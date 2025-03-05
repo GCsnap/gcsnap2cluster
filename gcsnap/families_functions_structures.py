@@ -88,10 +88,11 @@ class FamiliesFunctionsStructures:
             mapping = SequenceMapping(self.config, all_members, 'for functional annotation')
             mapping.run()
             mapping_dict = mapping.get_target_to_result_dict('UniProtKB_AC')
-
-            # create parallel args with 4 items
-            parallel_args = [({k: v}, mapping_dict, self.get_pdb, self.get_annotation)
-                             for k,v in self.families.items()]
+            
+            # create parallel args 
+            families_chunks = split_dict_chunks(self.families, self.chunks) 
+            parallel_args = [(sub_dict, mapping_dict, self.get_pdb, self.get_annotation)
+                             for sub_dict in families_chunks]
 
             with self.console.status('Get functional annotations and structures'):
                 result_list = ParallelTools.parallel_wrapper(parallel_args, self.run_each)
