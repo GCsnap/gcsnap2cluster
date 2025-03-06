@@ -104,15 +104,15 @@ class ParallelTools:
             list: The result of the function applied to the arguments.
         """
         # Get timestamp maily for sorting the output
-        timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+        timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S,%f")
 
         # execute function
         func, arg, all_len, workers = args
-        startstamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+        startstamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S,%f")
         start_t = time.time()
         result = func(arg)
         end_t = time.time()
-        endstamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+        endstamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S,%f")
 
         # create arg lenght summary
         num_args = len(arg)
