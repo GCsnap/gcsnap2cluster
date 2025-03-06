@@ -77,6 +77,24 @@ class SequenceMapping:
             # add target column
             self.finalize()
 
+    def run_fam(self):
+        """
+        Run the mapping of target sequences to the specified id standard used for profiling for family function annotation
+            - Create the UniProt dictionary with the target sequences.
+            - Create the parallel input for the mapping.
+            - Run the mapping.
+            - Finalize the mapping.
+        Uses parallel processing with the parallel_wrapper from ParallelTools. 
+        """        
+        with self.console.status('Mapping {}'.format(self.msg)):
+            self.create_uniprot_dbs_with_targets()
+            parallel_args = self.create_parallel_input()
+            mapping_df_list = ParallelTools.parallel_wrapper(parallel_args, self.do_mapping_fam)
+            # concatenate all mapping dfs to one
+            self.mapping_df = pd.concat(mapping_df_list, ignore_index=True)
+            # add target column
+            self.finalize()            
+
     def finalize(self): 
         """
         Finalize the mapping of target sequences to the specified database:
@@ -201,6 +219,27 @@ class SequenceMapping:
         """
         Do the mapping of target sequences to the specified database used
         in the parallel processing:
+            - Get mapping from DB
+            - Make the mapping DataFrame unique.         
+
+        Args:
+            arg (tuple[list,str]): The tuple with the arguments.
+                First element is the list of IDs to map.
+                Second element is the field in the mapping database to query.
+
+        Returns:
+            pd.DataFrame: The DataFrame with the unique mapping results.
+        """ 
+        ids, field = arg
+        mapping_df = self.query_mapping_db(ids, field) 
+        unique_mapping_df = self.make_unique(mapping_df, [field])
+        
+        return unique_mapping_df
+    
+    def do_mapping_fam(self, arg: tuple[list,str]) -> pd.DataFrame:
+        """
+        Do the mapping of target sequences to the specified database used
+        in the parallel processing for functional annotation to profile
             - Get mapping from DB
             - Make the mapping DataFrame unique.         
 
