@@ -149,10 +149,10 @@ class ParallelTools:
             rank = os.getpid()  # Fallback to process ID
 
         # path hard coded
-        log_path = '/users/stud/k/kruret00/PASC25/experiments_deliver/MPIprofiling/rank_results'
+        log_path = '/users/stud/k/kruret00/PASC25/experiments_deliver/MPIprofiling/tmp_rank_results'
 
         # Log timing information (append to the same file per worker)
-        log_file = f'func_{func_name}_mpi_worker_{rank}.log'
+        log_file = f'func-{func_name}-mpi_worker_{rank}.log'
 
         # strings to write
         func_s = f'Func: {func_name}'
