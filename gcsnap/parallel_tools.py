@@ -154,6 +154,13 @@ class ParallelTools:
         # Log timing information (append to the same file per worker)
         log_file = f'func-{func_name}-mpi_worker_{rank}.log'
 
+        # Check if the file already exists, and add an increasing number if necessary
+        counter = 1
+        while os.path.exists(os.path.join(log_path,log_file)):
+            log_file = os.path.join(log_path, f'func-{func_name}_{counter}-mpi_worker_{rank}.log')
+            counter += 1
+
+
         # strings to write
         func_s = f'Func: {func_name}'
         all_len_s = f'Len: {all_len}'
